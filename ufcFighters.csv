@@ -1,0 +1,2578 @@
+fighter_id,name,weightclass,wins,losses,draws,currentElo,highestElo
+1,"Royce Gracie","Open Weight",8,1,1,1743.56,1762.91
+2,"Patrick Smith","Open Weight",4,1,0,1648.09,1648.09
+3,"Remco Pardoel","Open Weight",3,2,0,1593.23,1593.23
+4,"Johnny Rhodes","Open Weight",2,1,0,1573.17,1573.17
+5,"Jason DeLucia","Open Weight",1,2,0,1506.74,1534.19
+6,"Orlando Wiet","Open Weight",1,1,0,1527.27,1527.27
+7,"Fred Ettish","Open Weight",0,1,0,1473.08,1500
+8,"Scott Morris","Open Weight",1,1,0,1530.35,1530.35
+9,"Minoki Ichihara","Open Weight",0,1,0,1483.93,1500
+10,"Scott Baker","Open Weight",0,1,0,1473.67,1500
+11,"Alberta Cerra Leon","Open Weight",0,1,0,1477.27,1500
+12,"Robert Lucarelli","Open Weight",0,1,0,1473.09,1500
+13,"Frank Hamaker","Open Weight",1,0,0,1550,1550
+14,"Thaddeus Luster","Open Weight",0,1,0,1475,1500
+15,"David Levicki","Open Weight",0,1,0,1476.94,1500
+16,"Ray Wizard","Open Weight",0,1,0,1480.28,1500
+17,"Sean Daugherty","Open Weight",0,1,0,1473.35,1500
+18,"Steve Jennum","Open Weight",2,1,0,1565.53,1592.85
+19,"Harold Howard","Open Weight",1,2,0,1499.77,1528.59
+20,"Ken Shamrock","Open Weight",6,5,2,1664.01,1718.14
+21,"Felix Lee Mitchell","Open Weight",0,3,0,1437.72,1500
+22,"Kimo Leopoldo","Open Weight",2,4,0,1560.78,1578.5
+23,"Roland Payne","Open Weight",0,1,0,1473.2,1500
+24,"Christophe Leninger","Open Weight",0,2,0,1463.81,1500
+25,"Keith Hackney","Open Weight",2,2,0,1558.25,1580.9
+26,"Emmanuel Yarborough","Open Weight",0,1,0,1475,1500
+27,"Dan Severn","Open Weight",9,4,0,1745.04,1808.35
+28,"Marcus Bossett","Open Weight",1,2,0,1502.92,1527.82
+29,"Anthony Macias","Open Weight",1,2,0,1515.73,1515.73
+30,"Melton Bowen","Open Weight",0,1,0,1478.57,1500
+31,"Joe Son","Open Weight",0,1,0,1477.59,1500
+32,"Ron van Clief","Open Weight",0,1,0,1490.11,1500
+33,"Guy Mezger","Open Weight",4,1,0,1630.41,1659.31
+34,"Jason Fairn","Open Weight",0,1,0,1475,1500
+35,"Eldo Xavier Dias","Open Weight",0,1,0,1473.14,1500
+36,"Joe Charles","Open Weight",2,2,0,1563.43,1584.87
+37,"Kevin Rosier","Open Weight",0,1,0,1475,1500
+38,"Dave Beneteau","Open Weight",3,3,0,1584.64,1584.64
+39,"Oleg Taktarov","Open Weight",6,2,1,1718.35,1718.35
+40,"Todd Medina","Open Weight",1,1,0,1527.42,1527.42
+41,"Ernie Verdicia","Open Weight",0,1,0,1473.81,1500
+42,"Larry Cureton","Open Weight",0,2,0,1457.31,1500
+43,"Jon Hess","Open Weight",1,0,0,1550,1550
+44,"Andy Anderson","Open Weight",0,1,0,1475,1500
+45,"John Dowdy","Open Weight",0,1,0,1478.57,1500
+46,"Asbel Cancio","Open Weight",0,1,0,1477.41,1500
+47,"David Abbott","Open Weight",8,10,0,1556.68,1685.17
+48,"Paul Varelans","Open Weight",4,4,0,1582.16,1617.01
+49,"Rudyard Moncayo","Open Weight",0,1,0,1482.92,1500
+50,"Cal Worsham","Open Weight",1,2,0,1510.52,1526.95
+51,"John Matua","Open Weight",0,1,0,1477.21,1500
+52,"He-Man Gipson","Open Weight",0,1,0,1472.13,1500
+53,"Joel Sutton","Open Weight",2,0,0,1592.85,1592.85
+54,"Jack McGlaughlin","Open Weight",0,1,0,1475,1500
+55,"Marco Ruas","Open Weight",4,2,0,1628.72,1658.93
+56,"Mark Hall","Open Weight",4,3,0,1612.58,1616.94
+57,"Ryan Parker","Open Weight",0,1,0,1478.6,1500
+58,"Gerry Harris","Open Weight",0,1,0,1478.59,1500
+59,"Scott Bessac","Open Weight",1,1,0,1523.73,1550
+60,"David Hood","Open Weight",0,1,0,1475,1500
+61,"Onassis Parungao","Open Weight",1,0,0,1550,1550
+62,"Francesco Maturi","Open Weight",0,1,0,1475,1500
+63,"Geza Kalman","Open Weight",1,1,0,1531.65,1531.65
+64,"Trent Jenkins","Open Weight",0,1,0,1477.34,1500
+65,"Don Frye","Open Weight",9,1,0,1795.87,1795.87
+66,"Gary Goodridge","Open Weight",4,4,0,1604.98,1604.98
+67,"Jerry Bohlander","Open Weight",5,2,0,1649.79,1685.01
+68,"Sam Adkins","Open Weight",2,2,0,1549.06,1573.57
+69,"Paul Herrera","Open Weight",0,1,0,1477.05,1500
+70,"Scott Ferrozzo","Open Weight",3,2,0,1597.39,1597.39
+71,"Joe Moreira","Open Weight",1,1,0,1533.32,1533.32
+72,"Thomas Ramirez","Open Weight",0,1,0,1481.53,1500
+73,"Keith Mielke","Open Weight",0,1,0,1473.46,1500
+74,"Amaury Bitetti","Open Weight",1,1,0,1536.24,1536.24
+75,"Koji Kitao","Open Weight",0,1,0,1480.52,1500
+76,"Mark Schultz","Open Weight",1,0,0,1560.56,1560.56
+77,"Rafael Carino","Open Weight",1,0,0,1550,1550
+78,"Matt Andersen","Open Weight",0,1,0,1475,1500
+79,"Zane Frazier","Open Weight",0,1,0,1473.07,1500
+80,"Steve Nelmark","Open Weight",2,1,0,1579.04,1579.04
+81,"Tai Bowden","Open Weight",1,1,0,1528.59,1528.59
+82,"Mark Coleman","Open Weight",7,5,0,1662.57,1774.67
+83,"Brian Johnston","Open Weight",2,4,0,1518.03,1566.31
+84,"John Campetella","Open Weight",0,1,0,1476.52,1500
+85,"Moti Horenstein","Open Weight",0,2,0,1462.92,1500
+86,"Scott Fiedler","Open Weight",0,1,0,1473.83,1500
+87,"Dieusel Berto","Open Weight",0,1,0,1473.46,1500
+88,"Fabio Gurgel","Open Weight",0,1,0,1476.94,1500
+89,"Reza Nasri","Open Weight",0,1,0,1476.37,1500
+90,"Julian Sanchez","Open Weight",0,1,0,1487.21,1500
+91,"Roberto Traven","Open Weight",1,1,0,1521.43,1550
+92,"Dave Berry","Open Weight",0,1,0,1475,1500
+93,"Sam Fulton","Open Weight",0,2,0,1454.62,1500
+94,"Jack Nilson","Open Weight",1,1,0,1527.05,1527.05
+95,"Vitor Belfort",Heavyweight,16,10,0,1921.54,1952.51
+96,"Nick Sanzo",Lightweight,1,1,0,1533.04,1533.04
+97,"Tra Telligman",Heavyweight,1,4,0,1484.26,1532.39
+98,"Jim Mullen",Heavyweight,0,1,0,1478.94,1500
+99,"Yoshiki Takahashi",Lightweight,1,0,0,1550,1550
+100,"Wallid Ismail",Lightweight,0,1,0,1475,1500
+101,"Rainy Martinez",Lightweight,0,1,0,1482.84,1500
+102,"Justin Martin",Heavyweight,1,0,0,1550,1550
+103,"Eric Martin",Heavyweight,0,1,0,1475,1500
+104,"Jackie Lee",Lightweight,0,1,0,1473.58,1500
+105,"Randy Couture",Heavyweight,16,8,0,1870.26,1918.77
+106,"Steven Graham",Heavyweight,1,1,0,1528.59,1528.59
+107,"Tito Ortiz",Lightweight,15,11,1,1749.69,1913.13
+108,"Tony Halme",Heavyweight,0,1,0,1478.57,1500
+109,"Dmitri Stepanov",Heavyweight,0,1,0,1473.2,1500
+110,"Enson Inoue",Lightweight,1,0,0,1550,1550
+111,"Royce Alger",Lightweight,0,2,0,1451.8,1500
+112,"Saeed Hosseini",Lightweight,0,1,0,1473.08,1500
+113,"Wes Albritton",Lightweight,0,1,0,1473.67,1500
+114,"Maurice Smith",Heavyweight,4,3,0,1639.34,1676.02
+115,"Mark Kerr",Heavyweight,4,0,0,1660.16,1660.16
+116,"Dan Bobish",Heavyweight,1,1,0,1535.38,1535.38
+117,"Kevin Jackson",Lightweight,2,2,0,1542.37,1592.85
+118,"Tony Fryklund",Lightweight,2,2,0,1547.04,1574.48
+119,"Todd Butler",Lightweight,0,1,0,1478.57,1500
+120,"Yuri Vaulin",Lightweight,0,1,0,1473.6,1500
+121,"Alex Hunter",Heavyweight,2,0,0,1590.14,1590.14
+122,"Donnie Chappell",Lightweight,0,1,0,1473.2,1500
+123,"Dwayne Cason",Heavyweight,1,1,0,1534.05,1534.05
+124,"Carlos Barreto",Heavyweight,0,1,0,1477.9,1500
+125,"Greg Stott",Heavyweight,0,1,0,1483.8,1500
+126,"Houston Dorr",Heavyweight,0,1,0,1473.66,1500
+127,"Harry Moskowitz",Heavyweight,0,2,0,1454.91,1500
+128,"Kazushi Sakuraba",Heavyweight,2,0,0,1589.37,1589.37
+129,"Marcus Silveira",Heavyweight,0,2,0,1455.31,1500
+130,"Frank Shamrock",Lightweight,5,0,0,1719.3,1719.3
+131,"Yoji Anjo",Heavyweight,0,3,0,1437.59,1500
+132,"Brad Kohler",Heavyweight,1,1,0,1527.32,1527.32
+133,"Igor Zinoviev",Middleweight,0,1,0,1479.49,1500
+134,"Tsuyoshi Kohsaka",Heavyweight,3,3,0,1573.83,1615.87
+135,"Pat Miletich",Lightweight,8,2,0,1717.96,1752.1
+136,"Chris Brennan",Lightweight,1,2,0,1500,1528.59
+137,"Townsend Saunders",Lightweight,0,2,0,1457.11,1500
+138,"Mikey Burnett",Lightweight,2,1,0,1570.99,1570.99
+139,"Eugenio Tadeu",Lightweight,0,1,0,1475,1500
+140,"Courtney Turner",Lightweight,0,1,0,1473.2,1500
+141,"Laverne Clark",Lightweight,4,1,0,1623.74,1661.94
+142,"Josh Stuart",Lightweight,0,1,0,1475,1500
+143,"Jeremy Horn",Middleweight,6,7,0,1601.96,1688.97
+144,"Pete Williams",Heavyweight,3,5,0,1518.6,1631.75
+145,"Dan Henderson",Middleweight,9,9,0,1804.83,1817.42
+146,"Carlos Newton",Middleweight,3,4,0,1574.84,1607.33
+147,"Hugo Duarte",Heavyweight,0,1,0,1485.54,1500
+148,"Mike van Arsdale",Heavyweight,2,2,0,1563.78,1592.85
+149,"Joe Pardo",Heavyweight,0,1,0,1475,1500
+150,"Bob Gilstrap",Middleweight,0,1,0,1473.2,1500
+151,"Allan Goes",Middleweight,0,1,0,1478.57,1500
+152,"Andre Roberts",Heavyweight,2,1,0,1576.51,1576.51
+153,"Chuck Liddell",Middleweight,16,7,0,1827.54,2017.44
+154,"Noe Hernandez",Middleweight,0,1,0,1475,1500
+155,"John Lober",Middleweight,0,1,0,1484.53,1500
+156,"Wanderlei Silva",Middleweight,5,7,0,1699.02,1699.02
+157,"Pedro Rizzo",Heavyweight,9,5,0,1753.91,1771.63
+158,"Ebenezer Fontes Braga",Middleweight,1,0,0,1547.45,1547.45
+159,"Tulio Palhares",Middleweight,1,0,0,1550,1550
+160,"Adriano Santos",Middleweight,0,1,0,1475,1500
+161,"Cesar Marscucci",Lightweight,1,0,0,1550,1550
+162,"Paulo Santos",Lightweight,0,1,0,1475,1500
+163,"Bas Rutten",Heavyweight,2,0,0,1615.41,1615.41
+164,"Jorge Patino",Lightweight,0,1,0,1484.36,1500
+165,"Evan Tanner",Middleweight,11,6,0,1691.54,1799.18
+166,"Darrel Gholar",Middleweight,0,1,0,1475,1500
+167,"Frank Caracci",Lightweight,0,1,0,1478.57,1500
+168,"Kevin Randleman",Heavyweight,4,3,0,1663.41,1669.8
+169,"Valeri Ignatov",Middleweight,0,2,0,1455.11,1500
+170,"Jason Godsey",Heavyweight,0,2,0,1460.07,1500
+171,"Sione Latu",Heavyweight,1,0,0,1550,1550
+172,"Joey Roberts",Heavyweight,0,1,0,1475,1500
+173,"Travis Fulton",Heavyweight,1,1,0,1534.31,1534.31
+174,"Tony Petarra",Middleweight,0,1,0,1474.05,1500
+175,"Marcelo Mello",Lightweight,1,0,0,1550,1550
+176,"David Roberts",Lightweight,0,1,0,1475,1500
+177,"Fabiano Iha",Lightweight,3,4,0,1547.01,1612.9
+178,"Ron Waterman",Heavyweight,2,1,1,1569.72,1569.72
+179,"Chris Condo",Heavyweight,0,1,0,1475,1500
+180,"Andre Pederneiras",Lightweight,0,1,0,1486.23,1500
+181,"Daiju Takase",Middleweight,0,3,0,1437.24,1500
+182,"Paul Jones",Middleweight,1,1,0,1522.74,1550
+183,"Flavio Luiz Moura",Middleweight,0,1,0,1475,1500
+184,"Tim Lajcik",Heavyweight,0,2,1,1456.84,1500
+185,"Eugene Jackson",Middleweight,3,4,0,1527.52,1589.77
+186,"David Dodd",Heavyweight,0,2,0,1450.57,1500
+187,"Steve Judson",Heavyweight,0,2,0,1450.03,1500
+188,"Matt Hughes",Lightweight,18,7,0,1841.44,1910.34
+189,"John Lewis",Middleweight,1,1,0,1528.07,1550
+190,"Lowell Anderson",Middleweight,0,1,0,1475,1500
+191,"Jens Pulver",Lightweight,6,2,1,1679.21,1743.87
+192,"Alfonso Alcarez",Lightweight,0,0,1,1500,1500
+193,"Kenichi Yamamoto","Open Weight",2,1,0,1573.55,1589.58
+194,"Katsuhisa Fujii","Open Weight",1,1,0,1528.59,1528.59
+195,"Joe Slick",Middleweight,1,1,0,1525.98,1554.9
+196,"Keiichiro Yamamiya",Middleweight,0,1,0,1478.32,1500
+197,"Masutatsu Yano","Open Weight",0,1,0,1473.2,1500
+198,"Tedd Williams",Heavyweight,1,1,0,1519.88,1546.14
+199,"Lance Gibson",Middleweight,1,1,0,1528.07,1550
+200,"Jermaine Andre",Middleweight,0,1,0,1475,1500
+201,"Dave Menne",Lightweight,2,4,0,1493.84,1590.57
+202,"Bob Cook",Lightweight,1,0,0,1550,1550
+203,"Tiki Ghosn",Lightweight,0,4,0,1412.58,1500
+204,"David Velasquez",Lightweight,0,1,0,1475,1500
+205,"Scott Adams",Heavyweight,1,0,0,1550,1550
+206,"Ian Freeman",Heavyweight,3,2,1,1600.92,1634.55
+207,"Shonie Carter",Lightweight,3,3,0,1553.04,1629.8
+208,"Brad Gumm",Lightweight,0,1,1,1475,1500
+209,"Murilo Bustamante",Middleweight,3,1,0,1654.96,1654.96
+210,"Sanae Kikuta",Middleweight,1,0,0,1562.64,1562.64
+211,"Satoshi Honma",Heavyweight,0,1,0,1476.65,1500
+212,"Ikuhisa Minowa",Middleweight,1,0,0,1557.84,1557.84
+213,"Koji Oishi",Lightweight,0,2,0,1468.13,1500
+214,"Tyrone Roberts",Middleweight,1,0,0,1546.22,1546.22
+215,"John Alessio",Welterweight,0,5,0,1424.2,1500
+216,"Alex Andrade",Middleweight,0,1,0,1473.84,1500
+217,"Marcelo Aguiar",Welterweight,0,1,0,1478.36,1500
+218,"Joao Roque",Lightweight,0,1,0,1478.57,1500
+219,"Nate Schroeder",Heavyweight,0,1,0,1473.2,1500
+220,"Adrian Serrano",Welterweight,0,1,0,1478.57,1500
+221,"Bobby Hoffman",Heavyweight,1,2,0,1515.98,1537.09
+222,"Yuki Kondo",Middleweight,1,2,0,1506.16,1550
+223,"Alexandre Dantas",Middleweight,0,2,0,1455.85,1500
+224,"Jeff Monson",Heavyweight,4,3,0,1638.78,1653.84
+225,"CJ Fernandes",Welterweight,0,0,1,1500,1500
+226,"Renato Sobral",Heavyweight,6,4,0,1692.32,1694.53
+227,"Josh Barnett","Super Heavyweight",7,3,0,1824.15,1824.15
+228,"Gan McGee","Super Heavyweight",2,2,0,1573.27,1596.08
+229,"Andrei Arlovski",Heavyweight,24,18,0,1712.35,1938.99
+230,"Aaron Brink",Heavyweight,0,1,0,1475,1500
+231,"Mark Hughes",Middleweight,1,0,0,1550,1550
+232,"Alex Stiebling",Middleweight,0,1,0,1475,1500
+233,"Ben Earwood",Welterweight,1,0,0,1550,1550
+234,"Chris Lytle",Welterweight,10,10,0,1769.72,1769.72
+235,"Matt Lindland",Middleweight,9,3,0,1748.2,1748.2
+236,"Dennis Hallman",Welterweight,4,5,0,1650.26,1650.26
+237,"Caol Uno",Lightweight,3,5,2,1554.43,1617.74
+238,"Phil Johns",Welterweight,0,1,0,1480.2,1500
+239,"Elvis Sinosic",Middleweight,1,6,0,1457.66,1570.21
+240,"Mark Robinson",Heavyweight,0,1,0,1473.92,1500
+241,"Phil Baroni",Middleweight,3,7,0,1487.67,1620.53
+242,"Curtis Stout",Middleweight,0,2,0,1451.8,1500
+243,"Sean Sherk",Welterweight,8,4,0,1789.5,1789.5
+244,"Matt Serra",Welterweight,7,7,0,1686.86,1711.35
+245,"Semmy Schilt",Heavyweight,1,1,0,1537.18,1564.06
+246,"Ricardo Almeida","Light Heavyweight",6,5,0,1688.51,1719.86
+247,"BJ Penn",Lightweight,12,13,2,1703.4,1925.39
+248,"Joey Gilbert",Lightweight,0,1,0,1475,1500
+249,"Tony DeSouza",Welterweight,3,3,0,1548.94,1602.59
+250,"Steve Berger",Welterweight,0,3,0,1433.68,1500
+251,"Din Thomas",Lightweight,5,4,0,1622.82,1682.04
+252,"Vladimir Matyushenko","Light Heavyweight",7,5,0,1691.77,1740.33
+253,"Ricco Rodriguez",Heavyweight,5,2,0,1690.99,1755.37
+254,"Paul Rodriguez",Welterweight,0,1,0,1478.57,1500
+255,"Yves Edwards",Welterweight,11,10,0,1607.46,1723.01
+256,"Gil Castillo",Middleweight,1,2,0,1520.97,1535.56
+257,"Jutaro Nakao",Welterweight,1,1,0,1536.85,1563.05
+258,"Homer Moore","Light Heavyweight",0,1,0,1483.1,1500
+259,"Frank Mir",Heavyweight,16,11,0,1740.38,1851.29
+260,"Amar Suloev","Light Heavyweight",0,2,0,1466.12,1500
+261,"Andrei Semenov",Middleweight,1,1,0,1526.3,1555.24
+262,"Keith Rockel",Middleweight,1,1,0,1529.06,1529.06
+263,"Hayato Sakurai",Welterweight,0,1,0,1483.03,1500
+264,"Kelly Dullanty",Lightweight,0,1,0,1477.45,1500
+265,"Paul Creighton",Lightweight,0,1,0,1483.1,1500
+266,"Ivan Salaverry",Middleweight,3,4,0,1543.25,1638.83
+267,"Benji Radach",Welterweight,2,1,0,1565.42,1589.77
+268,"Robbie Lawler",Welterweight,15,10,0,1918.79,2025.67
+269,"Aaron Riley",Welterweight,3,6,0,1523.46,1577.24
+270,"Nick Serra",Welterweight,0,1,0,1478.32,1500
+271,"Pete Spratt",Welterweight,3,4,0,1543.02,1598.71
+272,"Zach Light",Welterweight,0,1,0,1475,1500
+273,"Rodrigo Ruas",Middleweight,0,1,0,1477.05,1500
+274,"Joao Pierini",Lightweight,0,1,0,1471.62,1500
+275,"Mark Weir",Middleweight,1,2,0,1505.16,1558.07
+276,"Genki Sudo",Lightweight,2,1,0,1568.35,1568.35
+277,"Leigh Remedios",Lightweight,0,1,0,1475,1500
+278,"Phillip Miller","Light Heavyweight",2,0,0,1601.16,1601.16
+279,"James Zikic","Light Heavyweight",0,1,0,1475,1500
+280,"Chris Haseman","Light Heavyweight",0,1,0,1487.31,1500
+281,"Tim Sylvia",Heavyweight,9,4,0,1799.01,1840.97
+282,"Wesley Correira",Heavyweight,2,2,0,1565.38,1586.74
+283,"Travis Wiuff",Heavyweight,0,2,0,1460.68,1500
+284,"Rich Clementi",Lightweight,5,5,0,1623.59,1678.21
+285,"Dave Strasser",Welterweight,1,1,0,1521.43,1550
+286,"Romie Aram",Welterweight,0,1,0,1475,1500
+287,"Sean Alvarez",Heavyweight,0,1,0,1473.2,1500
+288,"Rich Franklin","Light Heavyweight",14,6,0,1819.94,1868.37
+289,"Duane Ludwig",Lightweight,4,5,0,1583.56,1665.38
+290,"Hermes Franca",Lightweight,6,5,0,1651.29,1686.62
+291,"Richard Crunkilton",Lightweight,0,1,0,1475,1500
+292,"David Loiseau",Middleweight,4,5,0,1576.37,1682.93
+293,"Marvin Eastman","Light Heavyweight",1,4,0,1485.54,1507.16
+294,"Vernon White",Heavyweight,0,1,1,1493.48,1500
+295,"Wes Sims",Heavyweight,0,3,0,1448.66,1500
+296,"Eddie Ruiz",Lightweight,0,1,0,1479.14,1500
+297,"Falaniko Vitale",Middleweight,1,1,0,1563.2,1579.9
+298,"Jorge Rivera",Middleweight,8,7,0,1697.48,1724.91
+299,"Edwin DeWees","Light Heavyweight",0,3,0,1443.44,1500
+300,"Karo Parisyan",Welterweight,9,4,0,1742.84,1783.63
+301,"Josh Thomson",Lightweight,3,4,0,1620.15,1667.56
+302,"Gerald Strebendt",Lightweight,0,1,0,1475,1500
+303,"Nick Diaz",Welterweight,7,8,0,1683.09,1732.89
+304,"Jeremy Jackson",Welterweight,0,2,0,1456.05,1500
+305,"Frank Trigg",Welterweight,2,5,0,1536.16,1599.03
+306,"Chris Liguori",Middleweight,0,1,0,1473.24,1500
+307,"Nick Agallar",Lightweight,0,1,0,1481.99,1500
+308,"Renato Verissimo",Welterweight,1,2,0,1526.69,1564.97
+309,"Lee Murray",Middleweight,1,0,0,1558.24,1558.24
+310,"Georges St-Pierre",Welterweight,20,2,0,2166.31,2166.31
+311,"Jeff Curran",Lightweight,0,3,0,1433.55,1500
+312,"Mike Kyle",Heavyweight,2,1,0,1565.09,1565.09
+313,"Jonathan Wiezorek",Heavyweight,1,0,0,1550,1550
+314,"Wade Shipp",Heavyweight,0,1,0,1475,1500
+315,"Mike Brown",Lightweight,2,4,0,1536.89,1554.41
+316,"Ivan Menjivar",Lightweight,4,5,0,1548.81,1638.47
+317,"Jay Hieron",Welterweight,0,4,0,1427.11,1500
+318,"Trevor Prangley",Middleweight,2,2,0,1539.16,1594.48
+319,"Joe Riggs",Middleweight,5,7,0,1597.54,1640.13
+320,"Joe Doerksen",Middleweight,2,7,0,1491.25,1527.4
+321,"David Terrell",Middleweight,2,1,0,1607.5,1607.5
+322,"Justin Eilers",Heavyweight,1,3,0,1492.92,1556.57
+323,"Ronald Jhun",Welterweight,0,1,0,1475.33,1500
+324,"Patrick Cote","Light Heavyweight",10,11,0,1761.89,1796.32
+325,"Travis Lutter","Light Heavyweight",2,4,0,1524.78,1550.08
+326,"Pete Sell",Middleweight,2,5,0,1515.85,1559.31
+327,"Paul Buentello",Heavyweight,3,3,0,1574.68,1622.99
+328,"James Irvin",Heavyweight,4,6,0,1558.64,1625.28
+329,"Gideon Ray",Middleweight,0,3,0,1433.7,1500
+330,"Drew Fickett",Welterweight,4,3,0,1621.05,1621.05
+331,"Forrest Griffin","Light Heavyweight",10,5,0,1853.32,1853.32
+332,"Stephan Bonnar","Light Heavyweight",8,7,0,1717.74,1724.02
+333,"Diego Sanchez",Middleweight,19,13,0,1790.04,1853.45
+334,"Kenny Florian",Middleweight,12,5,0,1809.39,1861.25
+335,"Sam Hoger","Light Heavyweight",2,3,0,1512.74,1566.86
+336,"Bobby Southworth","Light Heavyweight",0,1,0,1475,1500
+337,"Chris Leben",Middleweight,12,10,0,1621.96,1753.53
+338,"Jason Thacker",Middleweight,0,1,0,1475,1500
+339,"Josh Koscheck",Middleweight,15,10,0,1734.31,1912.81
+340,"Chris Sanford",Middleweight,0,1,0,1475,1500
+341,"Nate Quarry",Middleweight,7,3,0,1726.5,1758.3
+342,"Lodune Sincaid",Middleweight,0,1,0,1475,1500
+343,"Mike Swick",Middleweight,10,5,0,1728.84,1844.45
+344,"Alex Schoenauer",Middleweight,0,1,0,1475,1500
+345,"Alex Karalexis",Welterweight,1,2,0,1493.27,1550
+346,"Josh Rafferty",Welterweight,0,1,0,1475,1500
+347,"Jason Miller",Welterweight,0,3,0,1459.73,1500
+348,"John Marsh",Heavyweight,0,1,0,1478.57,1500
+349,"Bill Mahood","Light Heavyweight",0,1,0,1478.57,1500
+350,"Kevin Jordan",Heavyweight,0,2,0,1455.64,1500
+351,"Charles McCarthy",Middleweight,1,2,0,1510.98,1526.79
+352,"Nate Marquardt",Middleweight,13,12,0,1710.9,1830.14
+353,"Josh Neer",Welterweight,6,9,0,1590.88,1678.24
+354,"Brian Gassaway",Welterweight,0,1,0,1478.57,1500
+355,"Terry Martin","Light Heavyweight",2,4,0,1527.24,1582.81
+356,"Brandon Vera",Heavyweight,9,7,0,1696.05,1758.63
+357,"Fabiano Scherner",Heavyweight,0,2,0,1455.11,1500
+358,"Spencer Fisher",Welterweight,9,8,0,1623.3,1735.39
+359,"Thiago Alves",Welterweight,15,12,0,1725.52,1877.53
+360,"Jon Fitch",Middleweight,14,3,1,1875.19,1926.09
+361,"Brock Larson",Middleweight,3,3,0,1548.5,1613.92
+362,"Jonathan Goulet",Welterweight,4,5,0,1587.78,1619.24
+363,"Branden Lee Hinkle",Heavyweight,1,2,0,1501.57,1550
+364,"Sean Gannon",Heavyweight,0,1,0,1475,1500
+365,"Chael Sonnen","Light Heavyweight",7,7,0,1831.31,1850.21
+366,"Marcio Cruz",Heavyweight,2,2,0,1579.36,1625.09
+367,"Keigo Kunihara",Heavyweight,0,1,0,1475,1500
+368,"Alessio Sakara","Light Heavyweight",7,8,0,1586.75,1715.65
+369,"Ron Faircloth","Light Heavyweight",0,1,0,1475,1500
+370,"Rashad Evans",Heavyweight,14,8,1,1804.42,1974.5
+371,"Brad Imes",Heavyweight,0,3,0,1428.93,1500
+372,"Joe Stevenson",Welterweight,8,8,0,1641.57,1788.57
+373,"Luke Cummo",Welterweight,3,4,0,1535.14,1591.31
+374,"Kit Cope",Welterweight,0,1,0,1477.55,1500
+375,"Joshua Burkman",Welterweight,6,13,0,1503.3,1677.74
+376,"Sammy Morgan",Welterweight,0,2,0,1451.8,1500
+377,"Melvin Guillard",Welterweight,12,10,0,1701.24,1806.49
+378,"Marcus Davis",Welterweight,9,6,0,1685.4,1775.67
+379,"Keith Jardine",Heavyweight,6,7,0,1628.59,1729.06
+380,"Kerry Schall",Heavyweight,0,1,0,1475,1500
+381,"Gabriel Gonzaga",Heavyweight,12,10,0,1658.89,1745.55
+382,"Jeff Newton","Light Heavyweight",0,1,0,1476.42,1500
+383,"Ansar Chalangov",Welterweight,0,2,0,1455.35,1500
+384,"Nick Thompson",Welterweight,1,1,0,1534.06,1550
+385,"Keith Wisniewski",Welterweight,0,4,0,1415.42,1500
+386,"Assuerio Silva",Heavyweight,0,3,0,1449.7,1500
+387,"Jason Von Flue",Welterweight,1,2,0,1502.91,1552.83
+388,"Gilbert Aldana",Heavyweight,0,2,0,1457.37,1500
+389,"Mike Whitehead","Light Heavyweight",0,1,0,1478.57,1500
+390,"Steve Vigneault",Middleweight,0,1,0,1481.31,1500
+391,"Mark Hominick",Lightweight,3,4,0,1527.86,1651.28
+392,"Sam Stout",Lightweight,9,11,0,1626.79,1733.93
+393,"Jason Lambert","Light Heavyweight",4,4,0,1579.91,1667.74
+394,"Rob MacDonald","Light Heavyweight",1,2,0,1501.54,1528.59
+395,"Tom Murphy",Heavyweight,1,0,0,1550,1550
+396,"Icho Larenas",Heavyweight,0,1,0,1475,1500
+397,"Luigi Fioravanti",Middleweight,4,5,0,1588.35,1614.55
+398,"Dan Christison",Heavyweight,1,1,0,1532.04,1546.41
+399,"Justin Levens",Middleweight,0,2,0,1465.36,1500
+400,"Scott Smith",Middleweight,1,3,0,1480.27,1538.04
+401,"Derrick Noble",Welterweight,0,1,0,1477.05,1500
+402,"Dean Lister","Light Heavyweight",4,2,0,1656.61,1673.63
+403,"Matt Wiman",Lightweight,10,8,0,1664.87,1789.52
+404,"Rick Davis",Lightweight,0,1,0,1476.41,1500
+405,"Michael Bisping","Light Heavyweight",20,9,0,1976.58,2031.74
+406,"Josh Haynes","Light Heavyweight",0,3,0,1434.22,1500
+407,"Kendall Grove",Middleweight,7,6,0,1636.87,1688.1
+408,"Ed Herman",Middleweight,13,13,0,1708.4,1766.78
+409,"Wilson Gouveia","Light Heavyweight",6,4,0,1661.93,1715.28
+410,"Rory Singer",Middleweight,2,2,0,1542.85,1589.37
+411,"Ross Pointon",Middleweight,0,2,0,1448.75,1500
+412,"Kalib Starnes",Middleweight,2,3,0,1547.37,1592.89
+413,"Danny Abbadi",Middleweight,0,2,0,1450.4,1500
+414,"Solomon Hutcherson",Middleweight,0,1,0,1473.99,1500
+415,"Matt Hamill","Light Heavyweight",10,5,0,1756.26,1832.64
+416,"Jesse Forbes","Light Heavyweight",0,3,0,1428.84,1500
+417,"Mike Nickels","Light Heavyweight",1,1,0,1527.47,1550
+418,"Wes Combs","Light Heavyweight",0,2,0,1450.34,1500
+419,"Anderson Silva",Middleweight,18,7,0,1860.59,2073.56
+420,"Jorge Gurgel",Lightweight,3,4,0,1523.7,1581.72
+421,"Kristian Rothaermel","Light Heavyweight",0,1,0,1473.2,1500
+422,"Jorge Santiago",Middleweight,1,5,0,1460.77,1548.51
+423,"Joe Jordan","Catch Weight",0,1,0,1479.23,1500
+424,"Anthony Perosh",Heavyweight,5,7,0,1572.84,1631.88
+425,"Cheick Kongo",Heavyweight,11,6,1,1743.11,1787.35
+426,"Kurt Pellegrino",Welterweight,7,5,0,1687.15,1737.68
+427,"Yuki Sasaki",Middleweight,0,1,0,1479.48,1500
+428,"Martin Kampmann",Middleweight,11,6,0,1805.22,1859.8
+429,"Crafton Wallace",Middleweight,0,2,0,1459.33,1500
+430,"Jake O'Brien",Heavyweight,4,3,0,1603.3,1629.8
+431,"Kristof Midoux",Heavyweight,0,1,0,1475,1500
+432,"Forrest Petz",Welterweight,2,5,0,1479.4,1550.13
+433,"Anthony Torres",Welterweight,1,1,0,1525,1550
+434,"Pat Healy",Welterweight,0,6,0,1425.87,1500
+435,"Christian Wellisch",Heavyweight,2,3,0,1522.5,1574.91
+436,"Jamie Varner",Lightweight,3,6,0,1551.85,1662.67
+437,"Eric Schafer","Light Heavyweight",3,6,0,1523.84,1607.33
+438,"David Heath","Light Heavyweight",2,3,0,1518.19,1592.85
+439,"Cory Walmsley","Light Heavyweight",0,1,0,1475,1500
+440,"Yushin Okami",Middleweight,14,7,0,1795.12,1901.56
+441,"Alan Belcher",Middleweight,9,6,0,1769.44,1815.73
+442,"Gabe Ruediger",Lightweight,0,3,0,1447.39,1500
+443,"Joe Lauzon",Lightweight,15,12,0,1737,1827.81
+444,"Roger Huerta",Lightweight,6,2,0,1679.22,1721.44
+445,"Jason Dent",Lightweight,1,3,0,1491.69,1507.64
+446,"Eddie Sanchez",Heavyweight,3,3,0,1551.66,1608.64
+447,"Mario Neto",Heavyweight,0,1,0,1475,1500
+448,"Tyson Griffin",Lightweight,8,6,0,1650.21,1754.91
+449,"David Lee",Lightweight,0,2,0,1449.89,1500
+450,"Chris Price",Middleweight,0,2,0,1451.65,1500
+451,"Jason MacDonald",Middleweight,6,8,0,1582.25,1673.22
+452,"Seth Petruzelli","Light Heavyweight",0,4,0,1413.54,1500
+453,"Dustin Hazelett",Welterweight,5,5,0,1616.07,1703.47
+454,"Kuniyoshi Hironaka",Welterweight,1,3,0,1500.92,1539.81
+455,"Carmelo Marrero",Heavyweight,1,3,0,1494.17,1562.74
+456,"Dan Lauzon",Lightweight,0,3,0,1450.34,1500
+457,"Clay Guida",Lightweight,18,19,0,1718.03,1822.03
+458,"Justin James",Lightweight,0,1,0,1475,1500
+459,"Junior Assuncao",Lightweight,2,3,0,1533.22,1550.55
+460,"Thales Leites",Middleweight,13,8,0,1814.44,1861.01
+461,"Drew McFedries","Light Heavyweight",4,5,0,1562.98,1597.71
+462,"Dokonjonosuke Mishima",Lightweight,0,2,0,1465.17,1500
+463,"Gleison Tibau",Welterweight,16,12,0,1711.87,1850.57
+464,"Antoni Hardonk",Heavyweight,4,4,0,1590.52,1646.04
+465,"Sherman Pendergarst",Heavyweight,0,1,0,1475,1500
+466,"Hector Ramirez","Light Heavyweight",0,2,0,1461.36,1500
+467,"Josh Shockman",Heavyweight,0,1,0,1478.57,1500
+468,"Jeff Joslin",Welterweight,0,1,0,1487.45,1500
+469,"Victor Valimaki","Light Heavyweight",0,2,0,1457.34,1500
+470,"Keita Nakamura",Welterweight,4,7,0,1582.37,1613.46
+471,"Logan Clark",Middleweight,1,0,0,1550,1550
+472,"Steve Byrnes",Middleweight,0,1,0,1475,1500
+473,"Sean Salmon","Light Heavyweight",0,2,0,1464.89,1500
+474,"Heath Herring",Heavyweight,2,3,0,1538.5,1569.14
+475,"Chad Reiner",Welterweight,0,2,0,1460.01,1500
+476,"Mirko Filipovic",Heavyweight,5,6,0,1632.37,1632.37
+477,"John Halverson",Lightweight,0,2,0,1457.98,1500
+478,"Quinton Jackson","Light Heavyweight",8,5,0,1795.28,1855.5
+479,"Frankie Edgar",Lightweight,18,11,1,1880.95,2024.71
+480,"Lyoto Machida","Light Heavyweight",16,8,0,1929.9,1948.89
+481,"Diego Saraiva",Lightweight,0,3,0,1429.88,1500
+482,"Rex Holman","Light Heavyweight",0,1,0,1481.53,1500
+483,"Jason Gilliam",Lightweight,0,2,0,1449.34,1500
+484,"Justin McCully",Heavyweight,2,2,0,1561.58,1593.12
+485,"Nate Mohr",Lightweight,1,3,0,1475.33,1530.6
+486,"Roan Carneiro",Welterweight,4,5,0,1633.57,1651.14
+487,"Thiago Tavares",Lightweight,10,7,1,1742.96,1779.2
+488,"Naoyuki Kotani",Lightweight,0,5,0,1402.04,1500
+489,"Leonard Garcia",Lightweight,2,7,0,1434.01,1558.84
+490,"Fabricio Werdum",Heavyweight,12,6,0,1908.88,1935.45
+491,"Terry Etim",Lightweight,6,5,0,1616.59,1686.65
+492,"Matt Grice",Lightweight,2,5,0,1489.38,1525.51
+493,"Jess Liaudin",Welterweight,2,3,0,1522.53,1600
+494,"Dennis Siver",Welterweight,13,8,0,1814.59,1833.7
+495,"Paul Taylor",Welterweight,4,5,0,1579.62,1585.06
+496,"Edilberto de Oliveira",Welterweight,0,2,0,1455.47,1500
+497,"Houston Alexander","Light Heavyweight",2,4,0,1512.11,1622.49
+498,"Thiago Silva","Light Heavyweight",8,4,0,1777.61,1777.61
+499,"Jeremy Stephens",Lightweight,15,19,0,1688.86,1851.48
+500,"Jordan Radev",Middleweight,0,2,0,1459.87,1500
+501,"Jason Black",Lightweight,0,2,0,1453.31,1500
+502,"Tamdan McCrory",Welterweight,4,5,0,1600.33,1639.75
+503,"Jeff Cox",Lightweight,0,2,0,1456.26,1500
+504,"Anthony Johnson",Welterweight,13,6,0,1968.46,1997.96
+505,"Luke Caudillo",Lightweight,0,2,0,1448.51,1500
+506,"Jason Tan",Welterweight,0,2,0,1460.83,1500
+507,"Colin Robinson",Heavyweight,0,2,0,1453.82,1500
+508,"Stevie Lynch",Welterweight,0,1,0,1477.32,1500
+509,"Nate Diaz",Lightweight,16,11,0,1962.46,1962.46
+510,"Manvel Gamburyan",Lightweight,6,9,0,1604.52,1654.88
+511,"Floyd Sword",Middleweight,0,1,0,1477.36,1500
+512,"Doug Evans",Lightweight,0,2,0,1458.58,1500
+513,"Brandon Melendez",Lightweight,0,1,0,1480.68,1500
+514,"Cole Miller",Lightweight,11,9,0,1638.76,1707.54
+515,"Andy Wang",Lightweight,0,1,0,1475,1500
+516,"Gray Maynard",Lightweight,12,7,1,1744.53,1906.37
+517,"Rob Emerson",Lightweight,3,4,0,1539.73,1579.81
+518,"Allen Berube",Lightweight,0,1,0,1473.67,1500
+519,"Brian Geraghty",Lightweight,0,1,0,1473.5,1500
+520,"Alvin Robinson",Lightweight,1,3,0,1498.89,1546.72
+521,"Antonio Rodrigo Nogueira",Heavyweight,5,6,0,1659.44,1734.96
+522,"Mark Bocek",Lightweight,8,5,0,1724.92,1725.54
+523,"Alberto Crane",Lightweight,0,2,0,1466.13,1500
+524,"Ryan Jensen",Middleweight,2,6,0,1483.62,1525.77
+525,"Marcus Aurelio",Lightweight,2,4,0,1510.81,1571.41
+526,"Tomasz Drwal","Light Heavyweight",3,3,0,1576.35,1635.2
+527,"Joe Veres",Lightweight,0,2,0,1455.11,1500
+528,"Mauricio Rua","Light Heavyweight",11,12,1,1758.55,1874.98
+529,"Kazuhiro Nakamura","Light Heavyweight",0,2,0,1457.89,1500
+530,"Scott Junk",Heavyweight,0,1,0,1477.09,1500
+531,"Michihiro Omigawa",Lightweight,1,6,0,1433.96,1500
+532,"Demian Maia",Middleweight,22,11,0,1925.12,2041.69
+533,"Ryo Chonan",Welterweight,1,3,0,1499.17,1551.12
+534,"Jason Reinhardt",Lightweight,0,3,0,1435.57,1500
+535,"Akihiro Gono",Welterweight,1,2,0,1520.48,1558.6
+536,"Mac Danzig",Welterweight,5,8,0,1587.9,1654.08
+537,"Tommy Speer",Welterweight,0,2,0,1453.09,1500
+538,"War Machine",Welterweight,1,1,0,1521.43,1550
+539,"Jared Rollins",Welterweight,0,1,0,1475,1500
+540,"George Sotiropoulos",Welterweight,7,4,0,1684.08,1824.58
+541,"Billy Miles",Welterweight,0,1,0,1475,1500
+542,"Ben Saunders",Welterweight,9,10,0,1643.17,1767.83
+543,"Dan Barrera",Welterweight,0,1,0,1475,1500
+544,"Troy Mandaloniz",Welterweight,1,1,0,1524.33,1550
+545,"Richie Hightower",Welterweight,0,1,0,1475,1500
+546,"Matt Arroyo",Welterweight,1,2,0,1494.89,1550
+547,"John Kolosci",Welterweight,0,1,0,1475,1500
+548,"Roman Mitichyan",Welterweight,1,1,0,1525,1550
+549,"Dorian Price",Welterweight,0,1,0,1475,1500
+550,"Paul Georgieff",Welterweight,0,1,0,1477.27,1500
+551,"Soa Palelei",Heavyweight,4,3,0,1602.6,1631.03
+552,"Rameau Thierry Sokoudjou","Light Heavyweight",1,2,0,1510.61,1534.6
+553,"Luiz Cane","Light Heavyweight",4,5,0,1573,1639.93
+554,"Paul Kelly",Welterweight,5,4,0,1613.24,1648.31
+555,"James Lee","Light Heavyweight",0,1,0,1478.48,1500
+556,"Per Eklund",Lightweight,1,2,0,1499.65,1526.56
+557,"Corey Hill",Lightweight,1,2,0,1489.18,1546.92
+558,"Justin Buchholz",Lightweight,1,4,0,1474.88,1539.94
+559,"Brock Lesnar",Heavyweight,5,3,0,1764.18,1764.18
+560,"Rob Yundt",Middleweight,0,2,0,1452.39,1500
+561,"Kyle Bradley",Welterweight,1,3,0,1489.86,1513.62
+562,"Tim Boetsch","Light Heavyweight",12,12,0,1771.8,1837.06
+563,"Chris Wilson",Welterweight,1,3,0,1487.78,1543.4
+564,"David Bielkheden",Welterweight,1,2,0,1523.66,1547.86
+565,"Ryan Roberts",Lightweight,0,1,0,1476.8,1500
+566,"Samy Schiavo",Lightweight,0,2,0,1452.6,1500
+567,"Jason Day",Middleweight,1,2,0,1531.02,1565.8
+568,"Cain Velasquez",Heavyweight,12,3,0,1919.78,1952.97
+569,"Brad Morris",Heavyweight,0,2,0,1451.8,1500
+570,"Goran Reljic","Light Heavyweight",1,3,0,1513.68,1573.19
+571,"Antonio Mendes","Light Heavyweight",0,2,0,1466.26,1500
+572,"Rousimar Palhares",Middleweight,8,4,0,1769.51,1772.07
+573,"Yoshiyuki Yoshida",Welterweight,2,3,0,1535.19,1587.15
+574,"Dong Hyun Kim",Welterweight,13,5,0,1836.06,1869.65
+575,"Shane Carwin",Heavyweight,4,2,0,1684.7,1732.04
+576,"Kevin Burns",Welterweight,2,3,0,1531.12,1612.95
+577,"Amir Sadollah",Middleweight,6,5,0,1620.7,1682.82
+578,"CB Dollaway",Middleweight,11,9,0,1748.69,1790.8
+579,"Matthew Riddle",Middleweight,7,5,0,1633.31,1685.61
+580,"Dante Rivera",Middleweight,0,1,0,1475,1500
+581,"Matt Brown",Welterweight,17,13,0,1824.22,1869.62
+582,"Rob Kimmons",Middleweight,3,4,0,1524.06,1581.71
+583,"Reese Andy","Light Heavyweight",0,2,0,1470.04,1500
+584,"Jesse Taylor",Middleweight,1,1,0,1524.94,1524.94
+585,"Tim Credeur",Middleweight,3,2,0,1595.07,1642.85
+586,"Cale Yarbrough",Middleweight,0,1,0,1475,1500
+587,"Rory Markham",Welterweight,1,2,0,1512,1550
+588,"Brodie Farber",Welterweight,0,2,0,1457.27,1500
+589,"Nate Loughran",Middleweight,1,1,0,1525,1550
+590,"Johnny Rees",Middleweight,0,2,0,1449.96,1500
+591,"Brad Blackburn",Welterweight,3,2,0,1575.97,1636.13
+592,"James Giboo",Welterweight,0,1,0,1475,1500
+593,"Shannon Gugerty",Lightweight,2,3,0,1540.45,1578.2
+594,"Dale Hartt",Lightweight,1,2,0,1506.4,1531.04
+595,"Dan Evensen",Heavyweight,0,2,0,1458.52,1500
+596,"Jon Jones","Light Heavyweight",22,2,0,2220.65,2220.65
+597,"Andre Gusmao","Light Heavyweight",0,2,0,1458.17,1500
+598,"Steve Bruno",Welterweight,1,2,0,1501.36,1524.53
+599,"Ryan Thomas",Welterweight,0,2,0,1457.35,1500
+600,"Michael Patt","Light Heavyweight",0,2,0,1464,1500
+601,"Joe Vedepo",Middleweight,0,2,0,1457.84,1500
+602,"Jason Brilz","Light Heavyweight",3,4,0,1562.84,1626.26
+603,"Mike Massenzio",Middleweight,2,5,0,1505.16,1563.7
+604,"Dan Miller",Middleweight,6,7,0,1579.71,1650.99
+605,"Dan Hardy",Welterweight,6,4,0,1751.74,1751.74
+606,"Neil Wain",Heavyweight,0,1,0,1479.32,1500
+607,"Jim Miller",Lightweight,28,17,0,1877.31,1917.41
+608,"David Baron",Lightweight,0,1,0,1475,1500
+609,"Junior Dos Santos",Heavyweight,15,8,0,1836.62,1975.24
+610,"Matt Horwich",Middleweight,0,2,0,1458.15,1500
+611,"Josh Hendricks",Heavyweight,0,1,0,1486.09,1500
+612,"Rafael Dos Anjos",Lightweight,21,15,0,1918.23,2070
+613,"Steve Cantwell","Light Heavyweight",1,5,0,1430.38,1550
+614,"Razak Al-Hassan","Light Heavyweight",0,2,0,1450,1500
+615,"Brandon Wolff",Welterweight,0,2,0,1461.14,1500
+616,"Efrain Escudero",Lightweight,5,7,0,1563.77,1622.37
+617,"Phillipe Nover",Lightweight,1,6,0,1447.09,1500
+618,"Ryan Bader","Light Heavyweight",15,5,0,1981.57,1981.57
+619,"Vinny Magalhaes","Light Heavyweight",1,4,0,1499.48,1531.97
+620,"Junie Browning",Lightweight,1,1,0,1529.97,1550
+621,"David Kaplan",Lightweight,0,2,0,1450,1500
+622,"Krzysztof Soszynski","Light Heavyweight",6,3,0,1657.44,1691.72
+623,"Shane Primm","Light Heavyweight",0,1,0,1475,1500
+624,"Eliot Marshall","Light Heavyweight",3,3,0,1573.49,1641.08
+625,"Jules Bruchez","Light Heavyweight",0,1,0,1475,1500
+626,"Tom Lawlor","Light Heavyweight",6,5,0,1668.69,1695.86
+627,"Kyle Kingsbury","Light Heavyweight",4,5,0,1543.16,1660.98
+628,"Shane Nelson",Lightweight,2,2,0,1541.17,1595.6
+629,"George Roop",Lightweight,5,8,0,1564.35,1614.82
+630,"Rolando Delgado",Lightweight,1,2,0,1499.22,1550
+631,"John Polakowski",Lightweight,0,1,0,1475,1500
+632,"Mostapha Al-Turk",Heavyweight,0,3,0,1443.03,1500
+633,"Mike Wessel",Heavyweight,0,1,0,1482.76,1500
+634,"Pat Barry",Heavyweight,5,7,0,1564.77,1620.2
+635,"Denis Kang",Middleweight,1,2,0,1524.46,1536.2
+636,"John Hathaway",Welterweight,7,2,0,1742.88,1764.59
+637,"Tom Egan",Welterweight,0,1,0,1475,1500
+638,"Alexandre Barros",Welterweight,0,1,0,1485.65,1500
+639,"Ivan Serati","Light Heavyweight",0,1,0,1473.5,1500
+640,"John Howard",Welterweight,7,7,0,1631.05,1676.56
+641,"Dan Cramer",Welterweight,1,1,0,1531.18,1553.08
+642,"Denis Stojnic",Heavyweight,0,2,0,1457.41,1500
+643,"Jake Rosholt",Middleweight,1,2,0,1539.12,1557.85
+644,"Matt Veach",Lightweight,1,2,0,1521,1553.66
+645,"Nick Catone",Middleweight,4,4,0,1590.05,1590.16
+646,"Derek Downey",Middleweight,0,1,0,1475,1500
+647,"Paulo Thiago",Welterweight,5,8,0,1558.49,1689.3
+648,"Brian Cobb",Lightweight,0,1,0,1479.62,1500
+649,"Stefan Struve",Heavyweight,13,11,0,1691.04,1799.92
+650,"Evan Dunham",Lightweight,11,9,1,1765.99,1864.31
+651,"Mike Ciesnolevicz",Heavyweight,1,1,0,1523.71,1550
+652,"Neil Grove",Heavyweight,0,1,0,1475,1500
+653,"Mark Munoz","Light Heavyweight",9,6,0,1771.28,1846.76
+654,"Ryan Madigan",Welterweight,0,1,0,1479.7,1500
+655,"Carlos Condit",Welterweight,9,10,0,1796.51,1839.16
+656,"Jesse Sanders",Welterweight,0,1,0,1477.05,1500
+657,"Nissen Osterneck",Middleweight,0,1,0,1480.71,1500
+658,"Aaron Simpson",Middleweight,7,4,0,1683.41,1722.13
+659,"Tim McKenzie",Middleweight,0,1,0,1475,1500
+660,"Brian Stann","Light Heavyweight",6,5,0,1674.83,1723.62
+661,"Xavier Foupa-Pokam",Middleweight,0,2,0,1454.16,1500
+662,"TJ Grant",Welterweight,8,3,0,1854.86,1854.86
+663,"Mike Pyle",Welterweight,10,9,0,1666.75,1815.47
+664,"Tim Hague",Heavyweight,1,4,0,1464.75,1556.79
+665,"Peter Sobotta",Welterweight,4,6,0,1624.66,1656.67
+666,"Rick Story",Welterweight,12,7,0,1814.64,1826.54
+667,"James Wilks",Welterweight,2,2,0,1545.64,1572.47
+668,"DaMarques Johnson",Welterweight,4,6,0,1552.03,1626.42
+669,"Ross Pearson",Lightweight,13,13,0,1648.51,1828.91
+670,"Andre Winner",Lightweight,2,4,0,1512.25,1582
+671,"Edgar Garcia",Welterweight,0,4,0,1410.7,1500
+672,"Nick Osipczak",Welterweight,2,3,0,1528.51,1612.69
+673,"Frank Lester",Welterweight,0,1,0,1475,1500
+674,"Cameron Dollar",Lightweight,0,1,0,1471.47,1500
+675,"Yoshihiro Akiyama",Middleweight,2,5,0,1554.04,1581.28
+676,"Johny Hendricks",Welterweight,13,8,0,1822.47,1969.8
+677,"Jesse Lennox",Welterweight,1,2,0,1497.4,1550
+678,"Danillo Villefort",Welterweight,0,1,0,1475,1500
+679,"Chris Tuchscherer",Heavyweight,1,3,0,1487.78,1541.88
+680,"Mike Russow",Heavyweight,4,2,0,1631.2,1692.96
+681,"Todd Duffee",Heavyweight,4,2,0,1644.77,1644.77
+682,"Jake Ellenberger",Welterweight,10,11,0,1679.19,1836.49
+683,"Jay Silva",Middleweight,0,2,0,1465.04,1500
+684,"Mike Pierce",Welterweight,9,5,0,1741.09,1803.19
+685,"Steve Steinbeiss",Middleweight,0,2,0,1451.02,1500
+686,"Paul Daley",Welterweight,2,1,0,1631.39,1644.64
+687,"Steve Lopez",Lightweight,0,2,0,1459.78,1500
+688,"Nik Lentz",Lightweight,15,9,1,1761.55,1846.63
+689,"Rafaello Oliveira",Lightweight,2,6,0,1495.03,1530.74
+690,"Brian Foster",Welterweight,3,2,0,1624.11,1624.11
+691,"Igor Pokrajac","Light Heavyweight",5,8,0,1534.46,1661.92
+692,"Ben Rothwell",Heavyweight,9,8,0,1774.11,1824.78
+693,"Chase Gormley",Heavyweight,0,2,0,1452.01,1500
+694,"Alexander Gustafsson","Light Heavyweight",10,8,0,1792.89,1889.92
+695,"Jared Hamman","Light Heavyweight",2,5,0,1487.65,1571.07
+696,"Jacob Volkmann",Welterweight,6,4,0,1669.13,1707.91
+697,"Rogerio Nogueira","Light Heavyweight",6,7,0,1736.69,1796.13
+698,"Fabricio Camoes",Lightweight,1,4,1,1492.9,1540.39
+699,"Roy Nelson",Heavyweight,9,10,0,1702.45,1761.65
+700,"Brendan Schaub",Heavyweight,6,5,0,1684.49,1724.44
+701,"Kevin Ferguson","Catch Weight",1,1,0,1530.32,1555.73
+702,"Matt Mitrione",Heavyweight,9,5,0,1735.31,1790.77
+703,"Marcus Jones",Heavyweight,0,1,0,1475,1500
+704,"James McSweeney",Heavyweight,1,2,0,1494.89,1550
+705,"Darrill Schoonover",Heavyweight,0,1,0,1475,1500
+706,"Jon Madsen",Heavyweight,4,1,0,1625.24,1653.16
+707,"Justin Wren",Heavyweight,0,1,0,1475,1500
+708,"Rodney Wallace","Light Heavyweight",0,3,0,1437.99,1500
+709,"Joe Brammer",Lightweight,0,2,0,1461.22,1500
+710,"Ricardo Funch",Welterweight,0,4,0,1430.33,1500
+711,"Lucio Linhares",Middleweight,0,2,0,1474.42,1500
+712,"Gilbert Yvel",Heavyweight,0,3,0,1446.51,1500
+713,"John Gunderson",Lightweight,1,2,0,1510.14,1527.05
+714,"Rory MacDonald",Welterweight,9,4,0,1849.95,1898.56
+715,"Mike Guymon",Welterweight,1,3,0,1491.96,1537.89
+716,"Gerald Harris",Middleweight,3,1,0,1595.87,1629.8
+717,"John Salter",Middleweight,1,2,0,1521.99,1545.26
+718,"Ronys Torres",Lightweight,0,2,0,1458.14,1500
+719,"Phil Davis","Light Heavyweight",10,3,0,1835.33,1860.34
+720,"Joey Beltran",Heavyweight,3,7,0,1469.69,1592.82
+721,"Rolles Gracie",Heavyweight,0,1,0,1475,1500
+722,"James Te Huna","Light Heavyweight",5,5,0,1595.32,1692.53
+723,"Darren Elkins",Lightweight,19,10,0,1820.95,1921.48
+724,"Daniel Roberts",Welterweight,3,4,0,1558.19,1634.77
+725,"Julio Paulino",Welterweight,0,2,0,1459.85,1500
+726,"Greg Soto",Welterweight,1,2,0,1525.15,1546.99
+727,"Takanori Gomi",Lightweight,4,9,0,1559.56,1672.06
+728,"Mario Miranda",Middleweight,1,3,0,1514.62,1546.68
+729,"Charlie Brenneman",Welterweight,4,7,0,1531.29,1676.38
+730,"Jason High",Welterweight,2,3,0,1563.42,1572.17
+731,"Renzo Gracie",Welterweight,0,1,0,1494.36,1500
+732,"Waylon Lowe",Lightweight,2,2,0,1564.34,1580.81
+733,"Cyrille Diabate","Light Heavyweight",4,4,0,1565.33,1628.44
+734,"Claude Patrick",Welterweight,3,1,0,1629.35,1655.54
+735,"Court McGee",Middleweight,11,12,0,1704.54,1704.54
+736,"Kris McCray",Middleweight,0,3,0,1441.21,1500
+737,"Rich Attonito",Middleweight,3,2,0,1587.47,1620.83
+738,"Jamie Yager",Middleweight,0,1,0,1475,1500
+739,"Mark Holst",Lightweight,0,2,0,1450.01,1500
+740,"Brad Tavares",Middleweight,15,10,0,1812.64,1900.26
+741,"Seth Baczynski",Middleweight,5,6,0,1577.56,1682.38
+742,"Kyle Noke",Middleweight,6,6,0,1591.4,1692.82
+743,"Josh Bryant",Middleweight,0,1,0,1475,1500
+744,"Chris Camozzi",Middleweight,9,10,0,1637.56,1719.05
+745,"James Hammortree",Middleweight,0,1,0,1475,1500
+746,"Travis Browne",Heavyweight,9,7,1,1734.11,1832.7
+747,"Ricardo Romero","Light Heavyweight",1,2,0,1496.39,1543.87
+748,"David Branch",Middleweight,4,5,0,1663.64,1719.75
+749,"Karlos Vemola",Heavyweight,2,4,0,1502.27,1552.83
+750,"Charles Oliveira",Lightweight,23,11,0,2120.85,2154.59
+751,"Todd Brown","Light Heavyweight",0,2,0,1456.07,1500
+752,"Christian Morecraft",Heavyweight,1,3,0,1501.88,1539.13
+753,"James Toney",Heavyweight,0,1,0,1495.27,1500
+754,"Amilcar Alves",Welterweight,0,2,0,1460.49,1500
+755,"Rafael Natal",Middleweight,9,7,1,1676.1,1764.48
+756,"TJ Waldburger",Welterweight,4,4,0,1604.34,1649.99
+757,"David Mitchell",Welterweight,1,4,0,1486.61,1521.5
+758,"Pat Audinwood",Lightweight,0,2,0,1458.51,1500
+759,"Sean McCorkle",Heavyweight,1,2,0,1502.66,1550
+760,"Mark Hunt",Heavyweight,8,9,1,1718.06,1819.62
+761,"Rob Broughton",Heavyweight,1,2,0,1503.04,1550
+762,"Vinicius Queiroz",Heavyweight,0,1,0,1475,1500
+763,"Paul Sass",Lightweight,3,2,0,1616.78,1659.49
+764,"Curt Warburton",Lightweight,1,2,0,1523.18,1538.74
+765,"Fabio Maldonado","Light Heavyweight",5,6,0,1609.41,1653.7
+766,"Jake Shields",Welterweight,5,3,0,1746.19,1780.5
+767,"Dongi Yang",Middleweight,2,3,0,1552.57,1552.57
+768,"Alexandre Ferreira","Light Heavyweight",0,1,0,1486.86,1500
+769,"Pascal Krauss",Welterweight,2,2,0,1550.52,1576.98
+770,"Mark Scanlon",Welterweight,0,1,0,1475,1500
+771,"Carlos Eduardo Rocha",Welterweight,1,2,0,1509.62,1546.41
+772,"Maiquel Falcao",Middleweight,1,0,0,1567.86,1567.86
+773,"Edson Barboza",Lightweight,18,12,0,1858.24,1921.42
+774,"Mike Lullo",Lightweight,0,2,0,1451.8,1500
+775,"TJ O'Brien",Lightweight,0,2,0,1470.81,1500
+776,"Jonathan Brookins",Lightweight,2,3,0,1535.29,1576.82
+777,"Michael Johnson",Lightweight,15,15,0,1778.25,1855.34
+778,"Nam Phan",Featherweight,2,6,0,1510.21,1560.96
+779,"Cody McKenzie",Lightweight,3,4,0,1552.49,1569.69
+780,"Aaron Wilkinson",Lightweight,0,1,0,1475,1500
+781,"Ian Loveland",Featherweight,1,2,0,1493.36,1550
+782,"Tyler Toner",Featherweight,0,1,0,1475,1500
+783,"Kyle Watson",Lightweight,1,1,0,1524.82,1550
+784,"Sako Chivitchian",Lightweight,0,1,0,1475,1500
+785,"Nick Pace",Bantamweight,1,2,0,1498.89,1550
+786,"Will Campuzano",Bantamweight,0,4,0,1413.54,1500
+787,"Pablo Garza",Featherweight,3,3,0,1562.74,1592.85
+788,"Fredson Paixao",Featherweight,0,1,0,1475,1500
+789,"Jesse Bongfeldt",Middleweight,0,1,1,1480.49,1500
+790,"Sean Pierson",Welterweight,4,2,0,1669.01,1669.01
+791,"John Makdessi",Lightweight,11,9,0,1711.54,1777.7
+792,"Dustin Poirier",Featherweight,22,9,0,2056.17,2114.83
+793,"Josh Grispi",Featherweight,0,4,0,1408.9,1500
+794,"Diego Nunes",Featherweight,3,3,0,1601.3,1618.62
+795,"Antonio McKee",Lightweight,0,1,0,1481.19,1500
+796,"Rani Yahya",Featherweight,14,6,1,1747.69,1816.69
+797,"Willamy Freire",Lightweight,0,1,0,1477.58,1500
+798,"Chris Cariaso",Bantamweight,7,6,0,1608.98,1686.43
+799,"Miguel Torres",Bantamweight,2,2,0,1554.15,1574.83
+800,"Antonio Banuelos",Bantamweight,0,1,0,1475,1500
+801,"Donald Cerrone",Lightweight,24,14,0,1860.2,2071.69
+802,"Chad Mendes",Featherweight,9,5,0,1823.71,1855.07
+803,"Demetrious Johnson",Bantamweight,15,2,1,1946.8,1983.78
+804,"Norifumi Yamamoto",Bantamweight,0,4,0,1407.5,1500
+805,"Kenny Robertson",Welterweight,4,5,0,1601.24,1649.33
+806,"Brian Ebersole",Welterweight,5,3,0,1683.74,1732.14
+807,"Nick Ring",Middleweight,3,3,0,1575.15,1626.75
+808,"Riki Fukuda",Middleweight,2,3,0,1534.36,1552.58
+809,"Tom Blackledge","Light Heavyweight",0,1,0,1470.64,1500
+810,"Zhang Tiequan",Featherweight,1,3,0,1472.6,1547.59
+811,"Maciej Jewtuszko",Lightweight,0,1,0,1474.05,1500
+812,"Chris Weidman",Middleweight,12,8,0,1868.94,2040.12
+813,"Brian Bowles",Bantamweight,2,2,0,1541.96,1600
+814,"Damacio Page",Bantamweight,0,3,0,1427.29,1500
+815,"Danny Castillo",Lightweight,7,7,0,1643.2,1739.04
+816,"Shane Roller",Lightweight,2,4,0,1532.07,1568.99
+817,"Takeya Mizugaki",Bantamweight,8,6,0,1668.31,1757.13
+818,"Reuben Duran",Bantamweight,1,3,0,1478.43,1528.59
+819,"Urijah Faber",Bantamweight,11,7,0,1793.37,1823.5
+820,"Eddie Wineland",Bantamweight,6,10,0,1596.94,1692.59
+821,"Kamal Shalorus",Lightweight,0,3,0,1457.17,1500
+822,"Anthony Njokuani",Lightweight,3,5,0,1551.07,1600.35
+823,"Joseph Benavidez",Bantamweight,15,6,0,1840.23,1945.05
+824,"Constantinos Philippou","Catch Weight",6,4,0,1691.16,1755.1
+825,"Erik Koch",Featherweight,5,5,0,1617.66,1623.64
+826,"Raphael Assuncao",Featherweight,12,7,0,1743.81,1872.28
+827,"Chan Sung Jung",Featherweight,7,5,0,1846.95,1869.5
+828,"Mackens Semerzier",Featherweight,2,1,0,1570.94,1599.48
+829,"Alex Caceres",Featherweight,17,13,0,1764.62,1821.62
+830,"Michael McDonald",Bantamweight,6,3,0,1686.99,1707.49
+831,"Edwin Figueroa",Bantamweight,2,4,0,1503.55,1569.78
+832,"Jose Aldo",Featherweight,14,8,0,1958.72,1995.29
+833,"Benson Henderson",Lightweight,11,3,0,1923.24,1924.57
+834,"Charlie Valencia",Bantamweight,0,1,0,1473.59,1500
+835,"Yves Jabouin",Featherweight,5,5,0,1586.92,1647.69
+836,"Renan Barao",Bantamweight,9,8,0,1609.82,1811.97
+837,"Cole Escovedo",Bantamweight,0,3,0,1428.44,1500
+838,"Tony Ferguson",Welterweight,15,9,0,1833.64,2096.24
+839,"Ramsey Nijem",Welterweight,5,5,0,1588.01,1653.62
+840,"Anthony Pettis",Lightweight,11,9,0,1944.42,1944.42
+841,"Chris Cope",Welterweight,1,2,0,1502.48,1550
+842,"Chuck O'Neil",Welterweight,0,1,0,1475,1500
+843,"Danny Downes",Lightweight,0,2,0,1462.17,1500
+844,"Shamar Bailey",Welterweight,1,2,0,1510.1,1550
+845,"Ryan McGillivray",Welterweight,0,1,0,1475,1500
+846,"Clay Harvison",Welterweight,1,2,0,1499.39,1550
+847,"Justin Edwards",Welterweight,2,5,0,1498.94,1572.14
+848,"Scott Jorgensen",Bantamweight,4,8,0,1484.52,1589.68
+849,"Ken Stone",Bantamweight,2,2,0,1548.55,1575.07
+850,"Francisco Rivera",Bantamweight,4,7,0,1573.96,1644.92
+851,"Dave Herman",Heavyweight,1,4,0,1488.62,1550
+852,"Jon Olav Einemo",Heavyweight,0,2,0,1462.63,1500
+853,"Vagner Rocha",Lightweight,1,3,0,1489.49,1537.66
+854,"James Head",Middleweight,2,3,0,1556.45,1606.83
+855,"Jason Young",Featherweight,1,3,0,1479.94,1503.64
+856,"Aaron Rosa",Heavyweight,1,2,0,1509.31,1531.21
+857,"Javier Vazquez",Featherweight,1,0,0,1573.63,1573.63
+858,"Ricardo Lamas",Featherweight,11,6,0,1836.16,1873.26
+859,"Edward Faaloloto",Lightweight,0,2,0,1460.16,1500
+860,"Dominick Cruz",Bantamweight,7,3,0,1849.14,1870.28
+861,"Jeff Hougland",Bantamweight,1,2,0,1503.75,1550
+862,"Donny Walker",Bantamweight,0,2,0,1450,1500
+863,"Paul Bradley",Middleweight,0,2,0,1459.8,1500
+864,"Ronny Markes","Light Heavyweight",3,2,0,1605.75,1675.01
+865,"Jimy Hettes",Featherweight,3,3,0,1567.04,1606.79
+866,"Stanislav Nedkov","Light Heavyweight",1,3,0,1496.68,1567.8
+867,"Johnny Eduardo",Bantamweight,3,5,0,1550.03,1626.43
+868,"Erick Silva",Welterweight,7,8,0,1639.27,1721.32
+869,"Luis Ramos",Welterweight,0,2,0,1463.34,1500
+870,"Iuri Alcantara",Featherweight,11,7,0,1694.58,1762.79
+871,"Felipe Arantes",Featherweight,5,6,1,1577.65,1656.87
+872,"Lance Benoist",Welterweight,2,2,0,1564.09,1570.14
+873,"Mike Stumpf",Welterweight,0,2,0,1456.47,1500
+874,"Robert Peralta",Featherweight,4,4,0,1610.49,1647.41
+875,"Jorge Lopez",Welterweight,0,2,0,1460.05,1500
+876,"Eddie Yagin",Featherweight,1,1,0,1540.62,1540.62
+877,"Mike Easton",Bantamweight,3,4,0,1545.94,1648.25
+878,"Byron Bloodworth",Bantamweight,0,2,0,1459.07,1500
+879,"Walel Watson",Bantamweight,1,3,0,1469.19,1550
+880,"Joseph Sandoval",Bantamweight,0,2,0,1451.8,1500
+881,"Stipe Miocic",Heavyweight,14,5,0,2084.88,2139.87
+882,"Hatsu Hioki",Featherweight,3,5,0,1553.99,1607.99
+883,"Bart Palaszewski",Featherweight,1,3,0,1507.45,1574.64
+884,"Francis Carmont",Middleweight,6,3,0,1692.5,1773.29
+885,"Clifford Starks",Middleweight,1,2,0,1506.95,1550
+886,"Dustin Jacoby",Middleweight,8,6,1,1747.85,1751.46
+887,"Brad Pickett",Bantamweight,5,9,0,1553.3,1634.04
+888,"Papy Abedi",Welterweight,1,3,0,1495.72,1518.46
+889,"John Maguire",Welterweight,2,3,0,1540.19,1614.37
+890,"Philip De Fries",Heavyweight,2,3,0,1527.18,1572.07
+891,"Che Mills",Welterweight,3,1,0,1659.09,1659.09
+892,"Vaughan Lee",Bantamweight,3,5,0,1534.6,1578.48
+893,"Cub Swanson",Featherweight,15,10,0,1845.62,1884.07
+894,"Darren Uyenoyama",Bantamweight,2,2,0,1538.39,1589.77
+895,"Matt Lucas","Light Heavyweight",0,1,0,1473.42,1500
+896,"Cung Le",Middleweight,2,2,0,1621.73,1634.26
+897,"Alex Soto",Bantamweight,0,2,0,1456.34,1500
+898,"Diego Brandao",Featherweight,6,4,0,1666.92,1701.69
+899,"Dennis Bermudez",Featherweight,10,7,0,1715.93,1817.64
+900,"John Dodson",Bantamweight,10,7,0,1738.57,1789.45
+901,"TJ Dillashaw",Bantamweight,13,5,0,1957.9,1979.84
+902,"Johnny Bedford",Bantamweight,2,4,0,1502.97,1600
+903,"Louis Gaudinot",Bantamweight,1,4,0,1463.37,1528.59
+904,"Marcus Brimage",Featherweight,4,4,0,1547.75,1642.59
+905,"Stephen Bass",Featherweight,0,1,0,1475,1500
+906,"John Albert",Bantamweight,1,4,0,1453.25,1550
+907,"Dustin Pague",Bantamweight,1,5,0,1436.94,1525.51
+908,"Roland Delorme",Bantamweight,4,3,0,1577.86,1675.02
+909,"Josh Ferguson",Bantamweight,0,2,0,1459.77,1500
+910,"Steven Siler",Featherweight,5,4,0,1604.88,1696.63
+911,"Josh Clopton",Featherweight,0,2,0,1458.65,1500
+912,"Bryan Caraway",Featherweight,6,4,0,1692.57,1749.63
+913,"Dustin Neace",Featherweight,0,1,0,1475,1500
+914,"Jake Hecht",Welterweight,1,2,0,1517.35,1566.72
+915,"John Cholish",Lightweight,1,2,0,1521.23,1550
+916,"Mitch Clarke",Lightweight,2,5,0,1511.32,1581.63
+917,"Alistair Overeem",Heavyweight,12,8,0,1890.32,1940.64
+918,"Carlo Prater",Welterweight,1,2,0,1507.7,1557.15
+919,"Ednaldo Oliveira",Heavyweight,0,2,0,1460.3,1500
+920,"Antonio Carvalho",Featherweight,2,2,0,1572.25,1589.12
+921,"Jared Papazian",Bantamweight,0,3,0,1430.12,1500
+922,"Khabib Nurmagomedov",Lightweight,13,0,0,2100.83,2100.83
+923,"Tommy Hayden",Lightweight,0,2,0,1453.73,1500
+924,"Daniel Pineda",Featherweight,5,9,0,1577.57,1617.15
+925,"Pat Schilling",Featherweight,0,2,0,1450.7,1500
+926,"Nick Denis",Bantamweight,1,1,0,1521.67,1546.41
+927,"Eric Wisely",Featherweight,0,2,0,1452.48,1500
+928,"Lavar Johnson",Heavyweight,2,2,0,1574.85,1615.83
+929,"Max Holloway",Featherweight,22,8,0,2106.82,2145.58
+930,"Henry Martinez",Welterweight,1,2,0,1508.06,1531.75
+931,"Michael Kuiper",Middleweight,1,3,0,1489.22,1536.9
+932,"Stephen Thompson",Welterweight,12,8,1,1881.8,1949.96
+933,"Dan Stittgen",Welterweight,0,2,0,1451.8,1500
+934,"Justin Salas",Lightweight,3,4,0,1543.79,1599.25
+935,"Anton Kuivanen",Lightweight,1,2,0,1501.8,1525
+936,"Tim Means",Lightweight,15,15,0,1708.35,1826.22
+937,"Bernardo Magalhaes",Lightweight,0,2,0,1450.57,1500
+938,"Eiji Mitsuoka",Lightweight,0,2,0,1467.64,1500
+939,"Issei Tamura",Featherweight,1,2,0,1505.54,1553.47
+940,"Yasuhiro Urushitani",Flyweight,0,2,0,1456.1,1500
+941,"Ian McCall",Flyweight,2,3,1,1562.94,1582.69
+942,"Nick Penner","Light Heavyweight",0,2,0,1455.72,1500
+943,"Andrew Craig",Middleweight,3,4,0,1567.52,1658.03
+944,"Shawn Jordan",Heavyweight,6,4,0,1681.71,1715.16
+945,"Oli Thompson",Heavyweight,0,2,0,1453.92,1500
+946,"Siyar Bahadurzada",Welterweight,4,4,0,1612.2,1670.32
+947,"Tom DeBlass","Light Heavyweight",0,2,0,1455.63,1500
+948,"Magnus Cedenblad",Middleweight,4,2,0,1624.68,1660.47
+949,"Reza Madadi",Lightweight,3,4,0,1564.71,1612.42
+950,"Yoislandy Izquierdo",Lightweight,0,2,0,1450.48,1500
+951,"Simeon Thoresen",Welterweight,1,2,0,1501.75,1550
+952,"Besam Yousef",Welterweight,0,2,0,1449.45,1500
+953,"Chad Griggs",Heavyweight,0,2,0,1468.44,1500
+954,"Chris Clements",Welterweight,3,2,0,1596.92,1623.62
+955,"Maximo Blanco",Featherweight,4,5,0,1586.11,1642.3
+956,"Tim Elliott",Flyweight,9,11,0,1703.25,1703.25
+957,"John Lineker",Flyweight,12,4,0,1843.06,1882.33
+958,"Marcus LeVesseur",Lightweight,1,2,0,1506.7,1534.15
+959,"Antonio Silva",Heavyweight,3,7,1,1585.44,1639.93
+960,"Shane del Rosario",Heavyweight,0,2,0,1464.85,1500
+961,"Glover Teixeira","Light Heavyweight",16,7,0,1977.85,2061.26
+962,"Michael Chiesa",Lightweight,13,7,0,1977.37,2000.97
+963,"Al Iaquinta",Lightweight,9,6,0,1824.87,1907.64
+964,"Justin Lawrence",Lightweight,1,2,0,1500.09,1550
+965,"John Cofer",Lightweight,0,2,0,1451.8,1500
+966,"Daron Cruickshank",Lightweight,6,7,0,1582.11,1693.83
+967,"Chris Tickle",Lightweight,0,1,0,1475,1500
+968,"Myles Jury",Lightweight,8,4,0,1754.41,1811.08
+969,"Chris Saunders",Lightweight,0,1,0,1475,1500
+970,"Sam Sicilia",Lightweight,5,7,0,1555.35,1646.56
+971,"Cristiano Marcello",Lightweight,1,3,0,1484.41,1535.63
+972,"Joe Proctor",Lightweight,4,4,0,1581.53,1634.07
+973,"Jeremy Larsen",Lightweight,0,3,0,1429.34,1500
+974,"Erik Perez",Bantamweight,7,2,0,1751.93,1751.93
+975,"Buddy Roberts",Middleweight,1,1,0,1541.45,1550
+976,"Caio Magalhaes",Middleweight,4,3,0,1623.09,1672.43
+977,"CJ Keith",Lightweight,0,2,0,1456.36,1500
+978,"Brock Jardine",Welterweight,0,2,0,1463.6,1500
+979,"Joey Gambino",Featherweight,0,2,0,1461.68,1500
+980,"Cezar Ferreira",Middleweight,9,6,0,1691.68,1769
+981,"Sergio Moraes",Middleweight,8,5,1,1727.65,1808.96
+982,"Rony Jason",Featherweight,5,4,0,1622.72,1676.9
+983,"Godofredo Pepey",Featherweight,5,6,0,1608.95,1660.25
+984,"Hacran Dias",Featherweight,3,5,0,1579.61,1653.34
+985,"Rodrigo Damm",Featherweight,3,4,0,1545.03,1613.81
+986,"Anistavio Medeiros",Featherweight,0,1,0,1475,1500
+987,"Francisco Trinaldo",Middleweight,18,8,0,1902.77,1934.58
+988,"Delson Heleno",Middleweight,0,1,0,1475,1500
+989,"Hugo Viana",Featherweight,3,3,0,1548.59,1610.28
+990,"John Teixeira",Featherweight,0,1,0,1475,1500
+991,"Thiago Perpetuo",Middleweight,1,2,0,1495.43,1550
+992,"Leonardo Mafra",Middleweight,1,3,0,1494.47,1517.37
+993,"Marcos Vinicius",Featherweight,1,2,0,1498.2,1550
+994,"Wagner Campos",Featherweight,0,1,0,1475,1500
+995,"Milton Vieira",Featherweight,0,1,1,1473.2,1500
+996,"Marcelo Guimaraes",Welterweight,2,2,0,1540.29,1562.98
+997,"Hector Lombard",Middleweight,4,8,0,1628.5,1746.17
+998,"Ryan Jimmo","Light Heavyweight",3,4,0,1570,1624.75
+999,"Mitch Gagnon",Bantamweight,4,4,0,1571.81,1655.82
+1000,"Wagner Prado","Light Heavyweight",0,3,0,1455.3,1500
+1001,"John Moraga",Flyweight,8,6,0,1702.71,1733.31
+1002,"Ulysses Gomez",Flyweight,0,2,0,1450.24,1500
+1003,"Chico Camus",Bantamweight,4,4,0,1585.67,1634.28
+1004,"Roger Hollett","Light Heavyweight",0,2,0,1466.36,1500
+1005,"Jimi Manuwa","Light Heavyweight",6,6,0,1677.59,1789.67
+1006,"Akira Corassani",Featherweight,3,3,0,1574.87,1643.14
+1007,"Andy Ogle",Featherweight,1,5,0,1437.77,1518.66
+1008,"Tom Watson",Middleweight,2,5,0,1512.21,1551.99
+1009,"Gunnar Nelson","Catch Weight",10,6,0,1832.27,1860.21
+1010,"Jussier Formiga",Flyweight,9,7,0,1763.67,1852.06
+1011,"Phil Harris",Flyweight,2,3,0,1527.42,1557.8
+1012,"Renee Forte",Welterweight,1,3,0,1503.11,1547.05
+1013,"Jon Tuck",Lightweight,4,5,0,1575.51,1596.8
+1014,"Motonobu Tezuka",Bantamweight,0,2,0,1453.33,1500
+1015,"Azamat Gashimov",Bantamweight,0,2,0,1460.21,1500
+1016,"Abel Trujillo",Lightweight,6,5,0,1680.36,1737.85
+1017,"Robert Whittaker",Welterweight,17,6,0,2031.43,2071.41
+1018,"Brad Scott",Welterweight,3,5,0,1532,1586.22
+1019,"Norman Parke",Lightweight,5,3,1,1644.14,1673.69
+1020,"Colin Fletcher",Lightweight,0,2,0,1450,1500
+1021,"Yaotzin Meza",Featherweight,2,5,0,1495.01,1538.13
+1022,"Ben Alloway",Welterweight,1,2,0,1494.89,1550
+1023,"Manuel Rodriguez",Welterweight,0,1,0,1475,1500
+1024,"Mike Wilkinson",Lightweight,2,2,0,1558.91,1583.04
+1025,"Brendan Loughnane",Lightweight,0,1,0,1475,1500
+1026,"Cody Donovan","Light Heavyweight",1,3,0,1469.59,1547.01
+1027,"Colton Smith",Welterweight,1,3,0,1477.93,1550
+1028,"Mike Ricci",Welterweight,1,2,0,1509.77,1525
+1029,"Rustam Khabilov",Lightweight,10,3,0,1827.55,1843.77
+1030,"Vinc Pichel",Lightweight,7,4,0,1725.35,1798.09
+1031,"Mike Rio",Lightweight,1,3,0,1488.5,1546.41
+1032,"Derek Brunson",Middleweight,14,7,0,1917.6,1989.54
+1033,"Daniel Sarafian",Middleweight,2,4,0,1515.11,1544.54
+1034,"Lucas Martins",Lightweight,4,3,0,1628.19,1628.19
+1035,"Pedro Nobre",Bantamweight,0,1,0,1479.16,1500
+1036,"Ildemar Alcantara","Light Heavyweight",4,3,0,1578.19,1608.87
+1037,"Sean Spencer",Middleweight,3,5,0,1542.77,1602.95
+1038,"Tyron Woodley",Welterweight,9,6,1,1913.65,2024.37
+1039,"King Green",Lightweight,14,12,1,1865.95,1943.91
+1040,"Isaac Vallie-Flagg",Lightweight,1,3,0,1521.34,1578.31
+1041,"Dustin Kimura",Bantamweight,2,3,0,1521.43,1575.93
+1042,"Ronda Rousey","Women's Bantamweight",6,2,0,1701.02,1759.83
+1043,"Liz Carmouche","Women's Bantamweight",5,5,0,1629.48,1645.15
+1044,"Caros Fodor",Lightweight,0,1,0,1487.8,1500
+1045,"Neil Magny",Welterweight,22,12,0,1896.33,2027.4
+1046,"Jon Manley",Welterweight,0,1,0,1475,1500
+1047,"Nah-Shon Burrell",Welterweight,1,1,0,1523.68,1550
+1048,"Yuri Villefort",Welterweight,0,2,0,1450.26,1500
+1049,"Mizuto Hirota",Featherweight,1,5,1,1472.63,1535.45
+1050,"Kazuki Tokudome",Lightweight,1,3,0,1477.42,1555.11
+1051,"Kyung Ho Kang",Bantamweight,8,6,0,1677.73,1751.98
+1052,"Hyun Gyu Lim",Welterweight,3,4,0,1536.55,1613.65
+1053,"Bobby Voelker",Welterweight,0,4,0,1426.2,1500
+1054,"Jordan Mein",Welterweight,5,4,0,1709.45,1709.45
+1055,"Quinn Mulhern",Welterweight,0,2,0,1465.53,1500
+1056,"Gegard Mousasi","Light Heavyweight",9,3,0,1961.3,1961.3
+1057,"Ilir Latifi","Light Heavyweight",9,7,0,1763.71,1803.56
+1058,"Ryan Couture",Lightweight,0,2,0,1463.13,1500
+1059,"Tor Troeng",Middleweight,1,3,0,1481.64,1550
+1060,"Adam Cella",Middleweight,0,1,0,1475,1500
+1061,"Adlan Amagov",Welterweight,2,0,0,1614.01,1614.01
+1062,"Chris Spang",Welterweight,0,1,0,1475,1500
+1063,"Conor McGregor",Featherweight,10,4,0,1953.76,1993.1
+1064,"Ryan LaFlare",Welterweight,7,3,0,1774.55,1808.73
+1065,"Kelvin Gastelum",Middleweight,13,10,0,1888.07,1956.17
+1066,"Uriah Hall",Middleweight,10,9,0,1840.36,1901.62
+1067,"Cat Zingano","Women's Bantamweight",3,4,0,1581.46,1615.51
+1068,"Miesha Tate","Women's Bantamweight",7,6,0,1689.68,1704.68
+1069,"Robert McDaniel",Middleweight,1,2,0,1506.84,1550
+1070,"Gilbert Smith",Middleweight,0,1,0,1475,1500
+1071,"Josh Samman",Middleweight,3,2,0,1609.55,1660.28
+1072,"Kevin Casey",Middleweight,2,4,1,1531.77,1589.94
+1073,"Luke Barnatt",Middleweight,3,3,0,1568.46,1649.08
+1074,"Collin Hart",Middleweight,0,1,0,1475,1500
+1075,"Dylan Andrews",Middleweight,2,3,0,1508.46,1595.47
+1076,"Jimmy Quinlan",Middleweight,0,1,0,1475,1500
+1077,"Clint Hester",Middleweight,4,3,0,1587.14,1678.75
+1078,"Bristol Marunde",Middleweight,0,2,0,1451.8,1500
+1079,"Gilbert Melendez",Lightweight,1,6,0,1512.17,1584.04
+1080,"Daniel Cormier",Heavyweight,12,3,0,2082.45,2142.55
+1081,"Lorenz Larkin",Middleweight,5,5,0,1752.74,1752.74
+1082,"Jorge Masvidal",Lightweight,12,10,0,1898.72,1965.21
+1083,"Roger Bowling",Lightweight,1,2,0,1510.78,1537.77
+1084,"Yoel Romero",Middleweight,9,4,0,1886.36,1970.25
+1085,"Yancy Medeiros",Lightweight,6,9,0,1675.73,1787.94
+1086,"Ovince Saint Preux","Light Heavyweight",15,13,0,1758.76,1836.37
+1087,"Gian Villante","Light Heavyweight",7,11,0,1571.49,1705.64
+1088,"Sara McMann","Women's Bantamweight",7,6,0,1692.74,1692.74
+1089,"Sheila Gaff","Women's Bantamweight",0,2,0,1451.8,1500
+1090,"Kurt Holobaugh",Featherweight,2,6,0,1514.06,1525.79
+1091,"Luke Rockhold",Middleweight,6,5,0,1803.4,1887.89
+1092,"Jacare Souza",Middleweight,9,7,0,1807.92,1949.57
+1093,"Joao Zeferino",Middleweight,0,2,0,1457.93,1500
+1094,"Michel Prazeres",Welterweight,10,4,0,1758.01,1840.32
+1095,"Iliarde Santos",Bantamweight,0,3,0,1439.44,1500
+1096,"KJ Noons",Lightweight,3,3,0,1626.45,1697.95
+1097,"Estevan Payan",Featherweight,0,3,0,1441.23,1500
+1098,"Leonardo Santos",Welterweight,7,3,1,1717.3,1804.54
+1099,"William Macario",Welterweight,1,3,0,1482.72,1524.31
+1100,"Rafael Cavalcante","Light Heavyweight",1,4,0,1515.95,1556.39
+1101,"Eddie Mendez",Middleweight,0,1,0,1473.93,1500
+1102,"Leandro Silva",Welterweight,4,4,0,1614.03,1663.91
+1103,"Antonio Braga Neto",Middleweight,1,2,0,1507.78,1550
+1104,"Anthony Smith",Middleweight,13,11,0,1829.59,1917.19
+1105,"Alexis Davis","Women's Bantamweight",8,6,0,1653.31,1695.02
+1106,"Rosi Sexton","Women's Bantamweight",0,2,0,1449.87,1500
+1107,"James Krause",Lightweight,9,4,0,1821.6,1821.6
+1108,"Tim Kennedy",Middleweight,3,2,0,1661.22,1697.23
+1109,"Roger Gracie",Middleweight,0,1,0,1475,1500
+1110,"Brian Melancon",Welterweight,1,1,0,1545.17,1571.73
+1111,"Jessica Andrade","Women's Bantamweight",17,11,0,1871.87,1924.44
+1112,"Trevor Smith",Middleweight,5,7,0,1601.11,1672.36
+1113,"Germaine de Randamie","Women's Bantamweight",7,3,0,1757.16,1785.04
+1114,"Julie Kedzie","Women's Bantamweight",0,2,0,1451.8,1500
+1115,"Thiago Santos",Middleweight,14,10,0,1808.43,1894.93
+1116,"Jose Maria",Flyweight,0,2,0,1456.31,1500
+1117,"Amanda Nunes","Women's Bantamweight",16,2,0,1980.45,1980.45
+1118,"Francimar Barroso","Light Heavyweight",5,4,0,1600.65,1662.5
+1119,"Viscardi Andrade",Welterweight,3,1,0,1619.31,1619.31
+1120,"James Vick",Lightweight,9,5,0,1750.87,1882.23
+1121,"Brandon Thatch",Welterweight,2,4,0,1534.35,1623.24
+1122,"Zak Cummings",Welterweight,10,4,0,1808.62,1808.62
+1123,"Nikita Krylov",Heavyweight,11,7,0,1888.81,1888.81
+1124,"Piotr Hallmann",Lightweight,2,4,0,1541.63,1608.4
+1125,"Ali Bagautinov",Flyweight,4,3,0,1647.46,1668.43
+1126,"Edimilson Souza",Featherweight,3,1,0,1628.99,1656.47
+1127,"Ramiro Hernandez",Bantamweight,0,2,0,1459.26,1500
+1128,"Elias Silverio",Welterweight,3,2,0,1582.88,1644.4
+1129,"Ivan Jorge",Welterweight,2,2,0,1535.33,1561.66
+1130,"Wilson Reis",Bantamweight,7,6,0,1682.46,1723.23
+1131,"Jesse Ronson",Lightweight,0,6,0,1389.9,1500
+1132,"Daniel Omielanczuk",Heavyweight,4,5,0,1566.13,1645.08
+1133,"Nandor Guelmino",Heavyweight,0,1,0,1475,1500
+1134,"Igor Araujo",Welterweight,2,2,0,1550.8,1603.77
+1135,"Yan Cabral",Welterweight,2,3,0,1521.02,1564.32
+1136,"Alan Patrick",Lightweight,6,4,0,1662.92,1711.85
+1137,"Garett Whiteley",Lightweight,0,3,0,1426.8,1500
+1138,"Darrell Montague",Flyweight,0,3,0,1438.57,1500
+1139,"Sarah Kaufman","Women's Bantamweight",2,2,0,1538.87,1592.85
+1140,"Jessica Eye","Women's Bantamweight",5,11,0,1575.96,1663.57
+1141,"Andre Fili",Featherweight,13,11,0,1766.66,1805.5
+1142,"Kyoji Horiguchi",Bantamweight,7,1,0,1766.81,1766.81
+1143,"Nicholas Musoke",Middleweight,3,3,0,1569.68,1629.23
+1144,"Robert Whiteford",Featherweight,2,3,0,1542.77,1582.95
+1145,"Brian Houston",Middleweight,0,2,0,1456.08,1500
+1146,"Santiago Ponzinibbio",Welterweight,12,7,0,1854.2,1911.49
+1147,"Omari Akhmedov",Middleweight,9,5,1,1817.11,1841.36
+1148,"Adriano Martins",Lightweight,4,3,0,1634.58,1691.25
+1149,"Dustin Ortiz",Flyweight,8,6,0,1733.62,1750.43
+1150,"Anthony Lapsley",Welterweight,0,2,0,1452.03,1500
+1151,"Sergio Pettis",Bantamweight,9,5,0,1769.96,1811.46
+1152,"Julianna Pena","Women's Bantamweight",8,3,0,1845.65,1845.65
+1153,"Jessica Rakoczy","Women's Bantamweight",0,2,0,1455.31,1500
+1154,"Chris Holdsworth",Bantamweight,2,0,0,1608.66,1608.66
+1155,"Davey Grant",Bantamweight,7,6,0,1716.84,1722.01
+1156,"Jessamyn Duke","Women's Bantamweight",1,3,0,1468.25,1550
+1157,"Peggy Morgan","Women's Bantamweight",0,1,0,1475,1500
+1158,"Raquel Pennington","Women's Bantamweight",13,6,0,1872.85,1906.71
+1159,"Roxanne Modafferi","Women's Bantamweight",4,8,0,1555.49,1622.11
+1160,"Tom Niinimaki",Featherweight,1,3,0,1483.27,1568.27
+1161,"Jared Rosholt",Heavyweight,6,2,0,1717.87,1748.58
+1162,"Walt Harris",Heavyweight,6,10,0,1637.14,1681.02
+1163,"Drew Dober",Welterweight,13,11,0,1776.23,1851.74
+1164,"Josh Sampo",Flyweight,1,3,0,1476.44,1550
+1165,"Ryan Benoit",Flyweight,3,6,0,1508.08,1595.3
+1166,"Bethe Correia","Women's Bantamweight",5,6,1,1564.79,1633.33
+1167,"Justin Scoggins",Flyweight,4,5,0,1549.61,1637.06
+1168,"Richie Vaculik",Flyweight,1,3,0,1474.63,1528.59
+1169,"Krzysztof Jotko",Middleweight,11,6,0,1807.85,1837.88
+1170,"Bruno Santos",Middleweight,1,2,0,1522.59,1547.4
+1171,"Alex Garcia",Welterweight,5,5,0,1648.21,1696.01
+1172,"Ben Wall",Welterweight,0,2,0,1456.09,1500
+1173,"Zach Makovsky",Flyweight,3,4,0,1567.71,1623.47
+1174,"Alptekin Ozkilic",Flyweight,1,3,0,1485.87,1559.7
+1175,"Tarec Saffiedine",Welterweight,2,4,0,1605.58,1636.07
+1176,"Tatsuya Kawajiri",Featherweight,3,3,0,1621.27,1652.85
+1177,"Sean Soriano",Featherweight,0,5,0,1398.58,1500
+1178,"Kiichi Kunimoto",Welterweight,3,2,0,1588.76,1638.69
+1179,"Luiz Dutra",Welterweight,0,2,0,1451.8,1500
+1180,"Shunichi Shimizu",Bantamweight,0,1,0,1471.99,1500
+1181,"Will Chope",Featherweight,0,1,0,1479.82,1500
+1182,"Katsunori Kikuno",Lightweight,2,3,0,1546.91,1588.32
+1183,"Royston Wee",Bantamweight,2,1,0,1564.78,1592.85
+1184,"Dave Galera",Bantamweight,0,1,0,1475,1500
+1185,"Mairbek Taisumov",Lightweight,7,2,0,1733.12,1756.99
+1186,"Tae Hyun Bang",Lightweight,2,3,0,1529.92,1550.55
+1187,"Jon Delos Reyes",Bantamweight,1,3,0,1491.09,1511.65
+1188,"Russell Doane",Bantamweight,3,5,0,1545.07,1608.25
+1189,"Leandro Issa",Bantamweight,2,3,0,1539.6,1580.79
+1190,"Louis Smolka",Flyweight,8,9,0,1601.4,1724.41
+1191,"Beneil Dariush",Lightweight,16,6,1,1989.5,2048.45
+1192,"George Sullivan",Welterweight,3,4,0,1546.9,1623.37
+1193,"Mike Rhodes",Welterweight,0,3,0,1442.32,1500
+1194,"Danny Martinez",Flyweight,1,3,0,1496.85,1500
+1195,"Kevin Lee",Lightweight,11,8,0,1812.34,1917.16
+1196,"Andy Enz",Middleweight,0,3,0,1439.57,1500
+1197,"Rashid Magomedov",Lightweight,5,1,0,1739.87,1739.87
+1198,"Anthony Rocco Martin",Lightweight,9,6,0,1838.6,1857.94
+1199,"Gasan Umalatov",Welterweight,1,3,0,1495.73,1545.23
+1200,"Takenori Sato",Welterweight,0,2,0,1464,1500
+1201,"Albert Tumenov",Welterweight,5,3,0,1666.46,1725.05
+1202,"Zubaira Tukhugov",Featherweight,5,3,1,1650.84,1688.2
+1203,"Douglas Silva de Andrade",Featherweight,7,6,0,1692.9,1723.77
+1204,"Patrick Cummins","Light Heavyweight",6,7,0,1632.36,1710.75
+1205,"Pedro Munhoz",Bantamweight,12,10,0,1807.27,1900.48
+1206,"Aljamain Sterling",Bantamweight,16,5,0,2046.71,2106.26
+1207,"Cody Gibson",Bantamweight,3,6,0,1555.93,1578.15
+1208,"Ernest Chavez",Lightweight,1,2,0,1505.23,1550
+1209,"Yosdenis Cedeno",Lightweight,1,3,0,1477.84,1528.59
+1210,"Zhang Lipeng",Welterweight,2,2,0,1533.34,1592.85
+1211,"Sai Wang",Welterweight,1,1,0,1525.64,1525.64
+1212,"Yui Chul Nam",Lightweight,1,2,0,1498.93,1554.27
+1213,"Anying Wang",Welterweight,1,1,0,1521.43,1550
+1214,"Albert Cheng",Welterweight,0,1,0,1475,1500
+1215,"Mark Eddiva",Featherweight,1,3,0,1478.22,1550
+1216,"Jumabieke Tuerxun",Featherweight,0,3,0,1433.86,1500
+1217,"Neil Seery",Flyweight,3,4,0,1566.82,1615.09
+1218,"Mats Nilsson",Middleweight,0,2,0,1461.72,1500
+1219,"Claudio Silva",Middleweight,5,3,0,1654.96,1736.33
+1220,"Danny Mitchell",Welterweight,0,2,0,1454.14,1500
+1221,"Francisco Trevino",Lightweight,1,2,0,1504.82,1554.35
+1222,"Sean Strickland",Middleweight,16,7,0,1979.71,2002.52
+1223,"Hans Stringer","Light Heavyweight",1,2,0,1512.11,1556.82
+1224,"Noad Lahat",Featherweight,2,2,0,1565.78,1593.92
+1225,"Jim Alers",Featherweight,1,3,0,1484.97,1550
+1226,"Alan Omer",Featherweight,0,2,0,1451.8,1500
+1227,"Elias Theodorou",Middleweight,8,3,0,1800.02,1825.43
+1228,"Sheldon Westcott",Middleweight,1,2,0,1497.53,1500
+1229,"Chad Laprise",Welterweight,6,4,0,1634.4,1699.73
+1230,"Olivier Aubin-Mercier",Welterweight,7,5,0,1679.67,1787.39
+1231,"Leslie Smith","Women's Bantamweight",4,3,0,1609.05,1609.05
+1232,"Sean O'Connell","Light Heavyweight",2,5,0,1515.26,1577.43
+1233,"Mike de la Torre",Lightweight,3,4,0,1571.43,1609.79
+1234,"Nordine Taleb",Middleweight,7,5,0,1662.89,1728.91
+1235,"Vik Grujic",Middleweight,1,3,0,1477.21,1525
+1236,"Richard Walsh",Welterweight,2,4,0,1498.73,1550.12
+1237,"Chris Indich",Welterweight,0,2,0,1450,1500
+1238,"Tim Gorman",Bantamweight,0,2,0,1457.35,1500
+1239,"Alex White",Featherweight,4,6,0,1552.97,1585.15
+1240,"Luke Zachrich",Middleweight,1,2,0,1506.76,1534.21
+1241,"Hernani Perpetuo",Welterweight,0,2,0,1457.54,1500
+1242,"Ray Borg",Flyweight,7,5,0,1698.08,1729.91
+1243,"Mirsad Bektic",Featherweight,6,4,0,1678.87,1775.77
+1244,"Chas Skelly",Featherweight,9,3,0,1761.1,1761.1
+1245,"Derrick Lewis",Heavyweight,19,10,0,1910.15,2012.8
+1246,"Jack May",Heavyweight,0,2,0,1459.43,1500
+1247,"Chris Beal",Bantamweight,2,3,0,1505.37,1592.85
+1248,"Patrick Williams",Bantamweight,1,3,0,1484.2,1535.63
+1249,"Ruan Potts",Heavyweight,0,3,0,1439.29,1500
+1250,"Aaron Phillips",Featherweight,0,4,0,1413.48,1500
+1251,"Li Jingliang",Welterweight,11,7,0,1783.36,1849.75
+1252,"David Michaud",Welterweight,1,2,0,1496.69,1521.41
+1253,"Niklas Backstrom",Featherweight,1,2,0,1508.43,1559.7
+1254,"Nick Hein",Lightweight,4,4,0,1557.39,1653.14
+1255,"Pawel Pawlak",Welterweight,1,2,0,1498.29,1521.45
+1256,"Ruslan Magomedov",Heavyweight,3,0,0,1659.76,1659.76
+1257,"Viktor Pesta",Heavyweight,1,4,0,1463.18,1528.59
+1258,"Antonio Carlos Junior",Heavyweight,8,5,0,1720.15,1808.52
+1259,"Vitor Miranda",Heavyweight,3,4,0,1554.91,1640.5
+1260,"Warlley Alves",Middleweight,8,8,0,1619.38,1751.4
+1261,"Marcio Alexandre Junior",Middleweight,0,3,0,1444.44,1500
+1262,"Alexander Yakovlev",Welterweight,3,6,0,1560.95,1621.66
+1263,"Ricardo Abreu",Middleweight,1,1,0,1519.56,1550
+1264,"Wagner Silva",Middleweight,0,2,0,1455.8,1500
+1265,"Marcos Rogerio de Lima",Heavyweight,11,7,0,1809.88,1810.27
+1266,"Richardson Moreira",Heavyweight,0,2,0,1456.84,1500
+1267,"Matt Hobar",Bantamweight,1,2,0,1503.22,1524.66
+1268,"Jake Lindsey",Lightweight,0,3,0,1430.32,1500
+1269,"Roger Narvaez","Light Heavyweight",1,2,0,1522.51,1543.51
+1270,"Valerie Letourneau","Women's Bantamweight",3,3,0,1553.8,1634.75
+1271,"Elizabeth Phillips","Women's Bantamweight",1,3,0,1493.13,1508.19
+1272,"Kajan Johnson",Lightweight,4,3,0,1658.17,1695.4
+1273,"Michinori Tanaka",Bantamweight,2,3,0,1535.85,1579.98
+1274,"Jason Saggo",Lightweight,3,3,0,1598.18,1640.74
+1275,"Josh Shockley",Lightweight,0,2,0,1453.06,1500
+1276,"Jake Matthews",Lightweight,14,7,0,1812.54,1822.4
+1277,"Dashon Johnson",Lightweight,0,2,0,1454.01,1500
+1278,"Roldan Sangcha'an",Flyweight,0,2,0,1447.23,1500
+1279,"Rodrigo de Lima",Welterweight,0,2,0,1460.4,1500
+1280,"Dan Hooker",Featherweight,14,8,0,1962.49,1962.49
+1281,"Ian Entwistle",Featherweight,1,2,0,1506.42,1528.59
+1282,"Joe Ellenberger",Lightweight,1,1,0,1521.43,1550
+1283,"James Moontasri",Lightweight,2,4,0,1517.6,1559.41
+1284,"Diego Ferreira",Lightweight,10,6,0,1838.9,1879.94
+1285,"Shane Howell",Flyweight,0,2,0,1452.02,1500
+1286,"Aleksei Oleinik",Heavyweight,9,8,0,1721.62,1812.33
+1287,"Anthony Hamilton",Heavyweight,3,7,0,1468.75,1571.14
+1288,"Rob Font",Bantamweight,12,7,0,1897.11,1897.11
+1289,"Guilherme Vasconcelos",Middleweight,0,1,0,1473.67,1500
+1290,"Bubba Bush",Middleweight,0,2,0,1448.33,1500
+1291,"Corey Anderson","Light Heavyweight",10,5,0,1858.48,1883.81
+1292,"Matt Van Buren","Light Heavyweight",0,2,0,1448.8,1500
+1293,"Eddie Gordon",Middleweight,1,3,0,1473.89,1550
+1294,"Dhiego Lima",Middleweight,4,7,0,1620.99,1649.65
+1295,"Guto Inocente",Heavyweight,0,2,0,1461.87,1500
+1296,"Juan Manuel Puig",Lightweight,0,2,0,1455.71,1500
+1297,"Patrick Walsh","Light Heavyweight",1,1,0,1525.35,1550
+1298,"Daniel Spohn","Light Heavyweight",0,1,0,1475,1500
+1299,"Sarah Moras","Catch Weight",3,6,0,1494.74,1581.86
+1300,"Alexis Dufresne","Catch Weight",0,2,0,1451.8,1500
+1301,"Robert Drysdale","Light Heavyweight",1,0,0,1550,1550
+1302,"Keith Berish","Light Heavyweight",0,2,0,1451.8,1500
+1303,"Jerrod Sanders",Lightweight,1,3,0,1503.63,1521.69
+1304,"Claudia Gadelha","Women's Strawweight",7,5,0,1724.93,1752.34
+1305,"Tina Lahdemaki","Women's Strawweight",0,1,0,1475,1500
+1306,"Chris Dempsey","Light Heavyweight",1,3,0,1482.31,1534.74
+1307,"Cathal Pendred",Middleweight,4,2,0,1621.43,1685.54
+1308,"Mike King",Middleweight,0,1,0,1475,1500
+1309,"Paddy Holohan",Flyweight,3,2,0,1592.96,1616.26
+1310,"Brian Ortega",Featherweight,8,5,0,1905.97,1942.45
+1311,"Tiago dos Santos e Silva",Lightweight,2,2,0,1542.91,1573.09
+1312,"Akbarh Arreola",Lightweight,1,3,0,1506.75,1547.54
+1313,"Gilbert Burns",Welterweight,15,8,0,1961.02,2059.32
+1314,"Andreas Stahl",Welterweight,0,2,0,1456.54,1500
+1315,"Joanna Jedrzejczyk","Women's Strawweight",10,5,0,1758.66,1828.99
+1316,"Juliana Lima","Women's Strawweight",3,4,0,1542.94,1589.59
+1317,"Alan Jouban",Welterweight,8,5,0,1709.52,1720.5
+1318,"Lauren Murphy","Women's Bantamweight",8,6,0,1757.31,1774.24
+1319,"Sam Alvey",Middleweight,10,13,1,1572.89,1822.01
+1320,"Frankie Saenz",Bantamweight,5,5,0,1600.04,1662.83
+1321,"Nolan Ticman",Bantamweight,0,2,0,1450.26,1500
+1322,"Brendan O'Reilly",Lightweight,1,3,0,1483.41,1532.23
+1323,"Guangyou Ning",Featherweight,2,2,0,1546.9,1606.14
+1324,"Jianping Yang",Featherweight,0,1,0,1475,1500
+1325,"Alberto Mina",Welterweight,3,1,0,1645.05,1676.42
+1326,"Shinsho Anzai",Welterweight,2,2,0,1565.68,1581.54
+1327,"Yuta Sasaki",Bantamweight,4,5,0,1599.39,1622.71
+1328,"Colby Covington",Welterweight,12,5,0,2005.78,2056.05
+1329,"Yao Zhikui",Bantamweight,1,3,0,1479.31,1528.06
+1330,"Milana Dudieva","Women's Bantamweight",1,2,0,1498.41,1546.41
+1331,"Clay Collard","Catch Weight",1,3,0,1491.71,1540.44
+1332,"Valmir Lazaro",Lightweight,1,2,0,1521.37,1545.12
+1333,"Chris Heatherly",Welterweight,0,2,0,1460.24,1500
+1334,"Joby Sanchez",Flyweight,1,4,0,1452.22,1528.18
+1335,"Joe Soto",Bantamweight,3,5,0,1602.79,1651.75
+1336,"Shayna Baszler","Women's Bantamweight",0,2,0,1462.92,1500
+1337,"Damon Jackson",Lightweight,6,7,1,1681.1,1725.91
+1338,"Chris Wade",Lightweight,5,2,0,1654.13,1675.31
+1339,"Cain Carrizosa",Lightweight,0,2,0,1449.36,1500
+1340,"Tateki Matsuda",Bantamweight,0,2,0,1453.54,1500
+1341,"Wendell Oliveira Marques",Welterweight,0,2,0,1450.4,1500
+1342,"Larissa Pacheco","Women's Bantamweight",0,2,0,1458.64,1500
+1343,"Rin Nakai","Women's Bantamweight",0,2,0,1452.96,1500
+1344,"Masanori Kanehara",Bantamweight,1,2,0,1539.23,1573.8
+1345,"Johnny Case",Lightweight,4,2,0,1619.19,1677.23
+1346,"Eddie Alvarez",Lightweight,5,3,0,1795.72,1813.64
+1347,"Jan Blachowicz","Light Heavyweight",12,8,1,1953.53,2028.22
+1348,"Scott Askham",Middleweight,2,4,0,1504.47,1557.98
+1349,"Charles Rosa",Featherweight,5,8,0,1547.84,1630.43
+1350,"Marcin Bandel",Lightweight,0,2,0,1453.39,1500
+1351,"Roman Salazar",Bantamweight,1,2,0,1497.03,1525.65
+1352,"Paul Felder",Lightweight,9,6,0,1849.17,1892.49
+1353,"Chris Kelades",Flyweight,2,2,0,1564.43,1585.51
+1354,"Matt Dwyer",Welterweight,1,3,0,1485.26,1531.81
+1355,"Christos Giagos",Lightweight,6,8,0,1607.65,1667
+1356,"Daniel Kelly",Middleweight,6,4,0,1705.97,1795.38
+1357,"Leon Edwards",Welterweight,15,4,0,2135.32,2209.1
+1358,"Jorge de Oliveira",Welterweight,0,2,0,1448.59,1500
+1359,"Nina Nunes","Women's Strawweight",5,4,0,1686.78,1686.78
+1360,"Diego Rivas",Featherweight,2,2,0,1549.2,1606.29
+1361,"Rodolfo Rubio Perez",Featherweight,0,1,0,1475,1500
+1362,"Thomas Almeida",Bantamweight,5,5,0,1594.67,1688.66
+1363,"Augusto Montano",Welterweight,1,2,0,1501.64,1547.71
+1364,"Hector Urbina",Welterweight,1,2,0,1498.45,1543.77
+1365,"Yair Rodriguez",Featherweight,11,4,0,1947.94,1997.26
+1366,"Leonardo Morales",Featherweight,0,2,0,1450,1500
+1367,"Alejandro Perez",Bantamweight,8,4,1,1714.22,1780.9
+1368,"Jose Quinonez",Bantamweight,5,4,0,1611.42,1669.33
+1369,"Gabriel Benitez",Featherweight,7,8,0,1590.45,1697.34
+1370,"Humberto Brown Morrison",Featherweight,0,1,0,1475,1500
+1371,"Henry Briones",Bantamweight,1,4,0,1474.67,1550
+1372,"Guido Cannetti",Bantamweight,4,6,0,1575.01,1592.63
+1373,"Marco Beltran",Bantamweight,3,3,0,1548.69,1649.74
+1374,"Marlon Vera",Bantamweight,15,9,0,1929.86,1982.29
+1375,"Josh Copeland",Heavyweight,0,2,0,1463.33,1500
+1376,"Paige VanZant","Women's Strawweight",5,4,0,1608.84,1652.32
+1377,"Kailin Curran","Women's Strawweight",1,6,0,1417.54,1503.59
+1378,"Dooho Choi",Featherweight,5,3,1,1729.17,1729.17
+1379,"Justin Jones","Light Heavyweight",0,2,0,1453.75,1500
+1380,"Ashlee Evans-Smith","Women's Bantamweight",3,6,0,1491.48,1585
+1381,"Carla Esparza","Women's Strawweight",10,6,0,1824.48,1891.87
+1382,"Rose Namajunas","Women's Strawweight",11,6,0,1885.99,1918.51
+1383,"Jessica Penne","Women's Strawweight",3,6,0,1520.82,1599.41
+1384,"Randa Markos","Women's Strawweight",7,10,1,1587.15,1643.05
+1385,"Felice Herrig","Women's Strawweight",5,5,0,1584.9,1702.79
+1386,"Lisa Ellis","Women's Strawweight",0,2,0,1450,1500
+1387,"Heather Clark","Women's Strawweight",1,2,0,1498.55,1550
+1388,"Bec Rawlings","Women's Strawweight",2,5,0,1480.93,1575.03
+1389,"Joanne Wood","Women's Strawweight",9,8,0,1711.95,1711.95
+1390,"Seo Hee Ham","Women's Strawweight",1,3,0,1473.79,1525.22
+1391,"Tecia Pennington","Women's Strawweight",10,7,0,1756.17,1756.17
+1392,"Angela Magana","Women's Strawweight",0,3,0,1430.16,1500
+1393,"Aisling Daly","Women's Strawweight",2,1,0,1563.58,1563.58
+1394,"Alex Chambers","Women's Strawweight",1,4,0,1456.37,1525
+1395,"Angela Hill","Women's Strawweight",13,14,0,1751.5,1751.5
+1396,"Emily Kagan","Women's Strawweight",0,2,0,1448.2,1500
+1397,"Willie Gates",Flyweight,1,3,0,1487.4,1532.12
+1398,"Bryan Barberena",Lightweight,9,10,0,1720.54,1825.31
+1399,"Henry Cejudo",Bantamweight,10,5,0,1918.59,1994.25
+1400,"Anthony Birchak",Bantamweight,2,4,0,1500.68,1554.69
+1401,"Antonio Dos Santos",Middleweight,0,2,0,1450.01,1500
+1402,"Renato Moicano",Featherweight,12,6,0,1929.85,1938.45
+1403,"Jake Collier",Middleweight,5,9,0,1533.85,1622.05
+1404,"Cody Garbrandt",Bantamweight,9,6,0,1791.68,1814.39
+1405,"Jared Cannonier",Heavyweight,11,8,0,1954.17,1996.19
+1406,"Marion Reneau","Women's Bantamweight",5,7,1,1553.88,1680.21
+1407,"Ron Stallings",Middleweight,1,2,0,1509.31,1530.77
+1408,"Frankie Perez",Lightweight,1,3,0,1508.68,1553.01
+1409,"Sultan Aliev",Welterweight,2,2,0,1589.21,1589.21
+1410,"Makwan Amirkhani",Featherweight,7,7,0,1618.68,1714.17
+1411,"Anthony Christodoulou",Lightweight,0,2,0,1456.45,1500
+1412,"Paul Redmond",Featherweight,0,2,0,1458.08,1500
+1413,"Konstantin Erokhin",Heavyweight,0,2,0,1460.49,1500
+1414,"Cody Pfister",Lightweight,1,3,0,1480.61,1527.78
+1415,"Holly Holm","Women's Bantamweight",9,7,0,1765.97,1808.74
+1416,"Masio Fullen",Featherweight,1,2,0,1505.88,1550
+1417,"Alex Torres",Featherweight,0,1,0,1475,1500
+1418,"Joe Duffy",Lightweight,4,4,0,1596.19,1678.04
+1419,"Alex Oliveira",Lightweight,12,10,0,1704.46,1883.77
+1420,"Fredy Serrano",Flyweight,2,2,0,1535.71,1596.85
+1421,"Bentley Syler",Flyweight,0,1,0,1475,1500
+1422,"Timothy Johnson",Heavyweight,4,3,0,1621.78,1621.78
+1423,"Shamil Abdurakhimov",Heavyweight,5,6,0,1635.85,1741.58
+1424,"Maryna Moroz","Women's Strawweight",6,6,0,1606.42,1686.03
+1425,"Bartosz Fabinski",Middleweight,3,3,0,1575.45,1643.74
+1426,"Garreth McLellan",Middleweight,1,4,0,1455.92,1524.74
+1427,"Mickael Lebout",Welterweight,1,2,0,1512.73,1533.53
+1428,"Damian Stasiak",Featherweight,2,4,0,1506.78,1578.51
+1429,"Aleksandra Albu","Women's Strawweight",2,2,0,1528.82,1586.87
+1430,"Izabela Badurek","Women's Strawweight",0,1,0,1475,1500
+1431,"Stevie Ray",Lightweight,7,4,0,1756.83,1756.83
+1432,"Taylor Lapilus",Featherweight,6,2,0,1722.47,1722.47
+1433,"Rocky Lee",Featherweight,0,1,0,1475,1500
+1434,"Shane Campbell","Catch Weight",1,4,0,1486.17,1554
+1435,"Jonavin Webb",Welterweight,0,2,0,1458.01,1500
+1436,"Ben Nguyen",Flyweight,4,3,0,1621.04,1666.36
+1437,"Levan Makashvili",Featherweight,1,1,1,1532.84,1553.71
+1438,"Islam Makhachev",Lightweight,16,1,0,2228.72,2228.72
+1439,"Leo Kuntz",Lightweight,0,2,0,1452.14,1500
+1440,"Darren Till",Welterweight,6,5,1,1782.04,1845.94
+1441,"Nicolas Dalby",Welterweight,8,4,1,1809.01,1844.29
+1442,"Elizeu Zaleski dos Santos",Welterweight,11,5,1,1768.82,1807.26
+1443,"Ericka Almeida","Women's Strawweight",0,2,0,1455.1,1500
+1444,"Tom Breese",Welterweight,5,3,0,1669.15,1690.08
+1445,"Steve Kennedy",Welterweight,0,2,0,1452.11,1500
+1446,"Lukasz Sajewski",Lightweight,0,3,0,1438.63,1500
+1447,"Arnold Allen",Featherweight,11,2,0,1938.57,1941.23
+1448,"Magomed Mustafaev",Lightweight,3,2,0,1609.87,1641.29
+1449,"Steve Bosse",Middleweight,2,1,0,1600.68,1600.68
+1450,"Joe Merritt",Welterweight,0,1,0,1479.22,1500
+1451,"Lewis Gonzalez",Welterweight,0,1,0,1480.34,1500
+1452,"Tony Sims",Welterweight,1,2,0,1512.55,1550
+1453,"Steve Montgomery",Welterweight,0,2,0,1457.29,1500
+1454,"Sirwan Kakai",Bantamweight,1,1,0,1524.83,1544.18
+1455,"Kamaru Usman",Welterweight,15,3,0,2092.92,2197.08
+1456,"Hayder Hassan",Welterweight,0,2,0,1450,1500
+1457,"Michael Graves",Welterweight,2,0,1,1600.23,1600.23
+1458,"Vicente Luque",Welterweight,16,6,0,1985.68,2015.8
+1459,"Michelle Waterson-Gomez","Women's Strawweight",6,9,0,1606.92,1727.64
+1460,"Dominic Waters",Welterweight,0,3,0,1456.65,1500
+1461,"Lyman Good",Welterweight,3,3,0,1640.31,1657.52
+1462,"Cortney Casey","Women's Strawweight",6,9,0,1576.86,1613.42
+1463,"Teemu Packalen",Lightweight,1,3,0,1481.74,1527.41
+1464,"Jimmie Rivera",Bantamweight,7,4,0,1780.45,1808.49
+1465,"Chris de la Rocha",Heavyweight,1,3,0,1476.14,1501.23
+1466,"Andrew Holbrook",Lightweight,2,3,0,1543.03,1605.96
+1467,"Dominique Steele",Middleweight,1,4,0,1469.46,1533.48
+1468,"Glaico Franca Moreira",Lightweight,1,2,0,1507.01,1550
+1469,"Fernando Bruno",Lightweight,0,2,0,1467.18,1500
+1470,"Reginaldo Vieira",Bantamweight,1,2,0,1502.05,1550
+1471,"Dileno Lopes",Bantamweight,0,2,0,1452.49,1500
+1472,"Jessica Aguilar","Women's Strawweight",1,4,0,1464.17,1509.94
+1473,"Geane Herrera",Flyweight,1,3,0,1498.74,1537.7
+1474,"Oluwale Bamgbose",Middleweight,1,4,0,1473.58,1541.19
+1475,"Jonathan Wilson","Light Heavyweight",1,3,0,1473.02,1554.98
+1476,"Scott Holtzman",Lightweight,7,6,0,1700.95,1780.8
+1477,"Misha Cirkunov","Light Heavyweight",6,7,0,1618.82,1720.32
+1478,"Daniel Jolly","Light Heavyweight",0,2,0,1448.33,1500
+1479,"Joaquim Silva",Lightweight,6,5,0,1674.27,1691.3
+1480,"Nazareno Malegarie",Lightweight,0,1,0,1475,1500
+1481,"Teruto Ishihara",Featherweight,3,5,1,1518.03,1595.54
+1482,"Yusuke Kasuya",Lightweight,0,2,0,1456.54,1500
+1483,"Roger Zapata",Welterweight,0,1,0,1473.2,1500
+1484,"Sage Northcutt",Lightweight,6,2,0,1701.6,1701.6
+1485,"Matheus Nicolau",Bantamweight,7,4,0,1708.35,1801.54
+1486,"Bruno Korea",Bantamweight,0,1,0,1475,1500
+1487,"Anton Zafir",Welterweight,0,2,0,1455.23,1500
+1488,"Erick Montano",Welterweight,1,2,0,1495.68,1550
+1489,"Enrique Marin",Welterweight,0,2,0,1456.74,1500
+1490,"Enrique Barzola",Lightweight,6,3,1,1646.11,1687.79
+1491,"Horacio Gutierrez",Lightweight,0,2,0,1455.8,1500
+1492,"Alvaro Herrera Mendoza",Welterweight,1,3,0,1467.55,1550
+1493,"Vernon Ramos Ho",Welterweight,0,1,0,1475,1500
+1494,"Marco Polo Reyes",Lightweight,4,4,0,1558.94,1642.8
+1495,"Cesar Arzamendia",Lightweight,0,2,0,1450.48,1500
+1496,"Dong Hyun Ma",Welterweight,3,5,0,1538.7,1617.12
+1497,"Danny Roberts",Welterweight,7,7,0,1618.22,1694.26
+1498,"Nathan Coy",Welterweight,1,2,0,1511.59,1526.24
+1499,"Ryan Hall",Lightweight,5,1,0,1762.52,1767.9
+1500,"Artem Lobov",Lightweight,2,5,0,1532.75,1570.65
+1501,"Jason Knight",Featherweight,4,5,0,1607.82,1718.62
+1502,"Julian Erosa",Lightweight,8,7,0,1751.67,1751.67
+1503,"Marcin Wrzosek",Lightweight,0,1,0,1475,1500
+1504,"Chris Gruetzemacher",Lightweight,3,4,0,1585.28,1609.08
+1505,"Abner Lloveras",Lightweight,0,1,0,1475,1500
+1506,"Jocelyn Jones-Lybarger","Women's Strawweight",0,3,0,1433.24,1500
+1507,"Karolina Kowalkiewicz","Women's Strawweight",9,9,0,1670.44,1736.52
+1508,"Valentina Shevchenko","Women's Bantamweight",13,3,1,1971.69,1971.69
+1509,"Francis Ngannou",Heavyweight,12,2,0,2087.03,2087.03
+1510,"Luis Henrique",Heavyweight,2,4,0,1491.8,1574.48
+1511,"Alex Morono",Welterweight,14,9,0,1762.37,1884.03
+1512,"Justine Kish","Women's Strawweight",3,4,0,1534.9,1589.55
+1513,"Mehdi Baghdad",Lightweight,0,2,0,1471.06,1500
+1514,"Luke Sanders",Featherweight,3,5,0,1563.65,1625.03
+1515,"Kyle Bochniak",Featherweight,2,5,0,1489.5,1564.56
+1516,"Joey Gomez",Bantamweight,0,2,0,1457.93,1500
+1517,"Elvis Mutapcic","Light Heavyweight",0,2,1,1457.95,1500
+1518,"Randy Brown",Welterweight,13,6,0,1913.31,1951.28
+1519,"Felipe Olivieri",Lightweight,0,1,0,1474.68,1500
+1520,"Alex Nicholson","Light Heavyweight",1,3,0,1493.48,1531.65
+1521,"Damian Grabowski",Heavyweight,0,3,0,1440.29,1500
+1522,"Mickey Gall",Welterweight,6,7,0,1561.96,1675.87
+1523,"Mike Jackson",Welterweight,1,3,0,1480.05,1507.37
+1524,"Augusto Mendes","Catch Weight",1,2,0,1534.2,1551.2
+1525,"Leonardo Guimaraes",Middleweight,0,2,0,1456.94,1500
+1526,"Kelly Faszholz","Women's Bantamweight",0,2,0,1448.61,1500
+1527,"Jarjis Danho",Heavyweight,1,1,1,1531.54,1531.54
+1528,"Thibault Gouti",Lightweight,1,5,0,1470.89,1510.25
+1529,"David Teymur",Lightweight,5,1,0,1735.13,1750.94
+1530,"Martin Svensson",Lightweight,0,1,0,1475,1500
+1531,"Damien Brown",Lightweight,2,4,0,1507.86,1585.15
+1532,"Curtis Blaydes",Heavyweight,13,6,0,1966.74,2002.64
+1533,"Marcin Tybura",Heavyweight,14,8,0,1904.82,1904.82
+1534,"Cristina Stanciu","Women's Strawweight",0,2,0,1450.6,1500
+1535,"Damir Hadzovic",Lightweight,4,6,0,1607.05,1660.72
+1536,"Filip Pejic",Bantamweight,0,1,0,1473.13,1500
+1537,"Cyril Asker",Heavyweight,2,3,0,1523.7,1548.92
+1538,"Bojan Velickovic",Middleweight,2,3,1,1536.98,1581.57
+1539,"Alessio Di Chirico",Middleweight,4,7,0,1534.94,1603.59
+1540,"Darrell Horcher","Catch Weight",1,3,0,1492.07,1540.31
+1541,"Cody East",Heavyweight,0,2,0,1445.98,1500
+1542,"Anna Elmose","Women's Bantamweight",0,2,0,1454.51,1500
+1543,"Josh Emmett",Lightweight,10,4,0,1927.86,1945.12
+1544,"Cristiane Justino","Catch Weight",6,1,0,1728.67,1728.67
+1545,"Luan Chagas",Welterweight,1,2,1,1516.65,1534.67
+1546,"Jordan Rinaldi",Lightweight,2,3,0,1573.54,1592.08
+1547,"Alberto Uda",Middleweight,0,2,0,1452.22,1500
+1548,"Adam Milstead",Heavyweight,2,2,0,1538.41,1593.66
+1549,"Henrique da Silva","Light Heavyweight",2,4,0,1485.23,1599.6
+1550,"Ion Cutelaba","Light Heavyweight",8,9,1,1703.96,1703.96
+1551,"Jonathan Meunier",Welterweight,1,1,0,1540.8,1540.8
+1552,"Belal Muhammad",Welterweight,15,4,0,2150.61,2150.61
+1553,"Andrew Sanchez","Light Heavyweight",5,5,0,1596.25,1651.07
+1554,"Khalil Rountree Jr.","Light Heavyweight",10,6,0,1832.7,1848.53
+1555,"Tatiana Suarez","Women's Strawweight",7,1,0,1826.78,1843.96
+1556,"Amanda Cooper","Women's Strawweight",2,4,0,1486.2,1542.12
+1557,"Will Brooks",Lightweight,1,3,0,1544.91,1586.26
+1558,"Josh Stansbury","Light Heavyweight",1,2,0,1491.89,1550
+1559,"Cory Hendricks","Light Heavyweight",0,1,0,1475,1500
+1560,"Lando Vannata",Lightweight,4,7,2,1585.37,1647.47
+1561,"Katlyn Cerminara","Women's Bantamweight",11,6,0,1816.64,1879.85
+1562,"Eric Spicely",Middleweight,2,5,0,1499.23,1606.37
+1563,"Matthew Lopez",Bantamweight,2,4,0,1560.69,1618.65
+1564,"Devin Clark",Middleweight,8,9,0,1641.05,1699.98
+1565,"Bojan Mihajlovic",Heavyweight,0,3,0,1434.48,1500
+1566,"JC Cottrell",Lightweight,0,2,0,1457.3,1500
+1567,"Dmitrii Smoliakov",Heavyweight,0,3,0,1425.06,1500
+1568,"Hector Sandoval",Flyweight,2,2,0,1565.15,1587.93
+1569,"Joseph Gigliotti",Middleweight,0,2,0,1459.06,1500
+1570,"Danielle Taylor","Women's Strawweight",2,3,0,1523.07,1580.26
+1571,"Jason Novelli",Lightweight,0,2,0,1461.27,1500
+1572,"Justin Ledet",Heavyweight,3,4,0,1511.98,1629.8
+1573,"Chase Sherman",Heavyweight,4,11,0,1477.93,1550.55
+1574,"Mike Perry",Welterweight,7,8,0,1709.8,1777.34
+1575,"Sabah Homasi",Welterweight,0,3,0,1449.65,1500
+1576,"Chris Avila",Featherweight,0,2,0,1449.98,1500
+1577,"Max Griffin",Welterweight,8,9,0,1780.98,1795.67
+1578,"Marvin Vettori",Middleweight,9,6,1,1857.23,1904.67
+1579,"Felipe Silva",Lightweight,1,2,0,1506.84,1551.73
+1580,"Jeremy Kennedy",Lightweight,3,1,0,1627.05,1653.6
+1581,"Alex Ricci",Lightweight,0,2,0,1463.36,1500
+1582,"Jessin Ayari",Welterweight,1,3,0,1484.17,1550
+1583,"Jim Wallhead",Welterweight,0,2,0,1450.81,1500
+1584,"Veronica Hardy","Women's Bantamweight",4,5,0,1622.42,1656.32
+1585,"Christian Colombo",Heavyweight,0,2,1,1453.7,1500
+1586,"Jack Hermansson",Middleweight,11,6,0,1873.68,1883.7
+1587,"CM Punk",Welterweight,1,1,0,1528.06,1528.06
+1588,"Michael McBride",Lightweight,0,2,0,1470.74,1500
+1589,"Jason Gonzalez",Lightweight,1,3,0,1501.03,1528.39
+1590,"Ricky Glenn",Lightweight,4,6,1,1599.48,1669.28
+1591,"Albert Morales",Bantamweight,1,4,1,1463.59,1537.82
+1592,"Lina Lansberg","Catch Weight",4,7,0,1542.93,1628.79
+1593,"Gregor Gillespie",Lightweight,7,1,0,1834.11,1834.11
+1594,"Zak Ottow",Welterweight,4,4,0,1634.74,1658.15
+1595,"Brandon Moreno",Flyweight,10,5,2,1897.43,1934.8
+1596,"Joachim Christensen","Light Heavyweight",1,3,0,1481.75,1529.47
+1597,"Ketlen Vieira","Women's Bantamweight",8,4,0,1769.49,1808.65
+1598,"Marc Diakiese",Lightweight,8,7,0,1672.07,1688.7
+1599,"Marcin Held",Lightweight,1,3,0,1516.43,1516.43
+1600,"Martin Bravo",Lightweight,1,3,0,1478.44,1550
+1601,"Claudio Puelles",Lightweight,5,3,0,1694.17,1742.65
+1602,"Alexa Grasso","Women's Strawweight",8,4,1,1843.17,1863.34
+1603,"Alexander Volkov",Heavyweight,12,5,0,1969.38,1996.32
+1604,"Jack Marshman",Middleweight,3,5,0,1552.81,1598.73
+1605,"Mark Godbeer",Heavyweight,2,2,0,1555.53,1586.64
+1606,"Brett Johns",Bantamweight,5,2,0,1699.16,1699.16
+1607,"Kwan Ho Kwak",Bantamweight,0,2,0,1452.72,1500
+1608,"Abdul Razak Alhassan",Welterweight,7,7,0,1625.29,1671.3
+1609,"Charlie Ward",Welterweight,0,2,0,1451.8,1500
+1610,"Gadzhimurad Antigulov","Light Heavyweight",2,4,0,1506.3,1612.92
+1611,"Darren Stewart","Light Heavyweight",5,9,0,1562.13,1652.51
+1612,"Alexander Volkanovski",Lightweight,13,3,0,2076.14,2143.91
+1613,"Tyson Pedro","Light Heavyweight",6,5,0,1620.45,1651.59
+1614,"Jenel Lausa",Flyweight,1,3,0,1473.65,1550.67
+1615,"Matt Schnell",Bantamweight,7,7,0,1647.3,1731.35
+1616,"Jamie Moyle","Women's Strawweight",1,2,0,1494.76,1547.14
+1617,"Saparbeg Safarov","Light Heavyweight",1,3,0,1497.79,1519.92
+1618,"Ashley Yoder","Women's Strawweight",3,8,0,1484.11,1554.27
+1619,"Brian Camozzi",Welterweight,0,3,0,1443.65,1500
+1620,"Gerald Meerschaert",Middleweight,12,10,0,1746.91,1788.94
+1621,"Shane Burgos",Featherweight,8,3,0,1812.54,1812.54
+1622,"Ryan Janes",Middleweight,2,2,0,1560.88,1560.88
+1623,"JJ Aldrich","Women's Strawweight",10,6,0,1724.59,1730.92
+1624,"Emil Meek",Welterweight,1,3,0,1527.45,1571.85
+1625,"Viviane Pereira","Women's Strawweight",2,2,0,1552.75,1609.83
+1626,"Paul Craig","Light Heavyweight",9,9,1,1724.01,1805.85
+1627,"Irene Aldana","Women's Bantamweight",8,6,0,1777.34,1802.47
+1628,"Niko Price",Welterweight,8,10,0,1735.63,1770.25
+1629,"Drakkar Klose",Lightweight,9,3,0,1809.73,1840.15
+1630,"Devin Powell",Lightweight,1,3,0,1482.1,1507.65
+1631,"Bobby Nash",Welterweight,0,3,0,1439.65,1500
+1632,"Jordan Johnson","Light Heavyweight",4,0,0,1685.85,1685.85
+1633,"Jeremy Kimball","Light Heavyweight",1,3,0,1487.45,1537.44
+1634,"Alexandre Pantoja",Flyweight,13,3,0,1946.41,1946.41
+1635,"Eric Shelton",Flyweight,2,4,0,1516.8,1545.02
+1636,"Volkan Oezdemir","Light Heavyweight",8,7,0,1801.51,1829.56
+1637,"Marcel Fortuna",Heavyweight,1,2,0,1507.12,1557.19
+1638,"Ricardo Ramos",Bantamweight,8,6,0,1660.9,1695.11
+1639,"Gavin Tucker",Featherweight,4,3,0,1622.12,1676.5
+1640,"Gina Mazany","Women's Bantamweight",2,6,0,1467.17,1536.38
+1641,"Aiemann Zahabi",Bantamweight,6,2,0,1770.15,1770.15
+1642,"Cynthia Calvillo","Women's Strawweight",6,6,1,1617.41,1749.37
+1643,"Daniel Spitz",Heavyweight,1,3,0,1480.55,1530.36
+1644,"Andre Soukhamthath",Bantamweight,2,5,0,1496.2,1548.98
+1645,"Davi Ramos",Welterweight,4,3,0,1632.76,1681.07
+1646,"Paulo Costa",Middleweight,6,4,0,1806.05,1832.86
+1647,"Lucie Pudilova","Women's Bantamweight",3,8,0,1474.26,1585.1
+1648,"Pearl Gonzalez","Women's Strawweight",0,2,0,1455.35,1500
+1649,"Desmond Green",Lightweight,4,3,0,1690.66,1690.66
+1650,"Bibulatov Magomed",Flyweight,1,2,0,1510.69,1557.24
+1651,"Tom Duquesnoy",Bantamweight,2,1,0,1568.71,1568.71
+1652,"Cindy Dandois","Women's Bantamweight",0,1,0,1483.48,1500
+1653,"Rashad Coulter",Heavyweight,1,3,0,1481.01,1500
+1654,"Oliver Enkamp",Welterweight,0,2,0,1468.08,1500
+1655,"Marlon Moraes",Bantamweight,5,6,0,1741.83,1846.15
+1656,"Brian Kelleher",Bantamweight,8,9,0,1603.68,1726.61
+1657,"Deiveson Figueiredo",Flyweight,13,4,1,2000.04,2033.82
+1658,"Luke Jumeau",Welterweight,2,2,0,1554.75,1577.93
+1659,"Ashkan Mokhtarian",Flyweight,0,2,0,1462.87,1500
+1660,"Chan-Mi Jeon","Women's Strawweight",0,2,0,1450.35,1500
+1661,"Rolando Dy",Featherweight,1,3,0,1492.25,1519.99
+1662,"Frank Camacho",Welterweight,2,6,0,1498.81,1562.63
+1663,"Naoki Inoue",Flyweight,1,1,0,1523.41,1550
+1664,"Carls John De Tomas",Flyweight,0,2,0,1451.8,1500
+1665,"Ji Yeon Kim","Women's Bantamweight",3,7,0,1468.85,1597.3
+1666,"Dominick Reyes","Light Heavyweight",8,4,0,1855.76,1855.76
+1667,"Jared Gordon",Featherweight,8,7,0,1733.71,1757.58
+1668,"Michel Quinones",Featherweight,0,2,0,1457.43,1500
+1669,"Justin Gaethje",Lightweight,9,5,0,2018.59,2018.59
+1670,"Nick Roehrick","Light Heavyweight",0,1,0,1480.63,1500
+1671,"Tom Gallicchio",Welterweight,0,1,0,1485.81,1500
+1672,"Cody Stamann",Featherweight,7,7,1,1649.68,1766.67
+1673,"Terrion Ware",Featherweight,0,4,0,1409.11,1500
+1674,"Trevin Giles","Light Heavyweight",7,7,0,1605.35,1711.27
+1675,"James Bochnovic","Light Heavyweight",0,2,0,1450.4,1500
+1676,"Justin Willis",Heavyweight,4,1,0,1679.02,1699.79
+1677,"James Mulheron",Heavyweight,0,1,0,1475,1500
+1678,"Galore Bofando",Welterweight,1,1,0,1529.71,1546.41
+1679,"Danny Henry",Lightweight,2,2,0,1549.01,1592.85
+1680,"Daniel Teymur",Lightweight,1,4,0,1467.48,1500
+1681,"Amanda Lemos","Women's Bantamweight",9,4,0,1849.4,1849.4
+1682,"Eryk Anders",Middleweight,10,8,0,1777.65,1777.65
+1683,"Junior Albini",Heavyweight,1,4,0,1488.94,1565.13
+1684,"Tonya Evinger","Women's Featherweight",0,3,0,1441.86,1500
+1685,"Calvin Kattar",Featherweight,7,7,0,1773.44,1856.92
+1686,"Jarred Brooks",Flyweight,2,2,0,1550.83,1550.83
+1687,"Humberto Bandenay",Featherweight,1,3,0,1482.6,1557.15
+1688,"Joseph Morales",Flyweight,1,2,0,1501.62,1550
+1689,"Robert Sanchez",Flyweight,1,2,0,1501.24,1528.56
+1690,"Rob Wilkinson",Middleweight,0,2,0,1458.17,1500
+1691,"Talita Bernardo","Women's Bantamweight",1,3,0,1492.07,1518.39
+1692,"Mads Burnell",Lightweight,1,2,0,1520.05,1537.23
+1693,"Aleksandar Rakic","Light Heavyweight",6,4,0,1781.97,1838.86
+1694,"Zabit Magomedsharipov",Featherweight,6,0,0,1789.91,1789.91
+1695,"Mike Santiago",Featherweight,0,3,0,1427.75,1500
+1696,"Abdul-Kerim Edilov","Light Heavyweight",1,0,0,1543.75,1543.75
+1697,"Arjan Bhullar",Heavyweight,3,1,0,1625.75,1625.75
+1698,"Alex Reyes",Welterweight,0,3,0,1441.86,1500
+1699,"Azunna Anyanwu",Heavyweight,0,1,0,1481.53,1500
+1700,"Gokhan Saki","Light Heavyweight",1,1,0,1530.14,1551.59
+1701,"Syuri Kondo","Women's Strawweight",1,3,0,1476.06,1546.19
+1702,"Daichi Abe",Welterweight,1,2,0,1516.09,1559.42
+1703,"Mara Romero Borella","Women's Flyweight",2,5,0,1479.21,1572.5
+1704,"Kalindra Faria","Women's Flyweight",0,3,0,1431.62,1500
+1705,"Poliana Botelho","Women's Strawweight",3,4,0,1534.45,1616.72
+1706,"Jodie Esquibel","Women's Strawweight",0,4,0,1417.29,1500
+1707,"Oskar Piechota",Middleweight,2,4,0,1482.77,1592.59
+1708,"Nasrat Haqparast",Lightweight,10,4,0,1860.19,1860.19
+1709,"Ramazan Emeev",Middleweight,5,3,0,1653.92,1719.56
+1710,"Salim Touahri",Welterweight,0,3,0,1453.4,1500
+1711,"Aspen Ladd","Women's Bantamweight",4,3,0,1629.06,1673.09
+1712,"Marcelo Golm",Heavyweight,1,3,0,1473.98,1546.7
+1713,"Karl Roberson",Middleweight,4,6,0,1558.66,1653.3
+1714,"Jessica-Rose Clark","Women's Flyweight",4,5,0,1533.39,1631.47
+1715,"Shane Young","Catch Weight",2,5,0,1477.04,1583.69
+1716,"Tai Tuivasa",Heavyweight,8,8,0,1748.83,1861.64
+1717,"Nadia Kassem","Women's Strawweight",1,2,0,1505.79,1550.76
+1718,"Adam Wieczorek",Heavyweight,2,1,0,1576.23,1600.12
+1719,"Wang Guan",Featherweight,1,0,0,1573.96,1573.96
+1720,"Muslim Salikhov",Welterweight,8,4,0,1851.21,1851.21
+1721,"Sheymon Moraes",Featherweight,2,3,0,1549.93,1589.88
+1722,"Song Kenan",Welterweight,6,5,0,1638.89,1652.46
+1723,"Yan Xiaonan","Women's Strawweight",9,3,0,1870.63,1870.63
+1724,"Song Yadong",Featherweight,11,3,1,1952.26,1952.26
+1725,"Bharat Kandare",Featherweight,0,1,0,1475,1500
+1726,"Wu Yanan","Women's Bantamweight",1,5,0,1439.59,1535.62
+1727,Wulijiburen,Featherweight,0,3,0,1433.53,1500
+1728,"Hu Yaozong",Heavyweight,0,3,0,1428.5,1500
+1729,"Nicco Montano","Women's Flyweight",1,1,0,1528.56,1546.41
+1730,"Sean O'Malley",Bantamweight,10,3,0,1948.01,1970.91
+1731,"Barb Honchak","Women's Flyweight",0,2,0,1447.21,1500
+1732,"DeAnna Bennett","Women's Flyweight",0,0,1,1500,1500
+1733,"Melinda Fabian","Women's Flyweight",0,1,1,1477.6,1500
+1734,"Montana De La Rosa","Women's Flyweight",6,5,1,1650.11,1663.71
+1735,"Christina Marks","Women's Flyweight",0,1,0,1475,1500
+1736,"Rachael Ostovich","Women's Flyweight",1,3,0,1476.89,1550
+1737,"Karine Gevorgyan","Women's Flyweight",0,1,0,1475,1500
+1738,"Shana Dobson","Women's Flyweight",2,4,0,1499.98,1550
+1739,"Ariel Beck","Women's Flyweight",0,1,0,1475,1500
+1740,"Gillian Robertson","Women's Flyweight",12,6,0,1791.08,1791.08
+1741,"Emily Whitmire","Women's Flyweight",2,4,0,1496.6,1589.74
+1742,"Allen Crowder",Heavyweight,1,2,0,1508.33,1531.65
+1743,"Markus Perez",Middleweight,2,5,0,1475.41,1555.49
+1744,"Benito Lopez",Bantamweight,2,2,0,1561.75,1581.22
+1745,"Alex Perez",Bantamweight,7,5,0,1730.55,1762.79
+1746,"Merab Dvalishvili",Bantamweight,12,2,0,2068.31,2068.31
+1747,"Julian Marquez",Middleweight,3,5,0,1520.47,1629.51
+1748,"Michal Oleksiejczuk","Light Heavyweight",7,8,0,1656.51,1717.58
+1749,"Mark De La Rosa",Bantamweight,2,5,0,1476.39,1573.6
+1750,"Matt Frevola",Lightweight,5,5,1,1672.39,1723.79
+1751,"Brandon Davis",Featherweight,2,7,0,1460.18,1547.39
+1752,"Julio Arce",Featherweight,6,4,0,1670.56,1670.56
+1753,"Dan Ige",Featherweight,10,8,0,1780.93,1839.05
+1754,"Matt Bessette",Featherweight,0,2,0,1457.7,1500
+1755,"Cory Sandhagen",Featherweight,10,4,0,1964.38,2005.08
+1756,"Austin Arnett",Featherweight,1,3,0,1489.57,1512.82
+1757,"Priscila Cachoeira","Women's Flyweight",5,6,0,1629.58,1630.92
+1758,"Polyana Viana","Women's Strawweight",4,6,0,1553.57,1600.53
+1759,"Maia Stevenson","Women's Strawweight",0,1,0,1475,1500
+1760,"Israel Adesanya",Middleweight,13,5,0,1992.01,2116.29
+1761,"Curtis Millender",Welterweight,3,2,0,1650.19,1694.1
+1762,"Steven Peterson",Featherweight,3,5,0,1537.23,1592.74
+1763,"Geoff Neal",Welterweight,8,4,0,1898.96,1898.96
+1764,"Tim Williams",Middleweight,0,2,0,1462.33,1500
+1765,"Marcin Prachnio","Light Heavyweight",4,6,0,1601.62,1629.99
+1766,"Manny Bermudez",Bantamweight,3,2,0,1577.31,1636.63
+1767,"Yana Santos","Women's Featherweight",5,5,0,1663.38,1684.8
+1768,"Mackenzie Dern","Women's Strawweight",10,5,0,1835.71,1835.71
+1769,"Alexander Hernandez",Lightweight,8,7,0,1754.7,1759.52
+1770,"Charles Byrd",Middleweight,1,3,0,1471.65,1550
+1771,"John Phillips",Middleweight,1,5,0,1445.71,1500
+1772,"Hakeem Dawodu",Featherweight,6,4,0,1682.02,1730.02
+1773,"Magomed Ankalaev","Light Heavyweight",13,1,1,2074.41,2074.41
+1774,"Dmitry Sosnovskiy",Heavyweight,1,0,0,1562.22,1562.22
+1775,"Mike Rodriguez","Light Heavyweight",3,5,0,1525.29,1595.29
+1776,"Ricky Rainey",Welterweight,0,2,0,1462.69,1500
+1777,"Dan Moret",Lightweight,0,3,0,1447.03,1500
+1778,"Lauren Mueller","Women's Flyweight",1,3,0,1486.48,1557.15
+1779,"Ricky Simon",Bantamweight,9,5,0,1794.62,1854.32
+1780,"Andrea Lee","Women's Flyweight",5,9,0,1555.84,1689.47
+1781,"Craig White",Welterweight,0,2,0,1487.85,1500
+1782,"Carlo Pedersoli Jr.",Welterweight,1,2,0,1521.75,1558.74
+1783,"Molly McCann","Women's Flyweight",7,7,0,1588.05,1683.35
+1784,"Sijara Eubanks","Women's Flyweight",5,5,0,1600.77,1646.44
+1785,"Chance Rencountre",Welterweight,2,2,0,1572.7,1596.8
+1786,"Nathaniel Wood",Bantamweight,9,3,0,1807.42,1807.42
+1787,"Jose Torres",Flyweight,1,1,0,1531.01,1553.28
+1788,"Megan Anderson","Women's Featherweight",3,3,0,1603.69,1609.87
+1789,"Petr Yan",Bantamweight,10,4,0,1973.97,1973.97
+1790,"Hector Aldana",Welterweight,0,3,0,1433,1500
+1791,"Michael Trizano",Lightweight,4,3,0,1618.82,1620
+1792,"Joe Giannetti",Lightweight,0,1,0,1475,1500
+1793,"Brad Katona",Featherweight,4,4,0,1570.09,1605.51
+1794,"Jay Cucciniello",Featherweight,0,1,0,1475,1500
+1795,"Luis Pena",Lightweight,5,3,0,1652.46,1652.46
+1796,"Richie Smullen",Lightweight,0,1,0,1475,1500
+1797,"John Gunther",Lightweight,1,1,0,1529.29,1550
+1798,"Allan Zuniga",Lightweight,0,1,0,1475,1500
+1799,"Bryce Mitchell",Featherweight,8,2,0,1827.6,1831.17
+1800,"Tyler Diamond",Featherweight,0,1,0,1475,1500
+1801,"Blagoy Ivanov",Heavyweight,3,5,0,1643,1679.91
+1802,"Said Nurmagomedov",Flyweight,7,3,0,1738.1,1777.38
+1803,"Raoni Barcelos",Featherweight,8,4,0,1707.97,1713.22
+1804,"Jennifer Maia","Women's Flyweight",6,6,0,1715.36,1745.1
+1805,"Elias Garcia",Flyweight,0,2,0,1450.39,1500
+1806,"Abu Azaitar",Middleweight,1,2,0,1507.97,1562.13
+1807,"David Zawada",Welterweight,1,4,0,1504.46,1526.32
+1808,"Nad Narimani",Featherweight,2,2,0,1542,1592.85
+1809,"Khalid Taha",Featherweight,2,4,0,1499.06,1574.48
+1810,"Darko Stosic","Light Heavyweight",1,3,0,1475.1,1551.93
+1811,"Pingyuan Liu",Bantamweight,2,2,0,1549.13,1597.07
+1812,"Kevin Holland",Middleweight,15,10,0,1875.09,1945.53
+1813,"Montel Jackson",Bantamweight,8,2,0,1807.91,1807.91
+1814,"Matt Sayles",Featherweight,1,3,0,1483.35,1525.37
+1815,"Zhang Weili","Women's Strawweight",10,2,0,1990.83,1990.83
+1816,"Aleksei Kunchenko",Welterweight,2,2,0,1631.32,1666.8
+1817,"Khalid Murtazaliev",Middleweight,1,0,0,1584.21,1584.21
+1818,"Jin Soo Son",Bantamweight,0,2,0,1454.57,1500
+1819,"Adam Yandiev",Middleweight,0,1,0,1485.59,1500
+1820,"Stefan Sekulic",Welterweight,0,2,0,1467.54,1500
+1821,"Andre Ewell",Bantamweight,4,5,0,1578.79,1664.39
+1822,"Marina Rodriguez","Women's Strawweight",7,5,2,1739.45,1822.03
+1823,"Ryan Spann","Light Heavyweight",8,6,0,1769.94,1830.63
+1824,"Augusto Sakai",Heavyweight,5,4,0,1694.08,1729.43
+1825,"Mayra Bueno Silva","Women's Flyweight",5,6,1,1619.15,1686.41
+1826,"Luigi Vendramini",Welterweight,1,3,0,1490.58,1542.85
+1827,"Livinha Souza","Women's Strawweight",3,3,0,1549.73,1604.01
+1828,"Jalin Turner",Welterweight,7,6,0,1734.76,1781.26
+1829,"Jonathan Martinez",Bantamweight,10,5,0,1834.96,1896.29
+1830,"Chris Fishgold",Featherweight,1,3,0,1494.22,1528.78
+1831,"Don Madge",Lightweight,2,0,0,1592.85,1592.85
+1832,"Te Edwards",Lightweight,0,2,0,1463.95,1500
+1833,"Thiago Moises",Lightweight,8,6,0,1752.24,1752.24
+1834,"Maycee Barber","Women's Strawweight",9,2,0,1880.16,1880.16
+1835,"Hannah Cifers","Women's Strawweight",2,5,0,1468.44,1568.92
+1836,"Bobby Moffett",Featherweight,0,3,0,1454.68,1500
+1837,"Devonte Smith",Lightweight,3,3,0,1557.99,1620.39
+1838,"Johnny Walker","Light Heavyweight",7,7,0,1782.54,1843.52
+1839,"Ian Heinisch",Middleweight,3,4,0,1640.81,1689.78
+1840,"Laureano Staropoli",Welterweight,2,4,0,1524.94,1627.64
+1841,"Jesus Pinedo",Lightweight,1,1,0,1539.16,1551.1
+1842,"Anderson Dos Santos",Featherweight,1,3,0,1488.5,1508.59
+1843,"Sergei Pavlovich",Heavyweight,7,3,0,1896.14,1896.14
+1844,"Vince Morales",Bantamweight,3,7,0,1520.96,1607.64
+1845,"Martin Day",Bantamweight,0,4,0,1416.12,1500
+1846,Sumudaerji,Bantamweight,3,4,0,1555.66,1614.01
+1847,"Juan Espino",Heavyweight,2,1,0,1561.81,1584.51
+1848,"Justin Frazier",Heavyweight,0,1,0,1475,1500
+1849,"Macy Chiasson","Women's Featherweight",8,3,0,1777.63,1777.63
+1850,"Pannie Kianzad","Women's Featherweight",5,6,0,1640.6,1709.84
+1851,"Edmen Shahbazyan",Middleweight,7,5,0,1696.57,1726.06
+1852,"Antonina Shevchenko","Women's Flyweight",4,4,0,1619.73,1619.73
+1853,"Kevin Aguilar",Featherweight,2,4,0,1530.06,1636.77
+1854,"Maurice Greene",Heavyweight,4,4,0,1595.1,1644.13
+1855,"Michel Batista",Heavyweight,0,1,0,1475,1500
+1856,"Leah Letson","Women's Featherweight",1,1,0,1524.95,1550
+1857,"Julija Stoliarenko","Women's Featherweight",2,6,0,1528.82,1549.42
+1858,"Roosevelt Roberts",Lightweight,5,5,0,1601.63,1683.14
+1859,"Chris Gutierrez",Bantamweight,9,3,1,1824.25,1831.18
+1860,"Sodiq Yusuff",Featherweight,6,3,0,1736.07,1791.25
+1861,"Suman Mokhtarian",Featherweight,0,2,0,1448.51,1500
+1862,"Jimmy Crute","Light Heavyweight",4,4,2,1635.14,1697.01
+1863,"Kai Kara-France",Flyweight,8,4,0,1763.54,1773.77
+1864,"Damir Ismagulov",Lightweight,5,2,0,1663.85,1700.13
+1865,"Alex Gorgees",Lightweight,0,1,0,1475,1500
+1866,"Kyle Nelson",Lightweight,4,5,1,1644.32,1666.56
+1867,"Dwight Grant",Welterweight,3,5,0,1553.1,1627.03
+1868,"Jordan Griffin",Featherweight,1,4,0,1473.73,1521.59
+1869,"Juan Adams",Heavyweight,1,3,0,1474.86,1550.18
+1870,"Bevon Lewis",Middleweight,1,3,0,1499.77,1516.16
+1871,"Greg Hardy",Heavyweight,5,5,0,1624.11,1690.41
+1872,"Ariane da Silva","Women's Flyweight",6,7,0,1659.94,1713.56
+1873,"Alonzo Menifield","Light Heavyweight",9,5,1,1767.35,1810.25
+1874,"Vinicius Moreira","Light Heavyweight",0,4,0,1414.9,1500
+1875,"Mario Bautista",Bantamweight,9,2,0,1894.46,1894.46
+1876,"Kyle Stewart",Welterweight,0,2,0,1456.73,1500
+1877,"Sarah Frota","Women's Strawweight",0,2,0,1461.55,1500
+1878,"Anthony Hernandez",Middleweight,8,2,0,1893,1893
+1879,"Taila Santos","Women's Flyweight",4,3,0,1685.66,1714.35
+1880,"Jairzinho Rozenstruik",Heavyweight,9,6,0,1831.67,1857.64
+1881,"Geraldo de Freitas",Featherweight,1,2,0,1495.76,1550
+1882,"Felipe Colares",Featherweight,2,4,0,1528.08,1570.93
+1883,"Rogerio Bontorin",Flyweight,2,4,0,1517.08,1594.58
+1884,"Marcos Mariano",Lightweight,0,2,0,1455.84,1500
+1885,"Raulian Paiva",Flyweight,3,4,0,1581.51,1629.96
+1886,"Callan Potter",Lightweight,1,2,0,1508.49,1527.96
+1887,"Kron Gracie",Featherweight,1,3,0,1532.37,1573.52
+1888,"Klidson Abreu","Light Heavyweight",1,3,0,1507.03,1559.91
+1889,"Ismail Naurdiev",Welterweight,3,2,0,1660.72,1660.72
+1890,"Joel Alvarez",Lightweight,7,2,0,1824.41,1824.41
+1891,"Ben Askren",Welterweight,1,2,0,1582.52,1594.68
+1892,"Grant Dawson",Featherweight,11,1,1,1942.04,1942.04
+1893,"Jeff Hughes",Heavyweight,0,4,0,1421.43,1500
+1894,"Nicolae Negumereanu","Light Heavyweight",4,2,0,1629.58,1660.38
+1895,"Mike Grundy",Featherweight,1,3,0,1504.21,1563.05
+1896,"Ryan MacDonald",Bantamweight,0,2,0,1457.3,1500
+1897,"Jordan Espinosa",Flyweight,2,4,0,1519.31,1568.09
+1898,"Kennedy Nzechukwu","Light Heavyweight",8,5,0,1740.63,1740.63
+1899,"Casey Kenney",Bantamweight,5,3,0,1700.92,1748.93
+1900,"Sabina Mazo","Women's Flyweight",3,4,0,1560.06,1646.97
+1901,"Zelim Imadaev",Welterweight,0,3,0,1442.14,1500
+1902,"Boston Salmon",Bantamweight,0,2,0,1448.31,1500
+1903,"Randy Costa",Bantamweight,2,4,0,1493.48,1565.1
+1904,"Arman Tsarukyan",Lightweight,9,2,0,1975.23,1975.23
+1905,"Alen Amedovski",Middleweight,0,4,0,1414.51,1500
+1906,"Movsar Evloev",Featherweight,9,0,0,1974.5,1974.5
+1907,"SeungWoo Choi",Featherweight,4,7,0,1538.72,1620.44
+1908,"Alex Da Silva",Lightweight,1,3,0,1499.52,1533.05
+1909,"Rafael Fiziev",Lightweight,6,4,0,1804.87,1869.75
+1910,"Thomas Gifford",Lightweight,0,2,0,1454.55,1500
+1911,"Takashi Sato",Welterweight,2,5,0,1514.63,1602.68
+1912,"Virna Jandiroba","Women's Strawweight",7,3,0,1841.42,1841.42
+1913,"Mike Davis",Lightweight,4,2,0,1647.58,1666.42
+1914,"Serghei Spivac",Heavyweight,8,5,0,1844.43,1870.03
+1915,"Marc-Andre Barriault",Middleweight,6,8,0,1621.55,1709.12
+1916,"Kyle Prepolec",Welterweight,0,2,0,1461.35,1500
+1917,"Cole Smith",Bantamweight,1,2,0,1510.49,1564.55
+1918,"Luana Carolina","Women's Flyweight",6,3,0,1680.43,1680.43
+1919,"Carlos Huachin",Bantamweight,0,2,0,1467.1,1500
+1920,"Viviane Araujo","Women's Bantamweight",7,5,0,1760.3,1760.3
+1921,"Felicia Spencer","Women's Featherweight",3,3,0,1599.42,1599.42
+1922,"Derrick Krantz",Welterweight,0,2,0,1472.68,1500
+1923,"Austin Hubbard",Lightweight,4,6,0,1559.33,1580.91
+1924,"Charles Jourdain",Lightweight,7,7,1,1711.25,1725.33
+1925,"Michel Pereira",Welterweight,9,3,0,1846.97,1880.18
+1926,"Sung Bin Jo",Featherweight,0,1,0,1470.19,1500
+1927,"Sergey Khandozhko",Welterweight,2,1,0,1601.78,1601.78
+1928,"Rostem Akman",Welterweight,0,2,0,1465.25,1500
+1929,"Bea Malecki","Women's Bantamweight",2,1,0,1560.77,1592.26
+1930,"Duda Santana","Women's Bantamweight",0,1,0,1475,1500
+1931,"Danilo Belluardo",Lightweight,0,2,0,1450.37,1500
+1932,"Grigory Popov",Bantamweight,0,2,0,1460.24,1500
+1933,"Deron Winn",Middleweight,2,3,0,1535.3,1556.76
+1934,"Journey Newson",Bantamweight,1,5,0,1454.31,1500
+1935,"Dalcha Lungiambula","Light Heavyweight",2,5,0,1481.18,1572.65
+1936,"Dequan Townsend","Light Heavyweight",0,4,0,1414.12,1500
+1937,"Amanda Ribas","Women's Strawweight",7,5,0,1731.11,1772.82
+1938,"Nohelin Hernandez",Bantamweight,0,2,0,1465.32,1500
+1939,"Julia Avila","Women's Bantamweight",3,3,0,1557.63,1598.88
+1940,"Wellington Turman",Middleweight,3,6,0,1566.02,1632.86
+1941,"John Allan","Light Heavyweight",0,3,0,1443.86,1500
+1942,"Brianna Fortino","Women's Strawweight",1,1,0,1541.76,1562.72
+1943,"Gabriel Silva",Bantamweight,0,2,0,1462.11,1500
+1944,"Domingo Pilarte",Bantamweight,1,2,0,1509.98,1524.73
+1945,"Yoshinori Horie",Featherweight,0,1,0,1480.66,1500
+1946,"Cole Williams",Welterweight,0,2,0,1463.02,1500
+1947,"Miranda Granger","Women's Flyweight",1,3,0,1471.07,1550
+1948,"Hannah Goldy","Women's Flyweight",1,4,0,1471.91,1509.67
+1949,"Eduardo Garagorri",Featherweight,1,2,0,1523.64,1551.18
+1950,"Rodolfo Vieira",Middleweight,5,3,0,1660.45,1681.6
+1951,"Ciryl Gane",Heavyweight,10,2,0,2023.19,2023.19
+1952,"Raphael Pessoa",Heavyweight,1,2,0,1501.83,1523.24
+1953,"Kazula Vargas",Lightweight,1,3,0,1485.77,1507.56
+1954,"Khama Worthy",Lightweight,2,3,0,1531.98,1627.85
+1955,Mizuki,"Women's Flyweight",2,1,0,1574.05,1574.05
+1956,"JunYong Park",Middleweight,8,3,0,1789.26,1789.26
+1957,"Da Woon Jung","Light Heavyweight",4,4,1,1592.17,1696.14
+1958,"Khadis Ibragimov","Light Heavyweight",0,4,0,1421.62,1500
+1959,Alatengheili,Bantamweight,5,2,1,1674.16,1674.16
+1960,"Batgerel Danaa",Bantamweight,3,4,0,1551.23,1617.16
+1961,"Karol Rosa","Women's Bantamweight",7,4,0,1704.49,1733.72
+1962,"Lara Procopio","Women's Bantamweight",1,2,0,1515.47,1539.43
+1963,"Lerone Murphy",Featherweight,7,0,1,1870.26,1870.26
+1964,"Liana Jojua","Women's Bantamweight",1,3,0,1478.6,1525.82
+1965,"Ottman Azaitar",Lightweight,2,3,0,1541.63,1611.92
+1966,"Fares Ziam",Lightweight,7,2,0,1791.54,1791.54
+1967,"Tristan Connelly",Welterweight,1,2,0,1521.24,1559.69
+1968,"Miles Johns",Bantamweight,6,4,0,1668.55,1702.42
+1969,"Hunter Azure",Bantamweight,2,2,0,1565.84,1591.3
+1970,"Askar Askarov",Flyweight,3,1,1,1693.33,1717.83
+1971,"Vanessa Melo","Women's Bantamweight",1,3,0,1502.02,1502.02
+1972,"Ariane Carnelossi","Women's Strawweight",3,2,0,1605.57,1605.57
+1973,"Tyson Nam",Flyweight,3,5,0,1555.27,1610.16
+1974,"Mark Madsen",Lightweight,4,2,0,1691.87,1738.89
+1975,"Makhmud Muradov",Middleweight,4,3,0,1658.4,1693.16
+1976,"Giga Chikadze",Featherweight,8,2,0,1839.11,1861.87
+1977,"Jack Shore",Bantamweight,6,3,0,1682.31,1739.04
+1978,"Yorgan De Castro",Heavyweight,1,3,0,1473.16,1550
+1979,"Justin Tafa",Heavyweight,4,6,0,1550.5,1607.48
+1980,"Maki Pitolo",Welterweight,1,5,0,1437.17,1526.79
+1981,"Brad Riddell",Lightweight,4,3,0,1653.59,1719.3
+1982,"Jamie Mullarkey",Lightweight,5,6,0,1639.92,1698.32
+1983,"Zarah Fairn","Women's Featherweight",0,4,0,1420.52,1500
+1984,"Bruno Silva",Bantamweight,8,10,0,1663.04,1748.77
+1985,"Miguel Baeza",Welterweight,3,4,0,1574.1,1676.3
+1986,"Ben Sosoli",Heavyweight,0,2,0,1465.89,1500
+1987,"Jonathan Pearce",Lightweight,5,4,0,1668.19,1763.65
+1988,"Diana Belbita","Women's Flyweight",2,5,0,1501.38,1532.53
+1989,"Sean Woodson",Featherweight,7,1,1,1796.68,1796.68
+1990,"Sean Brady",Welterweight,8,1,0,2012.63,2012.63
+1991,"Brendan Allen",Middleweight,12,4,0,1902.51,1966.16
+1992,"Tanner Boser",Heavyweight,5,5,0,1632.35,1657.58
+1993,"Don'Tale Mayes",Heavyweight,5,6,0,1598.76,1662.84
+1994,"Loma Lookboonmee","Women's Strawweight",6,2,0,1694.75,1694.75
+1995,"Shamil Gamzatov","Light Heavyweight",1,1,0,1537.73,1558.54
+1996,"Roman Kopylov",Middleweight,6,3,0,1738.76,1738.76
+1997,"Abubakar Nurmagomedov",Welterweight,2,2,0,1556.75,1567.89
+1998,"Andre Muniz",Middleweight,6,2,0,1810.32,1815.13
+1999,"Antonio Arroyo",Middleweight,0,3,0,1435.53,1500
+2000,"Isabela de Padua","Women's Flyweight",0,1,0,1472.2,1500
+2001,"Tracy Cortez","Women's Bantamweight",5,1,0,1710.98,1724.88
+2002,"Billy Quarantillo",Featherweight,6,5,0,1686.83,1742.63
+2003,"Jacob Kilburn",Featherweight,0,2,0,1450,1500
+2004,"Joe Solecki",Lightweight,5,4,0,1654.64,1726.88
+2005,"Mallory Martin","Women's Strawweight",1,3,0,1478.81,1526.83
+2006,"Chase Hooper",Featherweight,7,3,0,1752.22,1752.22
+2007,"Punahele Soriano",Middleweight,5,4,0,1661.97,1661.97
+2008,"Omar Morales",Lightweight,3,4,0,1549.88,1643.38
+2009,"Ode Osbourne",Bantamweight,4,6,0,1531.65,1619.47
+2010,"Aleksa Camur","Light Heavyweight",1,3,0,1483.5,1560.41
+2011,"Jamahal Hill","Light Heavyweight",7,3,0,1836.9,1891.85
+2012,"Tony Gravely",Bantamweight,4,4,0,1583.37,1643.5
+2013,"Herbert Burns",Featherweight,2,4,0,1528.39,1631.42
+2014,"Nate Landwehr",Featherweight,5,4,0,1671.28,1697.85
+2015,"Khaos Williams",Welterweight,6,3,0,1729.47,1761.55
+2016,"Youssef Zalal",Featherweight,7,3,1,1772.72,1772.72
+2017,"Austin Lingo",Featherweight,2,3,0,1527.77,1578.56
+2018,"Brok Weaver",Lightweight,1,2,0,1504.53,1546.21
+2019,"Daniel Rodriguez",Welterweight,8,4,0,1839.89,1856.59
+2020,"Shanna Young","Women's Bantamweight",1,3,0,1494.8,1512.43
+2021,"Josh Culibao",Lightweight,3,4,1,1566.13,1640.36
+2022,"Norma Dumont","Women's Featherweight",8,2,0,1850.89,1850.89
+2023,"Darrick Minner",Featherweight,2,4,0,1545.64,1597.72
+2024,"Kyler Phillips",Bantamweight,6,2,0,1761.03,1782.19
+2025,"Steve Garcia",Lightweight,6,2,0,1749.58,1749.58
+2026,"TJ Brown",Featherweight,3,5,0,1552.21,1586.87
+2027,"Spike Carlyle",Featherweight,1,2,0,1497.72,1550
+2028,"Aalon Cruz",Featherweight,0,2,0,1451.8,1500
+2029,"Jamall Emmers",Featherweight,3,4,0,1555.88,1574.89
+2030,"David Dvorak",Flyweight,3,3,0,1557.49,1635.79
+2031,"Philipe Lins",Heavyweight,4,2,0,1709.02,1709.02
+2032,"Ike Villanueva",Heavyweight,1,5,0,1438.86,1500
+2033,"Irwin Rivera",Featherweight,1,2,0,1515.92,1534.38
+2034,"Rodrigo Nascimento",Heavyweight,4,4,0,1662.21,1697.73
+2035,"Gabe Green",Welterweight,2,3,0,1533.01,1578.64
+2036,"Brandon Royval",Flyweight,7,3,0,1856.51,1856.51
+2037,"Mariya Agapova","Women's Flyweight",2,4,0,1524.68,1585.39
+2038,"Gustavo Lopez","Catch Weight",1,2,1,1519.29,1543.85
+2039,"Zarrukh Adashev",Bantamweight,1,3,0,1494.66,1517.28
+2040,"Christian Aguilera",Welterweight,1,2,0,1503.34,1550
+2041,"Anthony Ivy",Welterweight,0,2,0,1462.44,1500
+2042,"Justin Jaynes",Lightweight,1,4,0,1477.54,1557.79
+2043,"Max Rohskopf",Lightweight,0,1,0,1475.81,1500
+2044,"Kyle Daukaus",Middleweight,2,5,0,1528.24,1565.32
+2045,"Jason Witt",Welterweight,2,4,0,1523.64,1581.22
+2046,"Kay Hansen","Women's Strawweight",1,3,0,1470.26,1550
+2047,"Jinh Yu Frey","Women's Strawweight",2,6,0,1468.91,1564.38
+2048,"Jiri Prochazka","Light Heavyweight",5,2,0,1846.21,1846.21
+2049,"Roman Bogatov",Lightweight,0,1,0,1492.02,1500
+2050,"Maxim Grishin",Heavyweight,2,3,0,1561.54,1584.47
+2051,"Zhalgas Zhumagulov",Flyweight,1,6,0,1418.34,1502.87
+2052,"Mounir Lazzez",Welterweight,2,2,0,1567.67,1599.65
+2053,"Khamzat Chimaev",Middleweight,8,0,0,2016.25,2016.25
+2054,"Modestas Bukauskas","Light Heavyweight",5,4,0,1667.87,1667.87
+2055,"Andreas Michailidis","Light Heavyweight",1,3,0,1474.65,1526.52
+2056,"Roman Dolidze","Light Heavyweight",9,3,0,1922.43,1922.43
+2057,"Amir Albazi",Bantamweight,5,1,0,1713.32,1728.93
+2058,"Malcolm Gordon",Bantamweight,2,5,0,1489.36,1564.92
+2059,"Carlos Felipe",Heavyweight,3,2,0,1622.88,1637.73
+2060,"Rhys McKee",Welterweight,0,4,0,1429.49,1500
+2061,"Jai Herbert",Lightweight,3,5,1,1567.37,1592.29
+2062,"Tom Aspinall",Heavyweight,8,1,0,1970.01,1970.01
+2063,"Niklas Stolze",Welterweight,0,3,0,1436.48,1500
+2064,"John Castaneda",Bantamweight,4,3,0,1661.9,1688.64
+2065,"Nate Maness",Featherweight,5,2,0,1671.77,1671.77
+2066,"Johnny Munoz",Featherweight,2,4,0,1503.78,1553.94
+2067,"Vince Cachero",Featherweight,0,2,0,1450.38,1500
+2068,"Cody Durden",Bantamweight,6,5,1,1652.48,1680.26
+2069,"Joaquin Buckley",Middleweight,11,4,0,1982.65,1982.65
+2070,"Alexander Munoz",Lightweight,1,2,0,1520.86,1520.86
+2071,"Peter Barrett",Featherweight,0,2,0,1460.34,1500
+2072,"Ali AlQaisi",Bantamweight,0,2,0,1448.78,1500
+2073,"Danny Chavez",Featherweight,1,2,1,1511.42,1546.07
+2074,"Chris Daukaus",Heavyweight,4,4,0,1670.12,1731.66
+2075,"Parker Porter",Heavyweight,4,4,0,1570.26,1621.78
+2076,"Kai Kamaka",Featherweight,1,2,1,1490.6,1550
+2077,"Tony Kelley",Featherweight,2,2,0,1560.29,1577.36
+2078,"Jordan Wright","Light Heavyweight",2,5,0,1470.43,1564.51
+2079,"Matthew Semelsberger",Welterweight,5,6,0,1587.69,1708.61
+2080,"Carlton Minus",Welterweight,0,2,0,1458.26,1500
+2081,"Timur Valiev","Catch Weight",3,1,0,1627.71,1651.58
+2082,"Trevin Jones","Catch Weight",1,5,0,1464.06,1540.54
+2083,"Bill Algeo",Featherweight,5,5,0,1658.57,1722.22
+2084,"Impa Kasanganay",Middleweight,2,2,0,1549.06,1575.58
+2085,"Austin Springer",Featherweight,0,1,0,1488.22,1500
+2086,"Ray Rodriguez",Featherweight,0,2,0,1477.88,1500
+2087,"Kevin Croom",Lightweight,0,4,0,1448.31,1500
+2088,"Alexandr Romanov",Heavyweight,7,3,0,1761.18,1761.18
+2089,"Roque Martinez",Heavyweight,0,3,0,1425.34,1500
+2090,"Sarah Alpar","Women's Bantamweight",0,2,0,1454.92,1500
+2091,"TJ Laramie",Featherweight,0,2,0,1460.33,1500
+2092,"Jerome Rivera",Bantamweight,0,4,0,1407.63,1500
+2093,"Ludovit Klein",Featherweight,7,2,1,1784.87,1784.87
+2094,"William Knight","Light Heavyweight",3,4,0,1557.34,1642.87
+2095,"Danilo Marques","Light Heavyweight",2,2,0,1540.95,1597.26
+2096,"Cameron Else",Bantamweight,0,2,0,1451.39,1500
+2097,"Dusko Todorovic",Middleweight,3,5,0,1507.55,1564.66
+2098,"Nassourdine Imavov",Middleweight,9,2,0,2002.32,2002.32
+2099,"Jordan Williams",Middleweight,0,3,0,1439.32,1500
+2100,"Dricus Du Plessis",Middleweight,9,0,0,2089.3,2089.3
+2101,"Alan Baudot",Heavyweight,1,3,0,1487.1,1535.49
+2102,"Ilia Topuria",Featherweight,8,0,0,2008.03,2008.03
+2103,"KB Bhullar",Middleweight,0,2,0,1459.82,1500
+2104,"Stephanie Egger","Women's Bantamweight",3,4,0,1549.69,1608.97
+2105,"Tagir Ulanbekov",Flyweight,5,1,0,1717.45,1717.45
+2106,"Guram Kutateladze",Lightweight,2,3,0,1532.59,1559.46
+2107,"Mateusz Gamrot",Lightweight,7,3,0,1901.53,1927.82
+2108,"Mark Striegl",Bantamweight,0,2,0,1472.92,1500
+2109,"Phil Hawes",Middleweight,4,4,0,1563.1,1649.27
+2110,"Jacob Malkoun",Middleweight,4,3,0,1657.78,1657.78
+2111,"Liliya Shakirova","Women's Flyweight",0,1,0,1486.39,1500
+2112,"Shavkat Rakhmonov",Welterweight,7,0,0,1965.97,1965.97
+2113,"Miranda Maverick","Women's Flyweight",8,3,0,1770.93,1770.93
+2114,"Charlie Ontiveros",Middleweight,0,3,0,1448.65,1500
+2115,"Adrian Yanez",Bantamweight,6,3,0,1689.83,1725.59
+2116,"Victor Rodriguez",Bantamweight,0,2,0,1451.2,1500
+2117,"Kevin Natividad",Bantamweight,0,3,0,1436.4,1500
+2118,"Jamey Simmons",Featherweight,0,2,0,1461.14,1500
+2119,"Ramiz Brahimaj",Welterweight,3,3,0,1597.29,1597.29
+2120,"Cory McKenna","Women's Strawweight",3,3,0,1558.01,1621.94
+2121,"Kanako Murata","Women's Strawweight",1,2,0,1518.89,1562.8
+2122,"Jared Gooden",Welterweight,2,5,0,1529.16,1552.19
+2123,"Dustin Stoltzfus",Middleweight,3,5,0,1597.08,1597.08
+2124,"Sasha Palatnikov",Welterweight,1,2,0,1494.88,1550
+2125,"Louis Cosce",Welterweight,0,2,0,1461,1500
+2126,"Josh Parisian",Heavyweight,2,5,0,1477.01,1546.65
+2127,"Jordan Leavitt",Lightweight,4,3,0,1611.76,1639.3
+2128,"Sam Hughes","Women's Strawweight",5,5,0,1649.19,1649.19
+2129,"Tafon Nchukwi",Middleweight,2,4,0,1492.81,1579.83
+2130,"Jamie Pickett",Middleweight,2,7,0,1447.39,1565.26
+2131,"Jimmy Flick",Flyweight,2,3,0,1529.45,1550
+2132,"Joselyne Edwards","Women's Bantamweight",5,4,0,1616.45,1639.53
+2133,"Gaetano Pirrello",Bantamweight,0,2,0,1471.88,1500
+2134,"Francisco Figueiredo",Flyweight,2,2,0,1537.08,1559.96
+2135,"Mason Jones",Lightweight,1,3,0,1498.67,1519.87
+2136,"Umar Nurmagomedov",Bantamweight,6,1,0,1818.78,1829.98
+2137,"Sergey Morozov",Bantamweight,3,2,0,1620.56,1620.56
+2138,"Manon Fiorot","Women's Flyweight",7,0,0,1885.59,1885.59
+2139,"Victoria Leonardo","Women's Flyweight",1,4,0,1462.93,1505.4
+2140,"Michael Chandler",Lightweight,2,4,0,1664.93,1672.73
+2141,"Manel Kape",Flyweight,6,3,0,1756.25,1756.25
+2142,"Phil Rowe",Welterweight,3,3,0,1632.89,1656.7
+2143,"Casey O'Neill","Women's Flyweight",5,2,0,1690.74,1690.74
+2144,"Drako Rodriguez",Bantamweight,0,2,0,1451.42,1500
+2145,"Jared Vanderaa",Heavyweight,1,6,0,1448.71,1533.95
+2146,"Ronnie Lawrence",Bantamweight,2,2,0,1541.93,1597.26
+2147,"Carlos Ulberg","Light Heavyweight",8,1,0,1912.84,1912.84
+2148,"Uros Medic",Lightweight,4,3,0,1656.1,1687.28
+2149,"Marcelo Rojo",Featherweight,0,3,0,1441.3,1500
+2150,"Rafa Garcia",Lightweight,4,4,0,1662.04,1674.11
+2151,"Gloria de Paula","Women's Strawweight",1,3,0,1478.32,1505.63
+2152,"Montserrat Conejo Ruiz","Women's Strawweight",1,3,0,1477.52,1550
+2153,"Cheyanne Vlismas","Women's Strawweight",2,2,0,1546.37,1571.32
+2154,"Harry Hunsucker",Heavyweight,0,3,0,1446.45,1500
+2155,"Jesse Strader",Bantamweight,0,2,0,1459.35,1500
+2156,"JP Buys",Flyweight,0,4,0,1417.84,1500
+2157,"Fabio Cherant","Light Heavyweight",0,3,0,1435.21,1500
+2158,"Ignacio Bahamondes",Lightweight,6,2,0,1776.71,1776.71
+2159,"Luis Saldana",Featherweight,2,1,1,1566.66,1566.66
+2160,"Loopy Godinez","Women's Strawweight",7,5,0,1716.8,1769.93
+2161,"Dakota Bush",Lightweight,0,2,0,1454.2,1500
+2162,"Pat Sabatini",Featherweight,6,2,0,1709.77,1709.77
+2163,Rongzhu,Lightweight,2,3,0,1534.41,1534.41
+2164,"Jeff Molina",Flyweight,3,0,0,1627.16,1627.16
+2165,Aoriqileng,Flyweight,3,5,0,1535.99,1579.02
+2166,"Liang Na","Women's Strawweight",0,4,0,1413.63,1500
+2167,"Luana Pinheiro","Women's Strawweight",3,3,0,1601.63,1656.52
+2168,"Carlston Harris",Welterweight,4,3,0,1652.81,1690.36
+2169,"Tucker Lutz",Featherweight,1,3,0,1493.11,1558.45
+2170,"Chris Barnett",Heavyweight,2,3,0,1571.76,1590.21
+2171,"Shayilan Nuerdanbieke",Featherweight,3,3,0,1564.78,1623.21
+2172,"Juancamilo Ronderos",Flyweight,0,2,0,1458.28,1500
+2173,"Rafael Alves",Lightweight,1,3,0,1514.76,1553.59
+2174,"Gregory Rodrigues",Middleweight,7,3,0,1770.52,1786.16
+2175,"Kamuela Kirk",Featherweight,1,2,0,1520.68,1575.52
+2176,"Tabatha Ricci","Women's Flyweight",6,3,0,1760.29,1782.07
+2177,"Terrance McKinney",Lightweight,6,4,0,1662.14,1662.14
+2178,"Jeremiah Wells",Welterweight,4,2,0,1680.87,1734.9
+2179,"Kris Moutinho",Bantamweight,0,2,0,1464.93,1500
+2180,"Preston Parsons",Welterweight,2,4,0,1533.45,1591.09
+2181,"Elise Reed","Women's Flyweight",4,4,0,1615.93,1615.93
+2182,"Melsik Baghdasaryan",Featherweight,3,2,0,1590.88,1610.02
+2183,"Collin Anglin",Featherweight,0,2,0,1457.13,1500
+2184,"Orion Cosce",Welterweight,1,2,0,1495.68,1524.2
+2185,"Melissa Gatto","Women's Flyweight",3,2,0,1606.03,1608.46
+2186,"Saidyokub Kakhramonov",Bantamweight,2,1,0,1595.94,1611.75
+2187,"Josiane Nunes","Women's Bantamweight",3,3,0,1548.36,1633.95
+2188,"Bryan Battle",Middleweight,8,1,0,1827.47,1827.47
+2189,"Gilbert Urbina",Middleweight,1,2,0,1507.86,1532.03
+2190,"Ricky Turcios",Bantamweight,2,3,0,1510.53,1565.33
+2191,"Brady Hiestand",Bantamweight,3,1,0,1632.85,1632.85
+2192,"Andre Petroski",Middleweight,8,2,0,1777.79,1777.79
+2193,"Micheal Gillmore",Middleweight,0,2,0,1453.24,1500
+2194,"Vanessa Demopoulos","Women's Flyweight",5,3,0,1655.75,1687.07
+2195,"Mana Martinez",Bantamweight,2,2,0,1544.93,1571.47
+2196,"Paddy Pimblett",Lightweight,6,0,0,1860.16,1860.16
+2197,"Liudvik Sholinian",Bantamweight,0,2,0,1460.96,1500
+2198,"Mandy Bohm","Women's Flyweight",1,2,0,1506.8,1506.8
+2199,"Brandon Jenkins",Lightweight,0,2,0,1462.99,1500
+2200,"Erin Blanchfield","Women's Flyweight",7,1,0,1875.68,1875.68
+2201,"Nick Maximov",Middleweight,2,2,0,1553.18,1605.06
+2202,"Cody Brundage",Middleweight,5,6,0,1610.01,1612.4
+2203,"Martin Sano",Welterweight,0,1,0,1480.18,1500
+2204,"Mike Breeden",Lightweight,1,3,0,1509.81,1509.81
+2205,"Silvana Gomez Juarez","Women's Strawweight",1,3,0,1486.5,1502.52
+2206,"Erick Gonzalez",Lightweight,0,3,0,1450.99,1500
+2207,"Istela Nunes","Women's Strawweight",0,4,0,1412,1500
+2208,"David Onama",Lightweight,5,2,0,1697.39,1697.39
+2209,"Maria Oliveira","Women's Strawweight",1,3,0,1480.27,1528.08
+2210,"Daniel Lacerda",Flyweight,0,6,0,1376.79,1500
+2211,"Zviad Lazishvili",Bantamweight,0,1,0,1484.54,1500
+2212,"Albert Duraev",Middleweight,2,2,0,1571.95,1588.34
+2213,"Benoit Saint Denis",Welterweight,5,3,0,1729.12,1750.09
+2214,"Allan Nascimento",Flyweight,2,1,0,1583.95,1583.95
+2215,"Alex Pereira",Middleweight,9,2,0,1989.8,2013.92
+2216,"Chris Curtis",Middleweight,5,5,0,1694.37,1733.68
+2217,"Ian Machado Garry",Welterweight,8,1,0,1879.35,1903.28
+2218,"Bruno Souza",Featherweight,0,2,0,1456.75,1500
+2219,"CJ Vergara",Flyweight,3,4,0,1529.64,1585.17
+2220,"Natan Levy",Lightweight,2,2,0,1547.32,1568.32
+2221,"Darian Weeks",Welterweight,0,3,0,1440.48,1500
+2222,"Viacheslav Borshchev",Lightweight,3,4,1,1554.55,1580.56
+2223,"Joanderson Brito",Featherweight,5,2,0,1726.96,1760.6
+2224,"Joseph Holmes",Middleweight,1,3,0,1480.67,1523.74
+2225,"Andre Fialho",Welterweight,2,5,0,1542.11,1599.77
+2226,"Michael Morales",Welterweight,5,0,0,1829.6,1829.6
+2227,"Victor Henry",Bantamweight,3,3,0,1644.25,1669.98
+2228,"Jack Della Maddalena",Welterweight,7,0,0,1922.03,1922.03
+2229,"Pete Rodriguez",Welterweight,1,2,0,1504.84,1529.65
+2230,"Saimon Oliveira",Bantamweight,0,2,0,1455.99,1500
+2231,"Genaro Valdez",Lightweight,0,3,0,1431.61,1500
+2232,"Jasmine Jasudavicius","Women's Flyweight",7,2,0,1773.91,1773.91
+2233,"Tresean Gore",Middleweight,2,2,0,1556.52,1556.52
+2234,"Chidi Njokuani",Middleweight,5,3,0,1699.48,1699.48
+2235,"Jailton Almeida","Light Heavyweight",8,1,0,1912.86,1912.86
+2236,"Denys Bondar",Flyweight,0,3,0,1432.89,1500
+2237,"AJ Dobson",Middleweight,1,3,0,1501.75,1516.69
+2238,"Blood Diamond",Welterweight,0,3,0,1433.38,1500
+2239,"Nikolas Motta",Lightweight,3,3,0,1596.33,1596.33
+2240,"Chad Anheliger",Bantamweight,2,3,0,1522.38,1549.14
+2241,"Christian Rodriguez",Featherweight,5,2,0,1686.54,1686.54
+2242,"Jay Perrin",Bantamweight,0,3,0,1433.83,1500
+2243,"Armen Petrosyan",Middleweight,3,4,0,1560.48,1627.53
+2244,"Ramona Pascual","Women's Featherweight",0,3,0,1434.65,1500
+2245,"Carlos Hernandez",Flyweight,3,3,0,1567.36,1567.36
+2246,"Victor Altamirano",Flyweight,2,4,0,1491.89,1569.1
+2247,"AJ Fletcher",Welterweight,1,3,0,1498.01,1513.65
+2248,"Javid Basharat",Bantamweight,4,2,0,1647.19,1694.35
+2249,"Azamat Murzakanov","Light Heavyweight",4,0,0,1753.29,1753.29
+2250,"Muhammad Mokaev",Flyweight,7,0,0,1809.44,1809.44
+2251,"Aliaskhab Khizriev",Middleweight,2,0,0,1619.51,1619.51
+2252,"Denis Tiuliulin",Middleweight,1,5,0,1460.24,1533.7
+2253,"Josh Fremd",Middleweight,2,4,0,1521.34,1556.07
+2254,"Mike Malott",Welterweight,4,1,0,1693.69,1693.69
+2255,"Piera Rodriguez","Women's Strawweight",3,2,0,1609.86,1609.86
+2256,"Daniel Santos",Bantamweight,2,1,0,1601.82,1601.82
+2257,"Caio Borralho",Middleweight,7,0,0,1871.3,1871.3
+2258,"Gadzhi Omargadzhiev",Middleweight,0,2,0,1453.58,1500
+2259,"Ange Loosa",Welterweight,2,3,0,1533.34,1570.94
+2260,"Martin Buday",Heavyweight,5,1,0,1706.73,1706.73
+2261,"Trey Ogden",Lightweight,4,3,0,1629.44,1650.11
+2262,"Evan Elder",Welterweight,2,2,0,1548.96,1548.96
+2263,"Dean Barry",Welterweight,0,1,0,1471.45,1500
+2264,"Yohan Lainesse",Welterweight,1,3,0,1476.77,1525.55
+2265,"Cameron VanCamp",Welterweight,0,2,0,1455.09,1500
+2266,"Kleydson Rodrigues",Flyweight,1,3,0,1488.24,1527.06
+2267,"Fernie Garcia",Bantamweight,0,4,0,1408.26,1500
+2268,"Manuel Torres",Lightweight,3,1,0,1629.41,1652.92
+2269,"Jake Hadley",Flyweight,3,4,0,1550.76,1581.52
+2270,"Tatsuro Taira",Flyweight,6,1,0,1738.51,1759.6
+2271,"Carlos Candelario",Flyweight,0,2,0,1449.89,1500
+2272,"Lucas Almeida",Featherweight,2,3,0,1548.92,1574.48
+2273,"Karine Silva","Women's Flyweight",4,1,0,1691.09,1716.62
+2274,"Askar Mozharov","Light Heavyweight",0,1,0,1485.01,1500
+2275,"Dan Argueta",Featherweight,3,3,0,1580.04,1647.93
+2276,"Rinat Fakhretdinov",Welterweight,5,0,1,1781.03,1781.03
+2277,Maheshate,Lightweight,2,3,0,1542.21,1569.12
+2278,"Natalia Silva","Women's Flyweight",6,0,0,1816.43,1816.43
+2279,"Garrett Armfield",Featherweight,2,3,0,1529.62,1585.92
+2280,"Emily Ducote","Women's Strawweight",2,3,0,1554.74,1574.58
+2281,"Charles Johnson",Flyweight,6,5,0,1665.88,1700.58
+2282,"Hamdy Abdelwahab",Heavyweight,1,1,0,1542.51,1542.51
+2283,"Adam Fugitt",Welterweight,2,2,0,1562.04,1562.04
+2284,"Ihor Potieria","Light Heavyweight",2,6,0,1506.15,1569.99
+2285,"Mohammed Usman",Heavyweight,3,2,0,1575.77,1637.6
+2286,"Zac Pauga",Heavyweight,1,3,0,1479.59,1528.16
+2287,"Juliana Miller","Women's Flyweight",1,2,0,1493.25,1550
+2288,"Brogan Walker","Women's Flyweight",0,2,0,1450,1500
+2289,"Yazmin Jauregui","Women's Strawweight",3,2,0,1579.51,1610.28
+2290,"Iasmin Lucindo","Women's Strawweight",4,2,0,1703.61,1722.29
+2291,"Lukasz Brzeski",Heavyweight,1,5,0,1473.32,1500
+2292,"Josh Quinlan","Catch Weight",1,3,0,1477.24,1557.48
+2293,"Da'Mon Blackshear",Bantamweight,4,3,1,1661.36,1661.36
+2294,"William Gomis",Featherweight,4,1,0,1670.3,1702.62
+2295,"Jarno Errens",Featherweight,1,3,0,1493.85,1511.62
+2296,"Abus Magomedov",Middleweight,3,2,0,1656.06,1656.06
+2297,"Michal Figlak",Lightweight,0,2,0,1457.77,1500
+2298,"Gabriel Miranda",Lightweight,1,2,0,1506.26,1531.4
+2299,"Cristian Quinonez",Bantamweight,1,2,0,1520.97,1553.72
+2300,"Ailin Perez","Women's Featherweight",5,1,0,1732.87,1732.87
+2301,"Anton Turkalj","Catch Weight",0,4,0,1423.92,1500
+2302,"Danyelle Wolf","Women's Featherweight",0,1,0,1484.05,1500
+2303,"Melissa Martinez","Women's Strawweight",1,1,0,1525.62,1525.62
+2304,"Joe Pyfer",Middleweight,4,1,0,1710.66,1710.66
+2305,"Denise Gomes","Women's Strawweight",4,2,0,1680.1,1680.1
+2306,"Daniel Zellhuber",Lightweight,3,2,0,1623.16,1651.83
+2307,"Don Shainis",Featherweight,0,2,0,1467.07,1500
+2308,"Chelsea Chandler","Catch Weight",2,2,0,1576.07,1599.94
+2309,"Lucas Alexander",Featherweight,1,3,0,1486.31,1541.95
+2310,"Waldo Cortes-Acosta",Heavyweight,6,1,0,1778.78,1778.78
+2311,"Carlos Mota",Flyweight,0,1,0,1478.03,1500
+2312,"Joshua Weems",Bantamweight,0,1,0,1473.76,1500
+2313,"Tamires Vidal","Women's Bantamweight",1,3,0,1474.97,1543.78
+2314,"Tereza Bleda","Women's Flyweight",1,1,0,1528.77,1528.77
+2315,"Francis Marshall",Featherweight,2,3,0,1522.25,1547.04
+2316,"Raul Rosas Jr.",Bantamweight,4,1,0,1655.22,1655.22
+2317,"Erik Silva",Featherweight,0,2,0,1464.57,1500
+2318,"Cameron Saaiman",Bantamweight,3,2,0,1580.41,1638.67
+2319,"Steven Koslow",Bantamweight,0,1,0,1475,1500
+2320,"Alessandro Costa",Flyweight,2,2,0,1560.97,1560.97
+2321,"Mateus Mendonca",Bantamweight,0,3,0,1445.68,1500
+2322,"Claudio Ribeiro",Middleweight,1,3,0,1493.9,1535.58
+2323,"Mateusz Rebecki",Lightweight,4,1,0,1691.71,1691.71
+2324,"Nick Fiore",Lightweight,0,2,0,1456.46,1500
+2325,"Nick Aguirre",Featherweight,0,2,0,1450.73,1500
+2326,"Brunno Ferreira",Middleweight,4,2,0,1660.8,1660.8
+2327,"Melquizael Costa",Lightweight,3,2,0,1666.54,1666.54
+2328,"Gabriel Bonfim",Welterweight,4,1,0,1724.54,1724.54
+2329,"Luan Lacerda",Bantamweight,0,2,0,1463.21,1500
+2330,"Ismael Bonfim",Lightweight,2,2,0,1595.97,1622.29
+2331,"Daniel Marcos",Bantamweight,5,0,0,1767.41,1767.41
+2332,"Yusaku Kinoshita",Welterweight,0,2,0,1450.48,1500
+2333,"Anshul Jubli",Lightweight,1,2,0,1491.41,1550
+2334,"Jeka Saragih",Lightweight,1,2,0,1504.13,1534.52
+2335,"JeongYeong Lee",Featherweight,2,1,0,1567.32,1596.35
+2336,Yizha,Featherweight,0,2,0,1449.48,1500
+2337,"Rinya Nakamura",Bantamweight,3,1,0,1593.37,1623.39
+2338,"Toshiomi Kazama",Bantamweight,1,2,0,1503.78,1503.78
+2339,"HyunSung Park",Flyweight,2,0,0,1585.82,1585.82
+2340,"SeungGuk Choi",Flyweight,0,1,0,1475,1500
+2341,"Jesus Aguilar",Flyweight,3,2,0,1582.2,1611.25
+2342,"Shannon Ross",Flyweight,0,3,0,1430.8,1500
+2343,"Francisco Prado",Lightweight,1,3,0,1519.17,1548.61
+2344,"Jack Jenkins",Featherweight,3,2,0,1587.03,1619.05
+2345,"Blake Bilder",Featherweight,1,2,0,1501.41,1554.47
+2346,"Elves Brener",Lightweight,3,2,0,1603.98,1652.3
+2347,"Jamal Pogues",Heavyweight,2,2,0,1542.03,1573.66
+2348,"Nazim Sadykhov",Lightweight,3,0,1,1656.53,1656.53
+2349,"Khusein Askhabov",Featherweight,0,1,0,1475.63,1500
+2350,"Themba Gorimbo",Welterweight,4,2,0,1689.8,1698.54
+2351,"Clayton Carpenter",Flyweight,2,1,0,1571.93,1590.63
+2352,"Trevor Peek",Lightweight,2,3,0,1513.18,1565.39
+2353,"Gabriella Fernandes","Women's Flyweight",2,2,0,1564.43,1564.43
+2354,"Victor Martinez",Lightweight,0,2,0,1456.69,1500
+2355,"Carl Deaton",Lightweight,0,2,0,1461.7,1500
+2356,"Nurullo Aliev",Lightweight,2,0,0,1624.34,1624.34
+2357,"Bo Nickal",Middleweight,4,0,0,1711.74,1711.74
+2358,"Farid Basharat",Bantamweight,4,0,0,1690.52,1690.52
+2359,"Loik Radzhabov",Lightweight,2,2,0,1548.81,1571.41
+2360,"Esteban Ribovics",Lightweight,3,2,0,1644.46,1657.79
+2361,"Vitor Petrino","Light Heavyweight",4,2,0,1664.93,1703.25
+2362,"Karl Williams",Heavyweight,3,1,0,1611.53,1642.69
+2363,"Sedriques Dumas",Middleweight,3,2,0,1594.1,1594.1
+2364,"Chris Duncan",Lightweight,4,1,0,1658.52,1658.52
+2365,"Yanal Ashmouz",Lightweight,2,1,0,1577.74,1577.74
+2366,"Sam Patterson",Lightweight,3,1,0,1624.99,1624.99
+2367,"Jafel Filho",Flyweight,2,1,0,1593.91,1593.91
+2368,"Gabriel Santos",Featherweight,2,2,0,1582.86,1582.86
+2369,"Christian Leroy Duncan",Middleweight,4,2,0,1640.85,1640.85
+2370,"Vinicius Salvador",Flyweight,0,3,0,1446.31,1500
+2371,"Jaqueline Amorim","Women's Strawweight",3,1,0,1659.97,1659.97
+2372,"Bruna Brasil","Women's Strawweight",2,3,0,1552.06,1581.41
+2373,"Gaston Bolanos",Bantamweight,2,1,0,1565.83,1565.83
+2374,"Junior Tafa",Heavyweight,2,3,0,1555.45,1555.45
+2375,"Fernando Padilla",Featherweight,2,2,0,1577.87,1591
+2376,"Trey Waters",Welterweight,2,0,0,1606.48,1606.48
+2377,"Irina Alekseeva","Women's Bantamweight",1,1,0,1535.55,1565.19
+2378,"Marcus McGhee","Catch Weight",4,0,0,1706.25,1706.25
+2379,"Jamey-Lyn Horth","Women's Bantamweight",2,2,0,1560.23,1573.91
+2380,"Hailey Cowan","Women's Bantamweight",0,1,0,1475,1500
+2381,"Diego Lopes",Featherweight,5,1,0,1842.98,1842.98
+2382,"Rolando Bedoya",Welterweight,0,3,0,1450.84,1500
+2383,"Braxton Smith",Heavyweight,0,1,0,1479.47,1500
+2384,"Ikram Aliskerov",Middleweight,2,1,0,1629.66,1633.7
+2385,"Tainara Lisboa","Women's Bantamweight",2,0,0,1600.55,1600.55
+2386,"Jesse Butler",Lightweight,0,2,0,1473.1,1500
+2387,"Ketlen Souza","Women's Flyweight",2,2,0,1574.03,1590.14
+2388,"Muin Gafurov",Bantamweight,2,2,0,1612.76,1612.76
+2389,"Muhammad Naimov",Lightweight,4,1,0,1668.69,1677.68
+2390,"Steve Erceg",Flyweight,3,2,0,1642.53,1673.1
+2391,"Austen Lane",Heavyweight,2,3,0,1533.47,1562.95
+2392,"Joshua Van",Flyweight,6,1,0,1727.94,1727.94
+2393,"Chepe Mariscal",Lightweight,5,0,0,1759.75,1759.75
+2394,"Nursulton Ruziboev",Middleweight,3,1,0,1638.27,1638.27
+2395,"Westin Wilson",Featherweight,1,2,0,1519.25,1519.25
+2396,"Ivana Petrovic","Women's Flyweight",1,2,0,1498.7,1523.68
+2397,"Val Woodburn",Middleweight,0,2,0,1455.18,1500
+2398,"Edgar Chairez","Catch Weight",2,2,0,1533.94,1555.97
+2399,"Terrence Mitchell",Bantamweight,0,2,0,1459.78,1500
+2400,"Bassil Hafez",Welterweight,1,2,0,1537.25,1559.09
+2401,"Viktoriia Dudakova","Women's Strawweight",2,2,0,1525.97,1583.21
+2402,"Azat Maksum",Flyweight,1,1,0,1533.04,1562.18
+2403,"Jonny Parsons",Welterweight,1,0,0,1570.77,1570.77
+2404,"Mick Parkin",Heavyweight,4,1,0,1671.81,1684.01
+2405,"Shauna Bannon","Women's Strawweight",2,1,0,1579.76,1579.76
+2406,"Daniel Barez",Flyweight,1,2,0,1512.87,1530.52
+2407,"Darrius Flowers",Welterweight,0,3,0,1458.06,1500
+2408,"Dennis Buzukja",Featherweight,1,3,0,1490.22,1516.88
+2409,"Asu Almabayev",Flyweight,4,1,0,1692.75,1718.8
+2410,"Isaac Dulgarian",Featherweight,2,1,0,1576.88,1576.88
+2411,"Jose Johnson",Bantamweight,1,3,0,1487.73,1534.18
+2412,"Luana Santos","Women's Flyweight",3,1,0,1621.97,1647.54
+2413,"Billy Ray Goff",Welterweight,1,1,0,1522.07,1546.21
+2414,"Bogdan Guskov","Light Heavyweight",3,1,0,1655.96,1655.96
+2415,"Yanis Ghemmouri",Featherweight,0,2,0,1465.47,1500
+2416,"Morgan Charriere",Featherweight,2,2,0,1567.95,1579.75
+2417,"Manolo Zecchini",Featherweight,0,1,0,1475,1500
+2418,"Caolan Loughran",Bantamweight,2,2,0,1566.19,1566.19
+2419,"Nora Cornolle","Women's Bantamweight",2,1,0,1591.41,1617.66
+2420,"Jacqueline Cavalcanti","Catch Weight",4,0,0,1692.06,1692.06
+2421,"Felipe dos Santos",Flyweight,1,3,0,1499.05,1543.51
+2422,"Landon Quinones",Lightweight,0,2,0,1464.93,1500
+2423,"Charles Radtke",Welterweight,3,1,0,1622.76,1622.76
+2424,"Kevin Jousset",Welterweight,2,2,0,1561.94,1611.18
+2425,"Kiefer Crosbie",Welterweight,0,2,0,1453.86,1500
+2426,"Charlie Campbell",Lightweight,2,0,0,1600.53,1600.53
+2427,"Josefine Knutsson","Women's Strawweight",2,1,0,1565.09,1592.85
+2428,"Marnic Mann","Women's Strawweight",0,2,0,1450.3,1500
+2429,"Montserrat Rendon","Women's Bantamweight",1,1,0,1527.26,1556.27
+2430,"Ravena Oliveira","Women's Bantamweight",0,1,0,1479.2,1500
+2431,"Brendon Marotte",Lightweight,0,2,0,1461.08,1500
+2432,"Melissa Mullins","Women's Bantamweight",2,1,0,1579.95,1579.95
+2433,"Mohammad Yahya",Lightweight,0,2,0,1451.89,1500
+2434,"Shara Magomedov",Middleweight,4,1,0,1682.95,1717.11
+2435,"Kaynan Kruschewsky","Catch Weight",0,2,0,1457.6,1500
+2436,"Eduarda Moura","Women's Strawweight",2,1,0,1594.71,1594.71
+2437,"Kaue Fernandes",Lightweight,2,1,0,1587.19,1587.19
+2438,"Kevin Borjas",Flyweight,0,2,0,1455.72,1500
+2439,"Payton Talbott",Bantamweight,3,1,0,1614.92,1638.27
+2440,"Myktybek Orolbai",Welterweight,2,1,0,1607.83,1632.02
+2441,"Caio Machado",Heavyweight,0,3,0,1438.66,1500
+2442,"Rafael Estevam",Flyweight,2,0,0,1612.6,1612.6
+2443,"Zachary Reese",Middleweight,2,2,0,1556.19,1587.35
+2444,"Rodolfo Bellato","Light Heavyweight",1,0,1,1557.14,1557.14
+2445,"Talita Alencar","Women's Strawweight",1,1,0,1521.43,1550
+2446,"Rayanne dos Santos","Women's Strawweight",0,2,0,1451.8,1500
+2447,"Shamil Gaziev",Heavyweight,3,1,0,1665.16,1665.16
+2448,"Jean Silva",Featherweight,4,0,0,1731.34,1731.34
+2449,"Tom Nolan",Lightweight,3,1,0,1618.54,1618.54
+2450,"Felipe Bunes",Flyweight,1,1,0,1535.92,1535.92
+2451,"Ramon Taveras",Bantamweight,1,1,0,1534.28,1550
+2452,"Serhiy Sidey",Bantamweight,1,1,0,1537.08,1537.08
+2453,"MarQuel Mederos",Lightweight,1,0,0,1548.44,1548.44
+2454,"Thomas Petersen",Heavyweight,1,2,0,1525.99,1545.23
+2455,"Robert Bryczek",Middleweight,0,1,0,1476.54,1500
+2456,"Carlos Prates",Welterweight,4,0,0,1780.05,1780.05
+2457,"Bolaji Oki",Lightweight,1,1,0,1527.45,1550
+2458,"Timmy Cuamba",Lightweight,0,2,0,1454.11,1500
+2459,"Hyder Amil",Featherweight,3,0,0,1662.51,1662.51
+2460,"Carlos Vera",Bantamweight,1,1,0,1533.76,1533.76
+2461,"Zhang Mingyang","Light Heavyweight",2,0,0,1592.85,1592.85
+2462,"Brendson Ribeiro","Light Heavyweight",2,2,0,1553.12,1553.12
+2463,"Danny Barlow",Welterweight,2,1,0,1569.57,1596.36
+2464,"Oban Elliott",Welterweight,3,0,0,1646.93,1646.93
+2465,"Ronaldo Rodriguez",Flyweight,2,0,0,1595.55,1595.55
+2466,"Bekzat Almakhan",Bantamweight,0,1,0,1489.36,1500
+2467,"Vinicius Oliveira",Bantamweight,3,0,0,1700.03,1700.03
+2468,"Benardo Sopaj",Bantamweight,1,1,0,1534.27,1534.27
+2469,"AJ Cunningham",Lightweight,0,2,0,1465.89,1500
+2470,"Abdul-Kareem Al-Selwady",Lightweight,0,1,0,1476.8,1500
+2471,"Michael Page",Welterweight,2,1,0,1651.97,1651.97
+2472,"Robelis Despaigne",Heavyweight,1,2,0,1507.76,1550.31
+2473,"Danny Silva",Featherweight,2,0,0,1617.81,1617.81
+2474,"Mitch Ramirez",Lightweight,0,1,0,1488.83,1500
+2475,"Charalampos Grigoriou",Bantamweight,0,2,0,1448.16,1500
+2476,"Luis Pajuelo",Featherweight,0,1,0,1478.42,1500
+2477,"Steven Nguyen",Featherweight,0,1,0,1471.79,1500
+2478,"Daria Zhelezniakova","Women's Bantamweight",1,1,0,1538.5,1558.03
+2479,"Andre Lima",Flyweight,4,0,0,1671.1,1671.1
+2480,"Igor Severino",Flyweight,0,1,0,1475,1500
+2481,"Connor Matthews",Featherweight,0,2,0,1449.22,1500
+2482,"Ibo Aslan","Light Heavyweight",2,1,0,1566.7,1586.11
+2483,"Angel Pacheco",Bantamweight,0,1,0,1473.82,1500
+2484,"Valter Walker",Heavyweight,2,1,0,1594.09,1594.09
+2485,"Victor Hugo",Bantamweight,1,1,0,1532.35,1550
+2486,"Pedro Falcao",Bantamweight,0,1,0,1475,1500
+2487,"Jean Matsumoto",Bantamweight,2,1,0,1614.57,1623.96
+2488,"Cesar Almeida",Middleweight,3,1,0,1645.77,1645.77
+2489,"Dylan Budka",Middleweight,0,3,0,1453.41,1500
+2490,"Kayla Harrison","Women's Bantamweight",2,0,0,1663.86,1663.86
+2491,"Jhonata Diniz",Heavyweight,2,1,0,1607.72,1617.62
+2492,"Chris Padilla",Lightweight,3,0,0,1643.19,1643.19
+2493,"James Llontop",Lightweight,0,3,0,1437.84,1500
+2494,"Mauricio Ruffy",Lightweight,3,0,0,1691.99,1691.99
+2495,"Dione Barbosa","Women's Flyweight",1,1,0,1536.1,1550
+2496,"Ernesta Kareckaite","Women's Flyweight",1,1,0,1528.59,1528.59
+2497,"Oumar Sy","Light Heavyweight",2,0,0,1610.26,1610.26
+2498,"Tuco Tokkos","Light Heavyweight",0,2,0,1451.8,1500
+2499,"Mitch Raposo",Flyweight,0,1,0,1478.57,1500
+2500,"Puja Tomar","Women's Strawweight",1,1,0,1520.01,1546.41
+2501,"Carli Judice","Women's Flyweight",1,1,0,1525.64,1525.64
+2502,"Julia Polastri","Women's Strawweight",1,1,0,1544.18,1544.18
+2503,"Antonio Trocoli",Middleweight,0,2,0,1457.77,1500
+2504,"Felipe Lima",Featherweight,2,0,0,1641.29,1641.29
+2505,"Magomed Gadzhiyasulov","Light Heavyweight",1,1,0,1518.09,1546.41
+2506,"ChangHo Lee",Bantamweight,1,0,0,1550,1550
+2507,"Xiao Long",Bantamweight,1,1,0,1527.56,1527.56
+2508,"Rei Tsuruya",Flyweight,1,1,0,1541.54,1556.97
+2509,"Fatima Kline","Women's Flyweight",1,1,0,1545.73,1545.73
+2510,"Alice Ardelean","Women's Strawweight",0,2,0,1448.28,1500
+2511,"Jordan Vucenic",Lightweight,0,2,0,1461.17,1500
+2512,"Nikolay Veretennikov",Welterweight,0,2,0,1455.38,1500
+2513,"Quang Le",Bantamweight,0,2,0,1466.53,1500
+2514,"Stephanie Luciano","Women's Strawweight",1,1,0,1535.66,1557.15
+2515,"Stewart Nicoll",Flyweight,0,1,0,1480.07,1500
+2516,"Ryan Loder",Middleweight,1,0,0,1550,1550
+2517,"Robert Valentin",Middleweight,0,1,0,1475,1500
+2518,"Mairon Santos",Featherweight,2,0,0,1599.57,1599.57
+2519,"Kaan Ofli",Featherweight,0,2,0,1461.11,1500
+2520,"Jose Daniel Medina",Middleweight,0,1,0,1478.12,1500
+2521,"Wang Cong","Women's Flyweight",2,1,0,1579.01,1579.01
+2522,"Nathan Fletcher",Featherweight,1,1,0,1522.17,1550
+2523,"Zygimantas Ramaska",Featherweight,0,1,0,1475,1500
+2524,"Ivan Erslan","Light Heavyweight",0,1,0,1484.16,1500
+2525,"Ramazan Temirov",Flyweight,2,0,0,1627.78,1627.78
+2526,"Sean Sharaf",Heavyweight,0,1,0,1475.46,1500
+2527,"Cody Haddon",Bantamweight,1,0,0,1565.7,1565.7
+2528,"Lucas Rocha",Flyweight,0,1,0,1478.39,1500
+2529,"Cameron Smotherman",Bantamweight,1,0,0,1561.52,1561.52
+2530,"Rafael Cerqueira","Light Heavyweight",0,2,0,1463.87,1500
+2531,"Carlos Leal",Welterweight,1,1,0,1576.91,1576.91
+2532,"Reinier de Ridder",Middleweight,2,0,0,1667.17,1667.17
+2533,"Cortavious Romious",Bantamweight,0,1,0,1476.33,1500
+2534,"Mansur Abdul-Malik",Middleweight,2,0,0,1597.18,1597.18
+2535,"Zachary Scroggin",Welterweight,0,1,0,1492.07,1500
+2536,"Klaudia Sygula","Women's Bantamweight",0,1,0,1477.51,1500
+2537,"Roberto Romero",Lightweight,0,1,0,1486.35,1500
+2538,"Ozzy Diaz","Light Heavyweight",1,1,0,1531.65,1531.65
+2539,"SuYoung You",Bantamweight,2,0,0,1590.94,1590.94
+2540,"Baergeng Jieleyisi",Bantamweight,0,1,0,1475,1500
+2541,"DongHun Choi",Flyweight,1,0,0,1550,1550
+2542,"Kiru Sahota",Flyweight,0,1,0,1475,1500
+2543,"Shi Ming","Women's Strawweight",1,0,0,1550,1550
+2544,"Feng Xiaocan","Women's Strawweight",0,1,0,1475,1500
+2545,"Nyamjargal Tumendemberel",Flyweight,0,1,0,1476.46,1500
+2546,"Lone'er Kavanagh",Flyweight,2,0,0,1595.98,1595.98
+2547,"Jose Ochoa",Flyweight,0,1,0,1475,1500
+2548,"Kai Asakura",Flyweight,0,1,0,1496.3,1500
+2549,"Navajo Stirling","Light Heavyweight",1,0,0,1546.41,1546.41
+2550,"Austin Bashi",Featherweight,0,1,0,1485.63,1500
+2551,"Marco Tulio",Middleweight,1,0,0,1554.81,1554.81
+2552,"Jacobe Smith",Welterweight,1,0,0,1558.96,1558.96
+2553,"Nicolle Caliari","Women's Flyweight",0,1,0,1473.2,1500
+2554,"Bruno Lopes","Light Heavyweight",1,0,0,1556.64,1556.64
+2555,"Azamat Bekoev",Middleweight,1,0,0,1562.31,1562.31
+2556,"Billy Elekana","Light Heavyweight",0,1,0,1483.5,1500
+2557,"Bogdan Grad",Featherweight,1,0,0,1551.75,1551.75
+2558,"Tallison Teixeira",Heavyweight,1,0,0,1561.48,1561.48
+2559,"Aleksandre Topuria",Bantamweight,1,0,0,1550,1550
+2560,"Colby Thicknesse",Bantamweight,0,1,0,1475,1500
+2561,"Kody Steele",Lightweight,0,1,0,1473.69,1500
+2562,"Jonathan Micallef",Welterweight,1,0,0,1563.14,1563.14
+2563,"Quillan Salkilld",Lightweight,1,0,0,1552.54,1552.54
+2564,"Jose Delgado",Featherweight,1,0,0,1546.01,1546.01
+2565,"Elijah Smith",Bantamweight,1,0,0,1557.08,1557.08
+2566,"Julius Walker","Light Heavyweight",0,1,0,1490.33,1500
+2567,"Nick Klein",Middleweight,0,1,0,1478.93,1500
+2568,"Austin Vanderford","Catch Weight",1,0,0,1546.96,1546.96
+2569,"Eric McConico",Middleweight,0,1,0,1482.18,1500
+2570,"Mario Pinto",Heavyweight,1,0,0,1558.96,1558.96
+2571,"Djorden Santos",Middleweight,0,1,0,1473.46,1500
+2572,"Diyar Nurgozhay","Light Heavyweight",0,1,0,1475.26,1500
+2573,"Kevin Vallejos",Featherweight,1,0,0,1559.74,1559.74
+2574,"Josias Musasa",Bantamweight,0,1,0,1473.64,1500
+2575,"Yuneisy Duben","Women's Flyweight",0,1,0,1472.96,1500
+2576,"Alexia Thainara","Women's Strawweight",1,0,0,1566.8,1566.8
+2577,"Andrey Pulyaev",Middleweight,0,1,0,1482.37,1500
